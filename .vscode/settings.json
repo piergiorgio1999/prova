@@ -1,0 +1,36 @@
+{
+  "latex-workshop.latex.recipe.default": "latexmk (lualatex)",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.outDir": "%DIR%",
+  "latex-workshop.message.error.show": true,
+  "latex-workshop.message.warning.show": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1500,
+  "workbench.editor.enablePreview": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk-lualatex",
+      "command": "latexmk",
+      "args": [
+        "-lualatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-halt-on-error",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (lualatex)",
+      "tools": [
+        "latexmk-lualatex"
+      ]
+    }
+  ],
+  "latex-workshop.synctex.afterBuild.enabled": true,
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+  "latex-workshop.latex.autoClean.run": "never"
+}
