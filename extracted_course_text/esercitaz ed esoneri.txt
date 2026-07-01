@@ -1,0 +1,2107 @@
+                       ESEMPIO: CALCOLO CALORE DISSIPATO
+                                                                     Risoluzione
+
+Un tubo in cui passa del vapore d’acqua ha un diametro di 50mm e la temperatura sulla sua
+superficie esterna e pari a 178 ◦C (si assume costante la temperatura su tutto lo spessore del tubo). Il
+tubo è ricoperto di un materiale di rivestimento con uno spessore di 50 mm. La conduttività termica
+del materiale di rivestimento varia con la temperatura secondo la seguente relazione:
+
+
+                                             𝑘𝑘 = 0,767 + 1.33 � 10−3 � 𝑇𝑇
+
+                                           con T espressa in ◦C e k in Kcal/(hꞏm ꞏ ◦C)
+
+                La temperatura sulla superficie esterna del rivestimento sia pari a 38 ◦C.
+
+      CALCOLARE, IN CONDIZIONI STAZIONARIE IL CALORE DISSIPATO PER METRO LINEARE
+             DI TUBAZIONE – Nella figura seguente la schematizzazione del sistema
+
+
+           Processi e Impianti – Applicazioni trasporto molecolare                              Scienze chimiche
+                                                          superficie 1
+                                                           A1 = 2πr1L
+
+                                                          superficie 2
+                                                           A2 = 2πr2L
+
+                                                          r1 = 25 mm
+
+                                                          r2 = 75 mm
+
+                                                          T1 = 178 °C
+
+                                                          T2 = 38 °C
+
+                                                          𝑞𝑞
+                                                              =?
+                                                          ∆𝑙𝑙
+Processi e Impianti – Applicazioni trasporto molecolare                  Scienze chimiche
+                                                                           𝑑𝑑𝑇𝑇
+                                                                 q= - 𝑘𝑘 A
+                                                                           𝑑𝑑𝑟𝑟
+
+                                                                                𝑑𝑑𝑇𝑇
+                                                              q= - 𝑘𝑘 2𝜋𝜋𝑟𝑟 ∆𝑙𝑙
+                                                                                𝑑𝑑𝑟𝑟
+                                                               𝑞𝑞 𝑑𝑑𝑑𝑑
+                                                                       = - 𝑘𝑘 2𝜋𝜋 𝑑𝑑𝑑𝑑
+                                                               ∆𝑙𝑙 𝑟𝑟
+
+                                                          𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2
+                                                             ∫        = -2𝜋𝜋 ∫     𝑘𝑘 𝑑𝑑𝑑𝑑
+                                                          ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+
+
+
+Processi e Impianti – Applicazioni trasporto molecolare                                  Scienze chimiche
+                                                                   𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2
+                                                                      ∫        = -2𝜋𝜋 ∫     𝑘𝑘 𝑑𝑑𝑑𝑑
+                                                                   ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+                                                𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2                  −3 � 𝑇𝑇) 𝑑𝑑𝑑𝑑
+                                                   ∫        = -2𝜋𝜋 ∫    (0.767 + 1.33 � 10
+                                                ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+
+                                    𝑞𝑞    𝑟𝑟                                              −3      𝑇𝑇22   𝑇𝑇12
+                                        ln 2 = -2𝜋𝜋       0.767 � (𝑇𝑇2 − 𝑇𝑇1 ) + (1.33 � 10 ) �        −
+                                    ∆𝑙𝑙   𝑟𝑟1                                                      2      2
+
+
+
+
+Processi e Impianti – Applicazioni trasporto molecolare                                            Scienze chimiche
+                                                                      𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2
+                                                                         ∫        = -2𝜋𝜋 ∫     𝑘𝑘 𝑑𝑑𝑑𝑑
+                                                                      ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+                                                𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2                  −3 � 𝑇𝑇) 𝑑𝑑𝑑𝑑
+                                                   ∫        = -2𝜋𝜋 ∫    (0.767 + 1.33 � 10
+                                                ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+
+                                    𝑞𝑞    𝑟𝑟                                                −3    𝑇𝑇22   𝑇𝑇12
+                                        ln 2 = -2𝜋𝜋       0.767 � (𝑇𝑇2 − 𝑇𝑇1 ) + (1.33 � 10 ) �        −
+                                    ∆𝑙𝑙   𝑟𝑟1                                                      2      2
+
+                                                           𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾      °𝐶𝐶         𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾         °𝐶𝐶 2
+                                                          ℎ 𝑚𝑚 °𝐶𝐶                 ℎ 𝑚𝑚 °𝐶𝐶 2
+
+
+
+
+Processi e Impianti – Applicazioni trasporto molecolare                                            Scienze chimiche
+                                                                      𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2
+                                                                         ∫        = -2𝜋𝜋 ∫     𝑘𝑘 𝑑𝑑𝑑𝑑
+                                                                      ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+                                                𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2                  −3 � 𝑇𝑇) 𝑑𝑑𝑑𝑑
+                                                   ∫        = -2𝜋𝜋 ∫    (0.767 + 1.33 � 10
+                                                ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+
+                                    𝑞𝑞    𝑟𝑟                                                −3    𝑇𝑇22   𝑇𝑇12
+                                        ln 2 = -2𝜋𝜋       0.767 � (𝑇𝑇2 − 𝑇𝑇1 ) + (1.33 � 10 ) �        −
+                                    ∆𝑙𝑙   𝑟𝑟1                                                      2      2
+
+                                                           𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾      °𝐶𝐶         𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾         °𝐶𝐶 2
+                                                          ℎ 𝑚𝑚 °𝐶𝐶                 ℎ 𝑚𝑚 °𝐶𝐶 2
+
+
+
+
+Processi e Impianti – Applicazioni trasporto molecolare                                            Scienze chimiche
+                                                                      𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2
+                                                                         ∫        = -2𝜋𝜋 ∫     𝑘𝑘 𝑑𝑑𝑑𝑑
+                                                                      ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+                                                𝑞𝑞 𝑟𝑟2 𝑑𝑑𝑑𝑑          𝑇𝑇2                  −3 � 𝑇𝑇) 𝑑𝑑𝑑𝑑
+                                                   ∫        = -2𝜋𝜋 ∫    (0.767 + 1.33 � 10
+                                                ∆𝑙𝑙 𝑟𝑟1 𝑟𝑟          𝑇𝑇1
+
+                                    𝑞𝑞    𝑟𝑟                                                −3    𝑇𝑇22   𝑇𝑇12
+                                        ln 2 = -2𝜋𝜋       0.767 � (𝑇𝑇2 − 𝑇𝑇1 ) + (1.33 � 10 ) �        −
+                                    ∆𝑙𝑙   𝑟𝑟1                                                      2      2
+
+                                                           𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾      °𝐶𝐶         𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾         °𝐶𝐶 2
+                                                          ℎ 𝑚𝑚 °𝐶𝐶                 ℎ 𝑚𝑚 °𝐶𝐶 2
+
+                                                                           𝑞𝑞
+                                                                               � 1,1= 800,6
+                                                                           ∆𝑙𝑙
+
+                                                                        𝑞𝑞        𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾
+                                                                            ≅ 728
+                                                                        ∆𝑙𝑙       ℎ 𝑚𝑚
+Processi e Impianti – Applicazioni trasporto molecolare                                            Scienze chimiche
+    ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                            Da svolgere a casa
+
+Una corrente gassosa è costituita da un componente inerte (stagnante) di PM pari a 29 e da un
+composto organico con PM pari a 44 che deve essere recuperato. Per farlo si utilizza dell’olio non
+volatile (con PM pari a 300) in una colonna a riempimento con anelli Rashig da 1 pollice.
+La corrente gassosa entrante (V1) contiene 20 moli % di idrocarburo e nella colonna deve esserne
+rimosso il 95% mentre l’olio di lavaggio entra in colonna privo dell’idrocarburo.
+La portata di gas entrante è pari a 24.400 Kg h-1 mentre quella dell’olio è pari a 48.800 Kg h-1.
+
+
+
+            CALCOLARE IL NUMERO DI UNITÀ DI TRASFERIMENTO NOG
+                    NECESSARIO PER LA SEPARAZIONE
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                   Procedimento
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2)
+• Costruire il diagramma y-x sul quale riportare la curva di equilibrio (solubilità del composto
+  organico nell’olio non volatile) secondo l’espressione:
+
+                                                     𝑦𝑦 = 0,7 � 𝑥𝑥2 − 0,009 � 𝑥𝑥
+• Costruire quindi la curva di lavoro utilizzando i seguenti dati:
+
+                                   x           0         0,0307       0,1325   0,271   0,383   0,472
+                                   y        0,0124        0,02         0,05     0,10    0,15    0,20
+
+• Determinare il valore di NOG calcolando l’integrale:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI V1 e y1:
+
+                      V1= 24.400 Kg h-1 = 24.400 Kg h-1 / 32 Kg Kmol-1 = 762.50 Kmol h-1
+
+
+
+
+                      y1 = 0.20 mola moltot-1
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI V1 e y1:
+
+                      V1= 24.400 Kg h-1 = 24.400 Kg h-1 / 32 Kg Kmol-1 = 762.50 Kmol h-1
+
+
+                   PMGAS= 0.20 mola moltot-1 x 44 g mola-1 + 0.80 molb moltot-1 x 29 g molb-1 = 32 g moltot-1
+
+                      y1 = 0.20 mola moltot-1
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI L2 :
+
+
+                     L2= 48.800 Kg h-1 = 48.800 Kg h-1 / 300 Kg Kmol-1 = 162.67 Kmol h-1
+
+                      x2 = 0 mola moltot-1
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI V2:
+
+                        V1,b = V2,b = 762.50 Kmol h-1 x 0.80 Kmolb Kmoltot-1 = 610 Kmolb h-1
+                        V1,a = 762.50 Kmol h-1 x 0.20 Kmola Kmoltot-1 = 152.50 Kmola h-1
+                        V2,a = 0.05 x 152.50 Kmola h-1 = 7.625 Kmola h-1
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI V2:
+
+                        V1,b = V2,b = 762.50 Kmol h-1 x 0.80 Kmolb Kmoltot-1 = 610 Kmolb h-1
+                        V1,a = 762.50 Kmol h-1 x 0.20 Kmola Kmoltot-1 = 152.50 Kmola h-1
+                        V2,a = 0.05 x 152.50 Kmola h-1 = 7.625 Kmola h-1
+
+                       V2 = V2,b + V2,a= (7.625 + 610) Kmoltot h-1 = 617.625 Kmoltot h-1
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                    Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI y2
+
+                      BILANCIO COMPONENTE INERTE:
+
+                       V1 (1 - Y1) = V2 (1 - Y2)                              (1 – Y2) = V1 (1 – Y1) / V2
+
+                        y2 = 0.01235 mola moltot-1
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                     Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+  uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2):
+
+                         V1, V2, L1, L2 = ?                        a  composto organico; b  componente inerte
+                          y1, y2, x1, x2 = ?
+
+                      CALCOLO DI L1 e x1:
+
+
+                            V1 + L2 = V2 + L1                                     BILANCIO TOTALE DI MATERIA
+
+                                                                                  BILANCIO DI MATERIA RIFERITO AL
+                             V1 y1 + L2 x2= V2 y2 + L1 x1                         COMMPONENTE a
+
+
+                          L1 = 307.545 Kmol h-1
+                          x1 = 0.471 mola moltot-1
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                                             Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Costruire sul diagramma y-x la curva di equilibrio (solubilità del composto organico nell’olio non
+  volatile) e la curva di lavoro:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                        Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Costruire sul diagramma y-x la curva di equilibrio (solubilità del composto organico nell’olio non
+  volatile) e la curva di lavoro:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                        Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Determinare il valore di NOG calcolando l’integrale:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido           Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Determinare il valore di NOG calcolando l’integrale:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido           Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Determinare il valore di NOG calcolando l’integrale:
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido           Scienze chimiche
+     ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Risoluzione
+
+• Determinare il valore di NOG calcolando l’integrale:
+
+
+
+
+                                                                                  NOG = 5
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                     Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                 Da svolgere a casa
+
+Una miscela di due composti organici di portata molare totale pari a 12 Kmol h-1 deve essere
+separata mediante distillazione in una colonna a piatti operante a pressione atmosferica. La
+composizione della miscela di alimentazione è pari a zF= 0.350 (espressa come frazione molare del
+componente più volatile). Le specifiche di separazione richieste sono xD= 0.960 e xB= 0.04.
+L’alimentazione viene immessa in colonna alla sua temperatura di ebollizione pari a Teb feed = 108
+℃ (liquido saturo).
+ La curva di equilibrio liquido-vapore della miscela è stata ricavata sperimentalmente e i dati
+ corrispondenti sono i seguenti:
+
+
+
+
+            Processi e Impianti – Distillazione in colonne a piatti                         Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                  Da svolgere a casa
+
+Il rapporto di riflusso ottimale EOTT viene assunto pari al 50% maggiore del rapporto di riflusso minimo
+(calcolabile al punto di pinch)
+
+
+CALCOLARE:
+
+1. Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna
+2. La portata oraria della corrente di riflusso
+3. Il numero minimo di stadi teorici richiesto per la separazione utilizzando il metodo grafico di
+   McCabe-Thiele
+4. Il numero di stadi teorici richiesto per la separazione utilizzando il metodo grafico di
+   McCabe-Thiele (ripetere il calcolo assumendo che l’alimentazione sia al 50% come vapore
+   saturo e al 50% come liquido saturo)
+5. La portata in m3 h-1 di acqua industriale di raffreddamento, da inviare al condensatore totale
+   di testa, sapendo che entra alla temperatura di 18 ℃ e che subisce un salto termico di 12 ℃ .
+
+
+             Processi e Impianti – Distillazione in colonne a piatti                             Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                          Dati noti per lo svolgimento
+
+
+
+Sono noti i seguenti dati:
+
+•   Temperatura ebollizione dell’alimentazione: TFeed = 108 ℃
+•   Temperatura ebollizione del distillato: TD = 82 ℃
+•   Temperatura ebollizione del corpo di fondo: TB = 118 ℃
+•   Calore specifico della miscela a qualsiasi composizione cp medio = 48 kcal/kmol ℃
+•   Calore latente di evap.ne/cond.ne della miscela a qualunque composizione HV = 32540 kJ/kmol
+
+
+
+
+             Processi e Impianti – Distillazione in colonne a piatti                        Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                 Da svolgere a casa
+
+Una miscela di due composti organici di portata molare totale pari a 12 Kmol h-1 deve essere
+separata mediante distillazione in una colonna a piatti operante a pressione atmosferica. La
+composizione della miscela di alimentazione è pari a zF= 0.350 (espressa come frazione molare del
+componente più volatile). Le specifiche di separazione richieste sono xD= 0.960 e xB= 0.04.
+L’alimentazione viene immessa in colonna alla sua temperatura di ebollizione pari a Teb feed = 108
+℃ (liquido saturo).
+ La curva di equilibrio liquido-vapore della miscela è stata ricavata sperimentalmente e i dati
+ corrispondenti sono i seguenti:
+
+
+
+
+            Processi e Impianti – Distillazione in colonne a piatti                         Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                  Da svolgere a casa
+
+Il rapporto di riflusso ottimale EOTT viene assunto pari al 50% maggiore del rapporto di riflusso minimo
+(calcolabile al punto di pinch)
+
+
+CALCOLARE:
+
+1. Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna
+2. La portata oraria della corrente di riflusso
+3. Il numero minimo di stadi teorici richiesto per la separazione utilizzando il metodo grafico di
+   McCabe-Thiele
+4. Il numero di stadi teorici richiesto per la separazione utilizzando il metodo grafico di
+   McCabe-Thiele (ripetere il calcolo assumendo che l’alimentazione sia al 50% come vapore
+   saturo e al 50% come liquido saturo)
+5. La portata in m3 h-1 di acqua industriale di raffreddamento, da inviare al condensatore totale
+   di testa, sapendo che entra alla temperatura di 18 ℃ e che subisce un salto termico di 12 ℃ .
+
+
+             Processi e Impianti – Distillazione in colonne a piatti                             Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                          Dati noti per lo svolgimento
+
+
+
+Sono noti i seguenti dati:
+
+•   Temperatura ebollizione dell’alimentazione: TFeed = 108 ℃
+•   Temperatura ebollizione del distillato: TD = 82 ℃
+•   Temperatura ebollizione del corpo di fondo: TB = 118 ℃
+•   Calore specifico della miscela a qualsiasi composizione cp medio = 48 kcal/kmol ℃
+•   Calore latente di evap.ne/cond.ne della miscela a qualunque composizione HV = 32540 kJ/kmol
+
+
+
+
+             Processi e Impianti – Distillazione in colonne a piatti                        Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+1. Calcolo delle portate orarie di distillato (D) e di corpo di fondo (B) in uscita dalla colonna
+
+                                                   DATI NOTI (frazioni molari riferite al componente più volatile):
+
+                                                    F = 12 Kmol h-1
+                                                    ZF = 0.350
+                                                    XD = 0.960
+                                                    XB = 0.04
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                                          Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+1. Calcolo delle portate orarie di distillato (D) e di corpo di fondo (B) in uscita dalla colonna
+
+                                                   CALCOLO di D e B:
+
+
+                                                    F=D+B                          BILANCIO TOTALE DI MATERIA
+
+
+                                                     F z F = D xD + B xB           BILANCIO DI MATERIA RIFERITO AL
+                                                                                   COMMPONENTE PIÙ VOLATILE
+
+
+
+                                                   D = 4.04 Kmol h-1
+                                                   B = 7.96 Kmol h-1
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                                              Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                 Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                 Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                 Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+                                                                          PUNTO DI PINCH
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                         Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+                            Y = XD /( EMIN + 1)
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                 Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+
+2. Calcolo della portata oraria della corrente di riflusso (L0= ?)
+
+
+
+
+                                                                                          EMIN = 1.37
+
+                            Y = XD /( EMIN + 1)
+                                                                                          EOTT = 2.05
+
+
+
+
+                                                                         EOTT = L0/D   L0 = 8.28 Kmol h-1
+           Processi e Impianti – Distillazione in colonne a piatti                                          Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+3. Calcolo del numero minimo di stadi teorici richiesto per la separazione utilizzando il metodo
+   grafico di McCabe-Thiele
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                      Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+3. Calcolo del numero minimo di stadi teorici richiesto per la separazione utilizzando il metodo
+   grafico di McCabe-Thiele
+
+
+
+
+                                                                                   E=∞
+                                                                                   NMIN = 6
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                            Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici richiesto per la separazione utilizzando il metodo grafico
+   di McCabe-Thiele
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                       Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici richiesto per la separazione utilizzando il metodo grafico
+   di McCabe-Thiele
+
+
+
+
+                                                                                   N = 11
+
+                                     Y = XD /( EOTT + 1)
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                          Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici  ripetere il calcolo assumendo che l’alimentazione sia al
+   50% come vapore saturo e al 50% come liquido saturo
+
+
+
+
+                                                                                  𝐻𝐻𝑉𝑉 − 𝐻𝐻𝐹𝐹 0.5 𝜆𝜆
+                                                                             𝑖𝑖 =             =      = 0.5
+                                                                                  𝐻𝐻𝑉𝑉 − 𝐻𝐻𝐿𝐿   𝜆𝜆
+                                                                                𝑖𝑖    0.5
+                                                                                   =        = −1
+                                                                             𝑖𝑖 − 1 0.5 − 1
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                                           Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici  ripetere il calcolo assumendo che l’alimentazione sia al
+   50% come vapore saturo e al 50% come liquido saturo
+
+
+
+
+                                                                          PUNTO DI PINCH
+
+
+
+
+                                                                                           EMIN = 1.90
+                                                                                           EOTT = 2.85
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                                       Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici  ripetere il calcolo assumendo che l’alimentazione sia al
+   50% come vapore saturo e al 50% come liquido saturo
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                      Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                     Risoluzione
+4. Calcolo del numero di stadi teorici  ripetere il calcolo assumendo che l’alimentazione sia al
+   50% come vapore saturo e al 50% come liquido saturo
+
+
+
+
+                                                                                   N = 10
+
+
+
+
+           Processi e Impianti – Distillazione in colonne a piatti                          Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                    Risoluzione
+5. Calcolo della portata in m3 h-1 di acqua industriale di raffreddamento, da inviare al
+   condensatore totale di testa, sapendo che entra alla temperatura di 18 ℃ e che subisce un
+   salto termico di 12 ℃ ( W = ?)
+
+
+
+
+          Processi e Impianti – Distillazione in colonne a piatti                     Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                    Risoluzione
+5. Calcolo della portata in m3 h-1 di acqua industriale di raffreddamento, da inviare al
+   condensatore totale di testa, sapendo che entra alla temperatura di 18 ℃ e che subisce un
+   salto termico di 12 ℃ ( W = ?)
+
+                                                            qC = V1 𝐇𝐇𝐕𝐕 = 𝐋𝐋𝟎𝟎 + 𝐃𝐃 𝐇𝐇𝐕𝐕 = 𝐖𝐖 𝐜𝐜𝐜𝐜 ∆𝐓𝐓
+
+                                                            qC = V1 𝐇𝐇𝐕𝐕 = 𝐋𝐋𝟎𝟎 + 𝐃𝐃 𝐇𝐇𝐕𝐕 = 𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒. 𝟖𝟖 𝐊𝐊𝐊𝐊 h−1
+
+                                                            𝐖𝐖 = 𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒. 𝟖𝟖𝟖𝟖𝟖𝟖 h−1 /(𝟒𝟒. 𝟏𝟏𝟏𝟏 𝐊𝐊𝐊𝐊 𝐊𝐊𝐊𝐊−1 °𝐂𝐂−1 x 12 ∘C)
+
+
+
+
+          Processi e Impianti – Distillazione in colonne a piatti                                                       Scienze chimiche
+ESERCITAZIONE NUMERICA: DISTILLAZIONE IN COLONNE A PIATTI
+                                                                    Risoluzione
+5. Calcolo della portata in m3 h-1 di acqua industriale di raffreddamento, da inviare al
+   condensatore totale di testa, sapendo che entra alla temperatura di 18 ℃ e che subisce un
+   salto termico di 12 ℃ ( W = ?)
+
+                                                            qC = V1 𝐇𝐇𝐕𝐕 = 𝐋𝐋𝟎𝟎 + 𝐃𝐃 𝐇𝐇𝐕𝐕 = 𝐖𝐖 𝐜𝐜𝐜𝐜 ∆𝐓𝐓
+
+                                                            qC = V1 𝐇𝐇𝐕𝐕 = 𝐋𝐋𝟎𝟎 + 𝐃𝐃 𝐇𝐇𝐕𝐕 = 𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒. 𝟖𝟖 𝐊𝐊𝐊𝐊 h−1
+
+                                                            𝐖𝐖 = 𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒𝟒. 𝟖𝟖𝟖𝟖𝟖𝟖 h−1 /(𝟒𝟒. 𝟏𝟏𝟏𝟏 𝐊𝐊𝐊𝐊 𝐊𝐊𝐊𝐊−1 °𝐂𝐂−1 x 12 ∘C)
+
+
+                                                            𝐖𝐖 = 𝟕𝟕𝟕𝟕𝟕𝟕𝟕𝟕. 𝟐𝟐𝟐𝟐 𝐊𝐊𝐊𝐊 h−1 = 7.992 𝐦𝐦𝟑𝟑 h−1
+
+
+
+          Processi e Impianti – Distillazione in colonne a piatti                                                       Scienze chimiche
+  ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE
+                  LIQUIDO-LIQUIDO
+I dati di equilibrio del sistema ternario acqua/acetone/clorobenzene sono riportati nella
+tabella seguente:
+
+
+
+
+        Processi e Impianti – Esercitazione estrazione con solvente                 Scienze chimiche
+    ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE
+                    LIQUIDO-LIQUIDO
+a). Costruire il diagramma triangolare delle composizioni riportando la lacuna di miscibilità e le rette
+    coniugate (usare A per acetone, B per clorobenzene e C per acqua)
+b). Calcolare il contenuto di acqua e di clorobenzene del “raffinato” e dell’ ”estratto” con una
+    concentrazione di acetone pari al 45%
+c). Che quantità di acetone deve essere aggiunto ad una miscela di 90 Kg di acqua e 110 Kg di
+    clorobenzene per ottenere una singola fase?
+d). Calcolare la concentrazione della miscela binaria ottenuta in c da cui viene totalmente rimossa
+    acqua
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+
+
+           Processi e Impianti – Esercitazione estrazione con solvente                            Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+a). Costruire il diagramma triangolare delle composizioni riportando la lacuna di miscibilità e le rette
+    coniugate (usare A per acetone, B per clorobenzene e C per acqua)
+
+
+
+
+           Processi e Impianti – Esercitazione estrazione con solvente                           Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+a). Costruire il diagramma triangolare delle composizioni riportando la lacuna di miscibilità e le rette
+    coniugate (usare A per acetone, B per clorobenzene e C per acqua)
+
+
+
+
+           Processi e Impianti – Esercitazione estrazione con solvente                           Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+b). Calcolare il contenuto di acqua e di clorobenzene del “raffinato” e dell’ ”estratto” con una
+    concentrazione di acetone pari al 45%
+
+
+
+
+          Processi e Impianti – Esercitazione estrazione con solvente                    Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+b). Calcolare il contenuto di acqua e di clorobenzene del “raffinato” e dell’ ”estratto” con una
+    concentrazione di acetone pari al 45%
+
+
+
+
+          Processi e Impianti – Esercitazione estrazione con solvente                    Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+b). Calcolare il contenuto di acqua e di clorobenzene del “raffinato” e dell’ ”estratto” con una
+    concentrazione di acetone pari al 45%
+
+                                                                        ESTRATTO (E):
+                                                                        ACETONE (A) = 45%
+                                                                        ACQUA (C) = 52.5%
+                                                                        CLOROBENZENE (B) = 2.5%
+
+
+                                                                        RAFFINATO (R):
+                                                                        ACETONE (A) = 45%
+                                                                        ACQUA (C) = 2.5%
+                                                                        CLOROBENZENE (B) = 52.5%
+
+          Processi e Impianti – Esercitazione estrazione con solvente                              Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+c). Che quantità di acetone deve essere aggiunto ad una miscela di 90 Kg di acqua e 110 Kg di
+    clorobenzene per ottenere una singola fase?
+                                                                       ACQUA (C) = 90 Kg
+                                                                       CLOROBENZENE (B) = 110 Kg
+                                                                       ACETONE (A)= ?
+
+
+
+
+         Processi e Impianti – Esercitazione estrazione con solvente                               Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+c). Che quantità di acetone deve essere aggiunto ad una miscela di 90 Kg di acqua e 110 Kg di
+    clorobenzene per ottenere una singola fase?
+                                                                       ACQUA (C) = 90 Kg
+                                                                       CLOROBENZENE (B) = 110 Kg
+                                                                       ACETONE (A)= ?
+
+                                                                       XC = 90/200 = 0.45  D PUNTO RAPPRESENTATIVO
+
+
+
+
+         Processi e Impianti – Esercitazione estrazione con solvente                                              Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+c). Che quantità di acetone deve essere aggiunto ad una miscela di 90 Kg di acqua e 110 Kg di
+    clorobenzene per ottenere una singola fase?
+                                                                       ACQUA (C) = 90 Kg
+                                                                       CLOROBENZENE (B) = 110 Kg
+                                                                       ACETONE (A)= ?
+
+                                                                       XC = 90/200 = 0.45  D PUNTO RAPPRESENTATIVO
+                                                                       • SI CONGINGE IL PUNTO D CON IL PUNTO A E SI
+                                                                       IDENTIFICA IL PUNTO F (rappresentativo di una singola fase)
+                                                                       • La quantità di acetone si ricava con la regola della leva:
+
+
+                                                                               200    FA
+                                                                                    =               Acetone ≅ 319 Kg
+                                                                             acetone FD
+
+         Processi e Impianti – Esercitazione estrazione con solvente                                                        Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+d). Calcolare la concentrazione della miscela binaria ottenuta in c da cui viene totalmente rimossa
+    acqua
+
+
+
+
+          Processi e Impianti – Esercitazione estrazione con solvente                       Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+d). Calcolare la concentrazione della miscela binaria ottenuta in c da cui viene totalmente rimossa
+    acqua
+
+
+                                                                        COMPOSIZIONE MISCELA F PRIVA DI SOLVENTE:
+                                                                        ACETONE (A)= 75%
+                                                                        CLOROBENZENE (B) = 25%
+
+
+
+
+          Processi e Impianti – Esercitazione estrazione con solvente                                               Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+
+                                                                         MISCELA BINARIA (L0): A + B (50%)
+                                                                         l0 = 100 Kg/h
+                                                                         v0 = 50 Kg/h
+                                                                         L2 = ?
+
+
+
+
+           Processi e Impianti – Esercitazione estrazione con solvente                                       Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+                                                                          MISCELA BINARIA (L0): A + B (50%)
+
+                                                                          l0 = 100 Kg/h
+
+                                                                          v0 = 50 Kg/h
+
+                                                                          L2 = ?
+
+
+                                                                         I STADIO
+                                                                         𝑳𝑳𝟎𝟎 + 𝑽𝑽𝟎𝟎 = 𝐿𝐿1 + 𝑉𝑉1 = ∑𝟏𝟏
+                                                                         POSIZIONAMENTO ∑𝟏𝟏 ∶
+
+
+                                                                          𝑣𝑣0   50   Σ1 𝐿𝐿0
+                                                                              =    =
+                                                                          𝑙𝑙0 100 Σ1 𝑉𝑉0
+           Processi e Impianti – Esercitazione estrazione con solvente                                        Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+                                                                          MISCELA BINARIA (L0): A + B (50%)
+
+                                                                          l0 = 100 Kg/h
+
+                                                                          v0 = 50 Kg/h
+
+                                                                          L2 = ?
+
+
+                                                                         I STADIO
+                                                                         𝑳𝑳𝟎𝟎 + 𝑽𝑽𝟎𝟎 = 𝐿𝐿1 + 𝑉𝑉1 = ∑𝟏𝟏
+
+                                                                         𝑣𝑣1 Σ1 𝐿𝐿1 3.1
+                                                                            =      =    = 0.86  v1 = 0.86 l1
+                                                                         𝑙𝑙1 Σ1 𝑉𝑉1 3.6
+                                                                         𝑙𝑙1 + 𝑣𝑣1 = 𝑙𝑙0 + 𝑣𝑣0  1.86 l1 = 150 Kg/h  l1 ≅ 81 Kg/h
+
+           Processi e Impianti – Esercitazione estrazione con solvente                                                  Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+                                                                          MISCELA BINARIA (L0): A + B (50%)
+
+                                                                          l0 = 100 Kg/h
+
+                                                                          v0 = 50 Kg/h
+
+                                                                          L2 = ?
+
+
+                                                                          II STADIO
+                                                                         𝐿𝐿1 + 𝑉𝑉0 = 𝐿𝐿2 + 𝑉𝑉2 = ∑2
+                                                                         POSIZIONAMENTO ∑𝟐𝟐 ∶
+
+                                                                         𝑣𝑣0 Σ2 𝐿𝐿1
+                                                                            =
+                                                                         𝑙𝑙1 Σ2 𝑉𝑉0
+           Processi e Impianti – Esercitazione estrazione con solvente                                        Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+                                                                          MISCELA BINARIA (L0): A + B (50%)
+
+                                                                          l0 = 100 Kg/h
+
+                                                                          v0 = 50 Kg/h
+
+                                                                          L2 = ?
+
+
+                                                                         II STADIO
+                                                                         𝐿𝐿1 + 𝑉𝑉0 = 𝐿𝐿2 + 𝑉𝑉2 = ∑2
+
+                                                                         𝑣𝑣2  Σ 𝐿𝐿   3.9
+                                                                             = 2 2 = = 1.11  v2 = 1.11 l1
+                                                                         𝑙𝑙2  Σ2 𝑉𝑉2 3.5
+
+                                                                         𝑙𝑙1 + 𝑣𝑣0 = 𝑙𝑙2 + 𝑣𝑣2  2.11 l2 = 131 Kg/h    l2 ≅ 62 Kg/h
+           Processi e Impianti – Esercitazione estrazione con solvente                                                     Scienze chimiche
+ESERCITAZIONE NUMERICA: ESTRAZIONE CON SOLVENTE LIQUIDO-LIQUIDO
+                           Risoluzione
+
+e). Data una miscela binaria di acetone e clorobenzene al 50% con una portata di 100 Kg/h,
+    calcolare la composizione del raffinato risultante da due stadi estrattivi a correnti incrociate se la
+    portata di acqua (solvente estraente) fosse pari a 50 Kg/h in ogni stadio.
+                                                                         MISCELA BINARIA (L0): A + B (50%)
+
+                                                                         l0 = 100 Kg/h
+
+                                                                         v0 = 50 Kg/h
+
+                                                                         L2 = ?
+
+
+                                                                         COMPOSIZIONE L2:
+
+                                                                         ACETONE (A)= 23.5%
+                                                                         ACQUA (C)= 1%
+                                                                         CLOROBENZENE (B) = 75.5%
+
+
+           Processi e Impianti – Esercitazione estrazione con solvente                                       Scienze chimiche
+    ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                            Da svolgere a casa
+
+Una corrente gassosa è costituita da un componente inerte (stagnante) di PM pari a 29 e da un
+composto organico con PM pari a 44 che deve essere recuperato. Per farlo si utilizza dell’olio non
+volatile (con PM pari a 300) in una colonna a riempimento con anelli Rashig da 1 pollice.
+La corrente gassosa entrante (V1) contiene 20 moli % di idrocarburo e nella colonna deve esserne
+rimosso il 95% mentre l’olio di lavaggio entra in colonna privo dell’idrocarburo.
+La portata di gas entrante è pari a 24.400 Kg h-1 mentre quella dell’olio è pari a 48.800 Kg h-1.
+
+
+
+            CALCOLARE IL NUMERO DI UNITÀ DI TRASFERIMENTO NOG
+                    NECESSARIO PER LA SEPARAZIONE
+
+
+
+
+           Processi e Impianti – Esercitazione assorbimento gas-liquido                    Scienze chimiche
+      ESERCITAZIONE NUMERICA: ASSORBIMENTO GAS-LIQUIDO
+                                                                    Procedimento
+
+•   Dai dati in ingresso e utilizzando i bilanci di materia caratterizzare tutte le correnti entranti ed
+    uscenti dalla colonna (portate e composizione di V1, V2, L1 ed L2)
+•   Costruire il diagramma y-x sul quale riportare la curva di equilibrio (solubilità del composto
+    organico nell’olio non volatile) secondo l’espressione:
+
+                                                      𝑦 = 0,7 & 𝑥2 − 0,009 & 𝑥
+•   Costruire quindi la curva di lavoro utilizzando i seguenti dati:
+
+                                    x           0         0,0307       0,1325   0,271   0,383   0,472
+                                    y        0,0124        0,02         0,05    0,10    0,15    0,20
+
+•   Determinare il valore di NOG calcolando l’integrale:
+                                                              &!
+                                                         (1 − ')#$
+                                           !!" = #      ∗            )'
+                                                  &" ( ' − ')(1 − ')
+            Processi e Impianti – Esercitazione assorbimento gas-liquido                                Scienze chimiche
+                       ESEMPIO: CALCOLO CALORE DISSIPATO
+                                                   Da svolgere a casa
+
+Un tubo in cui passa del vapore d’acqua ha un diametro di 50mm e la temperatura sulla sua
+superficie esterna e pari a 178 ◦C (si assume costante la temperatura su tutto lo spessore del tubo). Il
+tubo è ricoperto di un materiale di rivestimento con uno spessore di 50 mm. La conduttività termica
+del materiale di rivestimento varia con la temperatura secondo la seguente relazione:
+
+
+                                         𝑘𝑘 = 0,767 + 1.33 � 10−3 � 𝑇𝑇
+
+                                        con T espressa in ◦C e k in Kcal/(hꞏm ꞏ ◦C)
+
+                La temperatura sulla superficie esterna del rivestimento sia pari a 38 ◦C.
+
+      CALCOLARE, IN CONDIZIONI STAZIONARIE IL CALORE DISSIPATO PER METRO LINEARE
+             DI TUBAZIONE – Nella figura seguente la schematizzazione del sistema
+
+
+           Esercizio calore dissipato                                                           Scienze chimiche
+                             superficie 1
+                              A1 = 2πr1L
+
+                             superficie 2
+                              A2 = 2πr2L
+
+                             r1 = 25 mm
+
+                             r2 = 75 mm
+
+                             T1 = 178 °C
+
+                             T2 = 38 °C
+
+
+
+
+Esercizio calore dissipato                  Scienze chimiche
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3) A.A. 2024-2025
+
+Cognome…………………………………………… Matricola …………………………….
+
+Prova in itinere: Trasporto molecolare – turbolento – trasferimento 14/04/2025
+
+
+QUESITI TEORICI
+1. Ricavare l’espressione del flusso netto di entità tra il volume 2 e il volume 3 rappresentato di
+seguito, descrivere in dettaglio e dimensionalmente le grandezze utilizzate per la descrizione del
+flusso netto: (2 punti)
+
+
+
+
+2. Scrivere l’equazione di Fourier descrivendo il significato e la dimensione di ciascuna grandezza
+ed utilizzarla per descrivere il fenomeno della conduzione di calore in stato stazionario attraverso
+la parete di una tubazione cilindrica. (3 punti)
+3. Descrivere i termini che compongono nel caso più generico possibile il bilancio di entità riferito
+ad una porzione di volume. (2 punti)
+4. Descrivere l’esperimento di Reynolds e riassumere le principali deduzioni derivate. (2 punti)
+5. Ricavare la relazione tra numeri adimensionali che descrivono il trasporto turbolento di quantità
+di moto attraverso l’analisi del rapporto di meccanismo. Avvalersi del grafico rappresentativo per
+descrivere la relazione tra i numeri adimensionali ricavati. (3 punti)
+6. Ricavare l’equazione del trasferimento di calore considerando due fluidi che si muovono in moto
+turbolento separati da una lastra metallica piana di spessore s e conducibilità k. Rappresentare
+graficamente i profili di temperatura quando la proprietà di trasporto del fluido A è molto maggiore
+di quella del fluido B. (3 punti)
+7. Ricavare l’equazione del trasferimento di materia descrivendo il fenomeno dell’assorbimento di
+un gas in una fase liquida. Avvalersi dei grafici rappresentativi (curva di solubilità e profili di
+concentrazione) per descrivere i salti motore parziali e totali. (3 punti)
+ESERCIZIO NUMERICO 1.
+Un fluido scorre in una tubazione cilindrica del diametro di 60 mm ad una temperatura
+media di 50 °C. Il calore specifico del fluido è pari a 2594 J/ kg °C mentre la conduttività
+termica risulta 0.15 W/m °C. Alla temperatura media, la densità del fluido è pari a 1.17
+g/cm3 mentre la sua viscosità è 1.8 cP (1 Poise= 1 g/cm s). Calcolare la caduta di
+pressione per metro lineare di tubazione, la velocità puntuale del fluido ad una distanza di
+0.15 mm dalla parete della tubazione nei seguenti casi:
+   a) La portata volumetrica è 1.5 m3/d (3 punti)
+   b) La portata volumetrica è 1.5 m3/min (4 punti)
+
+
+
+
+ESERCIZIO NUMERICO 2.
+Due grandi serbatoi contenenti una miscela gassosa di a e b vengono posti in
+comunicazione mediante un tubo avente un diametro di 50 mm e una lunghezza di 1500
+mm. Sapendo che il componente a nel primo serbatoio è il 95% in moli mentre nel
+secondo è 5% in moli. La composizione della miscela è uniforme a temperatura 0°C e a 10
+atm. Sapendo che il coefficiente di diffusione molecolare vale 0.0245 cm2/s, la densità
+della miscela gassosa è 11.3 kg/m3 e la sua viscosità 0.018 cP (1 Poise = 1 g/cm s) e
+considerando un meccanismo di trasporto di materia in condizioni equi molari contrarie,
+calcolare la velocità di trasporto della specie a quando:
+   a) I fluidi sono in quiete all’interno del tubo di collegamento (3 punti)
+   b) La portata volumetrica nel tubo di collegamento è 1.5 m3/min (4 punti)
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2023-24
+​
+
+Test di autovalutazione: Estrazione con solvente
+
+DOMANDE TEORIA
+
+1. Schematizzare un processo di estrazione con solvente costituito da 4 mixer settler disposti in
+controcorrente
+
+2. a) Riportare graficamente un diagramma ternario di equilibrio in cui vi è scarsa solubilità tra il
+componente B e C e solubilità totale tra il composto A e C. b) Riportare anche il caso in cui la
+miscibilità tra A e C sia scarsa
+
+3. Descrivere graficamente e mediante la regola della leva l’operazione di somma di due miscele
+ternarie rappresentate dai punti P1 (A 10%, C 60 %, B 30%) e P2 (A 40%, C 10 %, B 50%),
+sapendo che il diagramma ternario ABC non presenta lacune di miscibilità
+
+4. Illustrare la procedura grafica da seguire per il calcolo del numero di stadi estrattivi per un
+operazione di estrazione liquido-liquido in controcorrente senza riflusso
+
+
+
+ESERCIZIO 1
+
+Si vuole purificare attraverso 3 stadi estrattivi in corrente incrociata una miscela costituita da un
+solvente B e un soluto A utilizzando un solvente C parzialmente miscibile con B. La miscela binaria
+di partenza (L0) ha una portata massica pari a 160 kg/h e una composizione in A, come frazione
+massica, pari a 0.40. Utilizzando il diagramma triangolare della miscela ternaria riportato in Figura
+1. Sapendo che la portata ottimizzata di solvente estraente (V0) è pari a 40 kg/h, Calcolare, la
+composizione e la portata di estratto e raffinato in uscita dal terzo stadio estrattivo [L1 33%A, 7 %
+C, 60 % B - V1 29% A, 64% C, 7% B- l1= 44 kg/h v1= 156 kg/h]
+
+
+
+ESERCIZIO 2
+
+Si vuole purificare una miscela costituita da un solvente B e un soluto A utilizzando un solvente C.
+La miscela binaria di partenza (L0) ha una portata massica pari a 140 kg/h e una composizione in
+A, come frazione massica, pari a 0.4. Sapendo che la portata di solvente estraente C ottimizzata è
+pari a 100 kg/h, calcolare il numero di stadi estrattivi necessari ad ottenere una miscela binaria AB
+con una composizione massica di A pari a 0.1 nei casi in cui:
+
+    a)​ il solvente C sia totalmente miscibile con il componente A (Figura 1) [3 stadi estrattivi]
+    b)​ il solvente C sia poco miscibile con il componente A (Figura 2) [4 stadi estrattivi]
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2023-24
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2023-24
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+​
+
+ESERCIZIO GUIDATO DISTILLAZIONE - 2026
+
+Una miscela costituita dal 35 % (volume/volume) di benzene (ρC6H6= 876 kg/m3; Teb 110 °C) e
+dal 65% (volume/volume) di p-xilene (ρC8H10= 861 kg/ m3; Teb 138 °C) viene inviata con una
+portata volumetrica di 1500 m3/h come miscela al 50% di vapore saturo e 50% di liquido saturo in
+una colonna di distillazione a piatti per essere separata nei suoi due componenti. Le specifiche di
+separazione richieste sono un distillato ed un corpo di fondo con una frazione molare pari a 0.96 e
+0.04, rispettivamente. Dall’analisi tecnico-economica, il rapporto di riflusso ottimale è fissato a 1.45
+volte il rapporto di riflusso minimo.
+
+    Calcolare:
+
+- Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna
+- Il numero minimo di piatti teorici richiesto per la separazione della miscela
+- Il numero di piatti teorici richiesto per la separazione utilizzando il metodo grafico di
+McCabe-Thiele
+- Conoscendo il calore latente di condensazione del distillato (20 kJ/mole), calcolare la portata
+oraria di acqua di raffreddamento da inviare al condensatore totale sapendo che la temperatura di
+ingresso dell’acqua di raffreddamento è 15°C e che questa subisce un salto termico di 45 °C. (Cp
+H2O = 4.18 kJ/kg°C)
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+​
+
+Test di autovalutazione: Distillazione
+
+DOMANDE TEORIA
+
+1. Schematizzare una colonna di distillazione a piatti avendo cura di riportare e descrivere le
+correnti in ingresso ed in uscita, scrivere le equazioni di bilancio di materi e fissare le grandezze
+note ed incognite per il dimensionamento dell’apparecchiatura.
+
+2. Dimostrare la costanza delle portate nella sezione di arricchimento ed esaurimento alla base del
+metodo grafico di McThiele, avvalersi degli opportuni bilanci e descrivere le assunzioni
+
+3. Descrivere e ricavare l’equazione della retta di freddezza, descrivere poi i diversi casi in
+funzione dello stato entalpico dell’alimentazione.
+
+4. Definire il rapporto di riflusso di una colonna di distillazione a piatti, descrivere la procedura per
+la determinazione del rapporto di riflusso minimo e la procedura per ricavare il rapporto di riflusso
+ottimale.
+
+5. Ricavare l’equazione della retta della sezione di arricchimento imponendo gli opportuni bilanci di
+materia
+
+6. Ricavare l’equazione della retta della sezione di esaurimento imponendo gli opportuni bilanci di
+materia
+
+7. Schematizzare e descrivere il bilancio di energia sull’intera colonna di distillazione
+
+8. Descrivere l’analisi tecnico economica per un’operazione di distillazione
+
+9. Illustrare mediante il grafico di equilibrio dei punti di ebollizione (diagramma a lente) la
+procedura per ricavare il diagramma di equilibrio x-y
+
+10. Descrivere il parametro di volatilità relativa e ricavare l’espressione matematica che descrive la
+curva di equilibrio liquido- vapore di una miscela binaria
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+
+ESERCIZIO 1
+
+Una miscela di composti organici con una portata massica totale di 500 kg/h viene immessa in una
+colonna di distillazione a piatti alla sua temperatura di condensazione per essere separata nei suoi
+due componenti. La percentuale in peso del composto più volatile è del 25%, si vuole ottenere un
+distillato con una frazione molare di 0.95. Sapendo che i pesi molecolari dei due composti sono
+rispettivamente 65 e 130 e sapendo che il rapporto di riflusso ottimale è fissato a 2.5 volte il
+rapporto di riflusso minimo.
+
+  Calcolare:
+
+   -​   Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna
+   -​   La portata oraria della corrente di riflusso
+   -​   Il numero di piatti teorici richiesto per la separazione utilizzando il metodo grafico di
+        McCabe-Thiele avendo a disposizione la relativa curva di equilibrio (Figura 1)
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+ESERCIZIO 2:
+
+Determinare il numero minimo di piatti teorici di separazione per la condizione di riflusso infinito nei
+casi riportati in figura 2-A e 2-B sapendo che la composizione molare percentuale del distillato che
+si vuole ottenere è 0.95. Avendo a disposizione i seguenti dati di tensione di vapore a 20 °C,
+assegnare a ciascuna figura la miscela rappresentativa.
+
+            Etanolo                           Propanolo                      Glicole Etilenico
+           0.0583 bar                          0.024 bar                         0.005 bar
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+Test di autovalutazione: Assorbimento gas liquido
+
+DOMANDE TEORIA
+
+1. Ricavare l’equazione di progetto di una colonna di assorbimento gas liquido a riempimento
+utilizzando il salto motore totale in fase gas avvalendosi della schematizzazione
+dell’apparecchiatura.
+
+2. Descrivere la procedura adottata per il calcolo del diametro della colonna avvalendosi degli
+opportuni grafici, descrivere i punti caratteristici e le equazioni adottate.
+
+3. Descrivere il significato del rapporto L/V minimo e il suo contributo alla valutazione tecnico
+economica del processo di assorbimento gas liquido. Utilizzare la rappresentazione grafica della
+curva di lavoro e della curva di solubilità per la rappresentazione del rapporto L/V minimo.
+
+4. Descrivere e le correnti in ingresso ed in uscita in una colonna di assorbimento gas liquido,
+riportare le equazioni di bilancio e fissare le grandezze note ed incognite per il dimensionamento
+dell’apparecchiatura.
+
+5. Descrivere la procedura di calcolo dell’HOG riportando le equazioni di riferimento e le
+trasformazioni per ottenere la relazione dell’HOG.
+
+6. Descrivere la procedura per il calcolo dell’HL
+
+7. Descrivere al procedura per il calcolo dell’ HG
+
+8. Descrivere la procedura per la costruzione della curva di lavoro di una colonna di assorbimento
+gas liquido, commentarne il significato mettendola a confronto con la curva di equilibrio
+
+9. Descrivere la procedura di calcolo dell’NOG mediante la risoluzione grafica dell’integrale,
+descrivere i termini che compaiono nella procedura di dimensionamento avvalendosi
+dell’opportuna tabella.
+
+10. Descrivere la procedura grafica di calcolo dell’NOG secondo l’approssimazione per sistemi
+diluiti (Backer).
+
+11. Descrivere la procedura analitica per calcolo dell’NOG secondo l’approssimazione per sistemi
+diluiti (Backer) e sulla linearità della curva di solubilità (legge di Henry)
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+
+ESERCIZIO DIMENSIONAMENTO COLONNA DI ASSORBIMENTO
+
+Una corrente gassosa contiene un composto organico che si vuole recuperare disperso in
+un gas poco solubile (stagnante). I pesi molecolari del composto organico di interesse e
+del gas poco solubile sono rispettivamente 35 e 18, la percentuale in moli di composto
+organico presente nella miscela da trattare è del 44%. Per recuperare il composto
+organico da una portata volumetrica di 4500 m3/h si vuole progettare una colonna di
+assorbimento per recuperare il 95% della massa di composto organico di interesse
+utilizzando un composto organico poco volatile avente un peso molecolare di 150. La
+pressione del gas in colonna è mantenuta costante a 1.8 bar mentre la temperatura di
+esercizio è 20°C. Il composto organico che viene immesso in testa alla colonna di
+assorbimento può essere considerato privo di composto organico disciolto dopo
+l’operazione di rigenerazione del solvente. Dall’analisi tecnico economica il rapporto L/V
+ottimale risulta 1.5. Sono note le densità del sistema gas liquido e la viscosità dell’agente
+assorbente ρV = 4.5 kg/m3 ρL = 1120 kg/m3 µL= 2 cP.
+CALCOLARE
+   -​ Schematizzare la colonna e calcolare la portata e la composizione della fase liquida
+      in uscita dalla sezione 1 della colonna di assorbimento (L1 = 545 kmol/h , x1 =
+      0.26)
+   -​ Il diametro della colonna sapendo che si utilizzano anelli Raschig da 1 pollice (a =
+      190 m2/m3, porosità ε = 0.73, gc = 1.27 *108) e imponendo un punto di lavoro
+      riducendo la velocità di massa del floading GVF del 60%. (Diametro 1.1 m)
+   -​ Il numero delle unità di trasferimento assumendo valida l’approssimazione di
+      Backer utilizzando il grafico allegato (NOG = 3)
+   -​ Il numero delle unità di trasferimento assumendo valida sia l’approssimazione di
+      Backer sia assumendo la linearità della curva di equilibrio secondo la retta y =
+      0.4663 x (NOG = 3)
+   -​ L’altezza dell’unità di trasferimento sapendo che HG pari a 2.5 metri e sapendo che
+      la curva di solubilità (β 0.00234 - n= 0.22 - Df 1.28*10−8 m2/s, approssimare la curva
+      di solubilità ad una retta avente un coefficiente angolare pari a m = 0.4663) (HOG =
+      3 m)
+   -​ L’altezza del riempimento della colonna (z = 9 m)
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+
+
+
+
+DIAGRAMMA DI COULBORN
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+
+
+
+
+                  CALCOLO NOG PER VIA GRAFICA
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-2026
+
+ESERCIZIO 1
+
+Una corrente gassosa contiene un composto organico che si vuole recuperare disperso in
+un gas poco solubile (stagnante). I pesi molecolari del composto organico di interesse e
+del gas poco solubile sono rispettivamente 35 e 18, la percentuale in moli di composto
+organico presente nella miscela da trattare è del 20%. Per recuperare il composto
+organico da una portata volumetrica di 2500 m3/h si vuole progettare una colonna di
+assorbimento per recuperare il 95% della massa di composto organico di interesse
+utilizzando un composto organico poco volatile avente un peso molecolare di 150. La
+pressione del gas in colonna è mantenuta costante a 1.8 bar mentre la temperatura di
+esercizio è 20°C. Il composto organico che viene immesso in testa alla colonna di
+assorbimento può essere considerato privo di composto organico disciolto dopo
+l’operazione di rigenerazione del solvente. Dall’analisi tecnico economica il rapporto L/V
+ottimale risulta 0.6. Sono note le densità del sistema gas liquido e la viscosità dell’agente
+assorbente ρV = 2.5 kg/m3 ρL = 1150 kg/m3 µL= 1.2 cP. Il diametro della colonna
+sapendo che si utilizzano anelli Raschig da 1 pollice (a = 250 m2/m3, porosità ε = 0.73, gc =
+1.27 *108) e imponendo un punto di lavoro riducendo la velocità di massa del floading GVF
+del 50%.
+
+
+   -​ Risolvere il bilancio di materia
+   -​ Il diametro della colonna di assorbimento
+   -​ Il numero delle unità di trasferimento mediante il metodo integrale
+   -​ Il numero di unità di trasferimento assumendo valida l’approssimazione di Backer
+      per sistemi diluiti
+   -​ Il numero di unità di trasferimento approssimando la curva di solubilità ad una retta
+      avente un coefficiente angolare pari a m = 0.709
+   -​ L’altezza dell’unità di trasferimento sapendo che HG pari a 0.55 metri
+   -​ L’altezza del riempimento della colonna
+Si conosce l’espressione matematica della curva di equilibrio
+
+y = 1.5433 x2 + 0.3317 x
+ Una corrente gassosa contiene un composto organico che si vuole recuperare disperso in un gas poco solubile (stagnante). I pesi molecolari del composto organico di interesse e del gas poco
+solubile sono rispettivamente 35 e 18, la percentuale in moli di composto organico presente nella miscela da trattare è del 20%. Per recuperare il composto organico da una portata volumetrica
+ di 2500 m3/h si vuole progettare una colonna di assorbimento per recuperare il 95% della massa di composto organico di interesse utilizzando un composto organico poco volatile avente un
+peso molecolare di 150. La pressione del gas in colonna è mantenuta costante a 1.8 bar mentre la temperatura di esercizio è 20°C. Il composto organico che viene immesso in testa alla colonna
+ di assorbimento può essere considerato privo di composto organico disciolto dopo l’operazione di rigenerazione del solvente. Dall’analisi tecnico economica il rapporto L/V ottimale risulta
+                              0.6. Sono note le densità del sistema gas liquido e la viscosità dell’agente assorbente ρV = 2.5 kg/m3 ρL = 1150 kg/m3 µL= 1.2 cP.
+
+
+
+
+             Bilancio di materia                                      Calcolo Diametro                                   Calcolo NOG Backer                                               Calcolo HOG
+PM organico                                         35 ρV (kg/m3)                                           2,5 Dal grafico NOG                                 7                                                        1,346896526
+PM stagnante                                        18 ρL (kg/m3)                                          1150                                                              Hog = HG + m V/L HL
+PM olio                                            150 µL (cP)                                            1,2    Calcolo NOG Backer - Henry
+Recupero in massa (%)                               95 µL (kg/ms )                                     0,0012 y = 0.71 x                                                     HG (m)                               0,55
+Pressione (bar)                                    1,8 av                                                 250 y1*                   0,1707594937                             m                                    0,71
+T esercizio (°C)                                    20 ε                                                 0,73 y2*                               0                            HL = β (GL/µL)n * (Sc)0.22
+V1 Portata Volumetrica (m3/h)                     2500 gc                                           127000000 y2*-y2                        -0,01                            β                                 0,00234
+V1 Portata massica (kg/h)                         4003 Riduzione GVf (%)                                   50 y1*-y1              -0,02924050633                             n                                    0,22
+V1 Portata molare (kmol/h)                         187 GL/GV                                      4,205607477                        9,577175018                             DfL                           0,000000228
+y1                                                 0,2 Ascissa Colburn                           0,1960874597                                                                Sc                            4,576659039
+1-y1                                               0,8 Ordinata Colburn                                  0,07                                                                HL (m)                       0,1767243928
+V1 organico (kmol/h)                                37 GVf (kg/m2 h)                              6192,499301                                                                HOG (m)                      0,7591238648
+V1 stagnante (kmol/h)                              150 GV (kg/m2 h)                               3096,249651
+V2 organico (kmol/h)                                 2 S (m2)                                     1,292943476
+V2 stagnante (kmol/h)                              150 D (m)                                      1,283379037
+y2                                             0,012 GL                                           13021,61068                                                                            Calcolo altezza
+1-y2                                            0,99 GV
+Rapporto L/V ottimale                            0,6                                                             PV=nRT                                                      z = HOG * NOG
+L2 (kmol/h)                                      112                                                             PV = g/PM RT
+L2 (kg/h)                                      16836                                                             g/V = P*PM/RT                                               z (m)                         5,313867053
+L1 (kmol/h)                                      148                                  PM                                             21,4
+x1                                              0,24
+(y2-y1)/(x2-x1)                         0,7802469136
+x2                                                 0
+            Bilancio di materia                          Calcolo Diametro                       Calcolo NOG Backer                         Calcolo HOG
+PM organico                              35 ρV (kg/m3)                              2,5 Dal grafico NOG                    7                                               1,346896526
+PM stagnante                             18 ρL (kg/m3)                             1150                                        Hog = HG + m V/L HL
+PM olio                                 150 µL (cP)                                  1,2    Calcolo NOG Backer - Henry
+Recupero in massa (%)                    95 µL (kg/ms )                           0,0012 y = 0.71 x                            HG (m)                               0,55
+Pressione (bar)                         1,8 av                                       250 y1*                   0,1707594937    m                                    0,71
+T esercizio (°C)                         20 ε                                       0,73 y2*                               0   HL = β (GL/µL)n * (Sc)0.22
+V1 Portata Volumetrica (m3/h)          2500 gc                                 127000000 y2*-y2                        -0,01   β                                 0,00234
+V1 Portata massica (kg/h)              4003 Riduzione GVf (%)                         50 y1*-y1              -0,02924050633    n                                    0,22
+V1 Portata molare (kmol/h)              187 GL/GV                            4,205607477 NOG                    9,577175018    DfL                           0,000000228
+y1                                      0,2 Ascissa Colburn                 0,1960874597                                       Sc                            4,576659039
+1-y1                                    0,8 Ordinata Colburn                        0,07                                       HL (m)                       0,1767243928
+V1 organico (kmol/h)                     37 GVf (kg/m2 h)                    6192,499301                                       HOG (m)                      0,7591238648
+V1 stagnante (kmol/h)                   150 GV (kg/m2 h)                     3096,249651
+V2 organico (kmol/h)                      2 S (m2)                           1,292943476
+V2 stagnante (kmol/h)                   150 D (m)                            1,283379037
+y2                                     0,012 GL                             13021,61068                                                   Calcolo altezza
+1-y2                                    0,99 GV
+Rapporto L/V ottimale                    0,6                                              PV=nRT                               z = HOG * NOG
+L2 (kmol/h)                              112                                              PV = g/PM RT
+L2 (kg/h)                              16836                                              g/V = P*PM/RT                        z (m) Integrale               4,664901153
+L1 (kmol/h)                              148                      PM                                      21,4                 z (m) Backer                  5,313867053
+x1                                      0,24                                                                                   z (m) Henry                   7,270262113
+(y2-y1)/(x2-x1)                 0,7802469136
+x2                                         0
+            Bilancio di materia
+PM organico                               35
+PM stagnante                              18
+PM olio                                  150
+Recupero in massa (%)                     95
+Pressione (bar)                          1,8
+T esercizio (°C)                          20
+V1 Portata Volumetrica (m3/h)           2500
+V1 Portata massica (kg/h)               4003
+V1 Portata molare (kmol/h)               187
+y1                                       0,2
+1-y1                                     0,8
+V1 organico (kmol/h)                      37
+V1 stagnante (kmol/h)                    150
+V2 organico (kmol/h)                       2
+V2 stagnante (kmol/h)                    150
+y2                                     0,012
+1-y2                                    0,99
+Rapporto L/V ottimale                    0,6
+L2 (kmol/h)                              112
+L2 (kg/h)                              16836
+L1 (kmol/h)                              148
+x1                                      0,24
+(y2-y1)/(x2-x1)                 0,7802469136
+x2                                         0
+ Una corrente gassosa contiene un composto organico che si vuole recuperare disperso in un gas poco solubile (stagnante). I pesi molecolari del composto organico di interesse e del gas poco
+solubile sono rispettivamente 35 e 18, la percentuale in moli di composto organico presente nella miscela da trattare è del 20%. Per recuperare il composto organico da una portata volumetrica
+ di 2500 m3/h si vuole progettare una colonna di assorbimento per recuperare il 95% della massa di composto organico di interesse utilizzando un composto organico poco volatile avente un
+peso molecolare di 150. La pressione del gas in colonna è mantenuta costante a 1.8 bar mentre la temperatura di esercizio è 20°C. Il composto organico che viene immesso in testa alla colonna
+ di assorbimento può essere considerato privo di composto organico disciolto dopo l’operazione di rigenerazione del solvente. Dall’analisi tecnico economica il rapporto L/V ottimale risulta
+                              0.6. Sono note le densità del sistema gas liquido e la viscosità dell’agente assorbente ρV = 2.5 kg/m3 ρL = 1150 kg/m3 µL= 1.2 cP.
+
+
+
+
+             Bilancio di materia                                      Calcolo Diametro                                   Calcolo NOG Backer                                               Calcolo HOG
+PM organico                                         35 ρV (kg/m3)                                           2,5 Dal grafico NOG                                 7                                                        1,346896526
+PM stagnante                                        18 ρL (kg/m3)                                          1150                                                              Hog = HG + m V/L HL
+PM olio                                            150 µL (cP)                                            1,2    Calcolo NOG Backer - Henry
+Recupero in massa (%)                               95 µL (kg/ms )                                     0,0012 y = 0.71 x                                                     HG (m)                               0,55
+Pressione (bar)                                    1,8 av                                                 250 y1*                   0,1707594937                             m                                    0,71
+T esercizio (°C)                                    20 ε                                                 0,73 y2*                               0                            HL = β (GL/µL)n * (Sc)0.22
+V1 Portata Volumetrica (m3/h)                     2500 gc                                           127000000 y2*-y2                        -0,01                            β                                 0,00234
+V1 Portata massica (kg/h)                         4003 Riduzione GVf (%)                                   50 y1*-y1              -0,02924050633                             n                                    0,22
+V1 Portata molare (kmol/h)                         187 GL/GV                                      4,205607477                        9,577175018                             DfL                           0,000000228
+y1                                                 0,2 Ascissa Colburn                           0,1960874597                                                                Sc                            4,576659039
+1-y1                                               0,8 Ordinata Colburn                                  0,07                                                                HL (m)                       0,1767243928
+V1 organico (kmol/h)                                37 GVf (kg/m2 h)                              6192,499301                                                                HOG (m)                      0,7591238648
+V1 stagnante (kmol/h)                              150 GV (kg/m2 h)                               3096,249651
+V2 organico (kmol/h)                                 2 S (m2)                                     1,292943476
+V2 stagnante (kmol/h)                              150 D (m)                                      1,283379037
+y2                                             0,012 GL                                           13021,61068                                                                            Calcolo altezza
+1-y2                                            0,99 GV
+Rapporto L/V ottimale                            0,6                                                             PV=nRT                                                      z = HOG * NOG
+L2 (kmol/h)                                      112                                                             PV = g/PM RT
+L2 (kg/h)                                      16836                                                             g/V = P*PM/RT                                               z (m)                         5,313867053
+L1 (kmol/h)                                      148                                  PM                                             21,4
+x1                                              0,24
+(y2-y1)/(x2-x1)                         0,7802469136
+x2                                                 0
+                                                             y = 0.2634*x
+
+                   NOG                                                      Y Henry         y ausiliaria     y Baecker       yeq             y          x          V = V1(1-y1)/(1-y) L = (V+L1)-V1    x = ((V*y)+(L1*x1)-(V1*y1))/L
+y1             0,2 9,074446148                                              0,0648164557    0,1845227528           0,2       0,1690455055        0,20       0,24          187,0689619              148                          0,24
+y2            0,01                                                          0,05829579484   0,1625417988     0,1811216122    0,1439619853        0,18       0,22          182,5063043              143                          0,22
+x1            0,24                                                          0,04498918308   0,1411865692     0,1619889293    0,1203842091        0,16       0,19          178,1609161              139                          0,19
+x2               0                                                          0,03131669394   0,1204886716     0,1425967782    0,09838056505       0,14       0,17           174,017639              135                          0,17
+y1*      0,1705903531                                                       0,01726302688   0,1004810958     0,1229398449    0,07802234676       0,12       0,14          170,0626927              131                          0,14
+Y2*              0                                                                 0        0,08119827922    0,103012669     0,05938388947       0,10       0,12          166,2835217              127                          0,12
+y2*-y2       -0,01                                                                          0,06267617585    0,08280963891   0,0425427128        0,08       0,09          162,6686626              123                          0,09
+y1*-y1   -0,02940964691                                                                     0,04495232904    0,06232498679   0,0275796713        0,06       0,06          159,2076272              120                          0,06
+                                                                                            0,02806594783    0,04155278273   0,01457911293       0,04       0,04          155,8908016              117                          0,04
+         -1,078737654                y          x                                           0,006172839506   0,01234567901          0            0,01       0,00          151,5258592              112                          0,00
+                                 2       0,01           0
+                                 1        0,2        0,24 0,7802469136                                                       0,7092967313
+                                                          0,01234567901
+
+
+
+
+y = 1.5433x2 + 0.3317x                          equilibrio
+                                                    y = 0.2634*x
+
+                NOG                                                Y Henry         y ausiliaria     y Baecker       yeq      y        x        y*       1-y      1-y*     1-ylm    y*-y      (1-y)lm/(y*-y)*(1-y) Area del trapezio
+y1          0,2 #NUM!                                              0,0648164557    0,1845227528           0,2       0,1690455055 0,20     0,24 0,1690455055 0,80 0,8309544945
+                                                                                                                                                                          0,8153793217 -0,03           32,92653198
+y2         0,01                                                    0,05829579484   0,1625417988     0,1811216122    0,1439619853 0,18     0,22 0,1439619853 0,82 0,8560380147
+                                                                                                                                                                          0,8378898437 -0,04           28,35386164            0,6128039362   0,20       0
+x1         0,24                                                    0,04498918308   0,1411865692     0,1619889293    0,1203842091 0,16     0,19 0,1203842091 0,84 0,8796157909
+                                                                                                                                                                          0,8596557652 -0,04           25,83312609            0,5418698773   0,20    32,9
+x2            0                                                    0,03131669394   0,1204886716     0,1425967782    0,098380565050,14     0,17 0,098380565050,86 0,901619435
+                                                                                                                                                                          0,8806458119 -0,04           24,60405239            0,5043717848   0,01       0
+y1*   0,2216442095                                                 0,01726302688   0,1004810958     0,1229398449    0,078022346760,12     0,14 0,078022346760,88 0,9219776532
+                                                                                                                                                                          0,9008258225 -0,04           24,38596797            0,4899002036   0,01   81,05
+Y2*           0                                                           0        0,08119827922    0,103012669     0,059383889470,10     0,12 0,059383889470,90 0,9406161105
+                                                                                                                                                                          0,9201586594 -0,04            25,1722407            0,4955820866
+                                                                                   0,06267617585    0,08280963891   0,0425427128 0,08     0,09 0,0425427128 0,92 0,9574572872
+                                                                                                                                                                          0,9386040782 -0,04            27,2369384             0,524091791
+                                                                                   0,04495232904    0,06232498679   0,0275796713 0,06     0,06 0,0275796713 0,94 0,9724203287
+                                                                                                                                                                          0,9561185563 -0,03           31,37375348            0,5861069188
+                                                                                   0,02806594783    0,04155278273   0,014579112930,04     0,04 0,014579112930,96 0,9854208871
+                                                                                                                                                                          0,9726550784 -0,03           39,85629496            0,7123004844
+                            y          x                                           0,006172839506   0,01234567901          0     0,01     0,00        0     0,99        1 0,9938143802 -0,01           81,50520185             1,678084894
+                        2       0,01           0
+                        1        0,2        0,24 0,7802469136                                                       0,9215732921                                                                                              6,145111977
+                                                 0,01234567901
+
+
+
+
+y = 1.5433x2 + 0.3317x                 equilibrio
+CORSO DI PROCESSI E IMPIANTI I (CANALE SCIENZE CHIMICHE)
+A.A. 2025-2026
+​
+
+Domande di teoria scambio termico
+1. Descrivere il bilancio di energia su uno scambiatore di calore indicando le correnti in ingresso e
+in uscita ed elencare le assunzioni
+
+2. Rappresentare graficamente l’andamento della temperatura in uno scambiatore in condizione di
+equicorrente pura e di controcorrente pura e confrontare le due configurazioni
+
+3. Ricavare l’equazione di progetto di uno scambiatore di calore a tubi concentrici che lavora in
+condizioni di controcorrente pura.
+
+4. Descrivere il vantaggio cinetico della configurazione controcorrente quantitativamente
+
+5. Rappresentare schematicamente uno scambiatore di calore a fascio tubiero 1-4 e 2-2
+
+6. Rappresentare graficamente il fenomeno della calefazione in uno scambiatore di calore
+
+7. Descrivere il significato e l’utilizzo dei parametri X e Z nella progettazione di scambiatori di
+calore a fascio tubiero
+Esercizio 1 : SCAMBIATORE A FASCIO TUBIERO
+
+Si vuole progettare uno scambiatore a fascio tubiero per raffreddare un fluido inorganico,
+caratterizzato da un calore specifico (Cp ) pari a 750 cal/(kg °C). Il fluido entra (lato mantello) a 250
+°C con una portata massica di 14300 kg/h ed esce a 85 °C. Il fluido di raffreddamento (lato tubi)
+entra a 15 °C con una portata volumetrica pari a 24 m3/h ed è caratterizzato da una densità di 1.1
+g/cm3, un calore specifico (Cp) pari a 1 kcal/(kg °C), una conduttività termica (k) di 0.51 kcal/(h m
+°C) e una viscosità assoluta (pari a 0.75 cP). Si può assumere che la densità per ciascun fluido
+resti costante nell’intervallo di temperatura considerato. Considerando un coefficiente di
+trasferimento globale U pari a 1270 kcal/(h m 2 °C, determinare la superficie di scambiatore (A)
+necessaria per effettuare lo scambio termico desiderato utilizzando un fascio tubiero 1-2 o un
+fascio tubiero 2-4. Disegnare la rappresentazione grafica del fascio tubiero 1-2 e del fascio tubiero
+2-4. [Scambiatore 1-2: 16 m2, Scambiatore 2-4: 13 m2]
+Esercizio 2: ESERCIZIO SCAMBIATORE A TUBI CONCENTRICI
+
+Una sezione lineare di uno scambiatore di calore a tubi concentrici viene utilizzato per
+raffreddare un olio vegetale (densità 0.89 g/cm3, Cp 2.13 kJ/kg°C, k 0.15 W/m °C) da una
+temperatura di 200 °C a 20 °C. La viscosità dell’olio è 0.3 cP. La tubazione interna in cui
+scorre l’olio ad una portata di 5 m3 /h ha un diametro interno di 20 mm ed è inserito
+all’interno di una tubazione di diametro interno 50 mm in cui scorre acqua di
+raffreddamento (densità 1 g/cm3, Cp 4.186 kJ/kg°C, k 0.56 W/m °C, µ = 1 cP) in modalità
+controcorrente. Entrambe le tubazioni, costituite da acciaio speciale altamente conduttivo,
+hanno uno spessore di 3 mm. Volendo riscaldare acqua di raffreddamento che si trova alla
+temperatura di 15°C fino a 70 °C per impiegarla come fluido per teleriscaldamento di
+edifici ausiliari dell’impianto, calcolare il numero di unità lineari da utilizzare per la
+realizzazione dello scambiatore sapendo che ciascuna sezione lineare ha una lunghezza
+di 2 m. [30 sezioni lineari]
+
+
+
+
+Figura 1. Unità modulare scambiatore a tubi concentrici
+
+
+
+
+Figura 2. Sezione frontale unità tubolare scambiatore di calore
+Esercizio 3: ESERCIZIO SCAMBIATORE A TUBI CONCENTRICI
+
+Si vuole progettare uno scambiatore di calore concentrico utilizzando un tubo metallico di
+diametro interno pari a 50 mm provvisto di alette trasversali lunghe 5 mm e spesse 2 mm.
+La superficie specifica per metro lineare di tale tubazione è 5.25 m2/metro lineare.
+All’interno del tubo alettato scorre un olio minerale (densità 0.690 g/cm3, Cp 3.13 kJ/kg°C,
+k 0.22 W/m °C) alla portata di 55 L/min,che deve essere raffreddato da una temperatura di
+250 ° C ad una temperatura di 90°C. Il tubo alettato è posto in maniera concentrica
+all’interno di una tubazione cilindrica del diametro di 100 mm in cui aria alla temperatura di
+20°C scorre in modalità equicorrente all’olio ad una velocità lineare media di 10 m/s (Dati
+chimico fisici aria: densità 1.225 kg/m³, Cp 1.005 J/kg°C, k 0.026 W/m °C, 1.71*10-4 Poise).
+Considerando la conducibilità del materiale metallico di cui è costituita la tubazione molto
+elevato, calcolare la lunghezza di tubo alettato necessario ad assicurare lo scambio
+termico desiderato. Rappresentare inoltre in maniera semplificata (considerando la lastra
+metallica a geometria piana) il profilo di temperatura che si stabilisce nel trasferimento di
+calore dall’olio all’aria avendo cura di riportare eventuali resistenze controllanti.
+[lunghezza tubo alettato 7 m].
+
+
+
+
+ESERCIZIO 4. SCAMBIO TERMICO
+
+Si vuole progettare uno scambiatore a fascio tubiero per raffreddare un fluido inorganico,
+caratterizzato da un calore specifico (Cp) pari a 750 (cal/kg °C) ed una densità di 1.25 g/cm3. Il
+fluido viene inviato nello scambiatore con una portata volumetrica pari a 8 m3/h e deve essere
+raffreddato da una temperatura di 180°C ad una temperatura di 80 °C, nell’arco della variazione di
+temperatura nello scambiatore la densità del fluido ed il suo calore specifico possono essere
+considerati costanti. Il fluido di raffreddamento, caratterizzato da una densità di 1.1 g/cm3, un
+calore specifico (Cp) pari a 1 (kcal/kg °C) ha una temperatura di ingresso di 15 °C ed una
+temperatura di uscita dallo scambiatore di 65°C. Anche per il fluido di raffreddamento si può
+assumere che la densità ed il calore specifico rimangano costanti nell’intervallo di temperatura
+considerato. Sapendo che il coefficiente di trasferimento globale di calore (U) dello scambiatore è
+pari a 1330 (kcal/h m2 °C)
+
+Calcolare:
+
+- la portata volumetrica del fluido di raffreddamento [13.6 m3/h]
+
+- l’area dello scambiatore necessaria ad ottenere il recupero termico desiderato considerando una
+configurazione a tubi concentrici in condizioni di equicorrente pura. [9 m2]
+ESERCIZIO 5 SCAMBIO TERMICO
+
+Si vuole progettare uno scambiatore a fascio tubiero per raffreddare un fluido inorganico,
+caratterizzato da un calore specifico (Cp) pari a 750 (cal/kg °C). Il fluido entra (lato mantello) a 230
+°C con una portata massica di 24300 kg/h ed esce a 80 °C. Il fluido di raffreddamento (lato tubi)
+entra a 15 °C con una portata volumetrica pari a 50 m3/h ed è caratterizzato da una densità di 1.1
+g/cm3, un calore specifico (cp) pari a 1 (kcal/kg °C), una conduttività termica (k) di 0.51 (kcal/h m
+°C) e una viscosità assoluta (𝜇) pari a 0.75 cP. Si può assumere che la densità per ciascun fluido
+resti costante nell’intervallo di temperatura considerato. Considerando un coefficiente di
+trasferimento globale di calore (U) pari a 1270 (kcal/h m2 °C)
+
+Calcolare:
+
+- l’area dello scambiatore necessaria ad ottenere il recupero termico desiderato considerando una
+configurazione a tubi concentrici in condizioni di equicorrente pura. [28 m2]
+
+- l’area dello scambiatore necessaria ad ottenere il recupero termico desiderato considerando una
+configurazione a fascio tubiero 1-2 [21 m2]
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+​
+
+Test di autovalutazione: trasporto molecolare, trasporto
+turbolento trasferimento di entità - teoria
+    1.​ Descrivere la relazione tra numeri adimensionali relativi al trasporto turbolento di calore,
+        esplicitare le grandezze coinvolte in ciascun numero adimensionale effettuando l’analisi
+        dimensionale di ciascun gruppo di grandezze che compongono i numeri adimensionali
+
+    2.​ Descrivere e ricavare attraverso l’analisi del rapporto di meccanismo i numeri adimensionali
+        che descrivono il trasporto turbolento di quantità di moto
+
+    3.​ Descrivere avvalendosi di una rappresentazione grafica il bilancio di un’entità generica in
+        un certo volume infinitesimo in condizioni di stato stazionario (caso del trasporto semplice
+        con generazione interna).
+
+    4.​ Descrivere il fenomeno della diffusione equimolare contraria e nel caso di mezzo stagnante
+        per il trasporto di materia a livello molecolare.
+
+    5.​ Scrivere l’equazione generalizzata del trasporto molecolare di entità in condizioni
+        stazionarie. Scrivere l’equazione della: I Legge di Fick, I Legge di Fourier, Legge di Eulero.
+        Descrivere per ciascuna equazione tutte le grandezze coinvolte e le relative unità di misura
+
+    6.​ Applicare il bilancio di forze ad un elemento infinitesimo di fluido che scorre in moto
+        molecolare in una tubazione cilindrica, descrivere la relazione tra trasporto di quantità di
+        moto e generazione interna
+
+    7.​ Ricavare l’equazione del profilo parabolico della velocità puntuale in una tubazione
+        cilindrica in cui scorre un fluido in condizioni laminari
+
+    8.​ Descrivere mediante gli opportuni grafici il modello delle membrane tese per un fluido che
+        si muove in regime turbolento all’interno di una tubazione cilindrica
+
+    9.​ Descrivere le grandezze adimensionali utilizzate nelle equazioni di Von Karman, riportare in
+        grafico la relazione tra i diversi parametri
+
+    10.​Ricavare l’equazione generalizzata del trasporto turbolento definendo le diverse assunzioni
+
+    11.​Descrivere con l’ausilio del grafico rappresentativo la relazione che intercorre tra fattore
+        d’attrito e numero di Reynolds
+
+    12.​Descrivere la relazione tra sforzo di taglio e caduta di pressione applicando il bilancio di
+        forze ad una tubazione di raggio r1 a geometria cilindrica compresa tra una sezione finita 1
+        e2
+
+    13.​Descrivere la relazione tra numeri adimensionali relativi al trasporto turbolento di calore,
+        esplicitare le grandezze coinvolte in ciascun numero adimensionale effettuando l’analisi
+        dimensionale di ciascun gruppo di grandezze che compongono i numeri adimensionali
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+  14.​Descrivere la relazione tra numeri adimensionali relativi al trasporto turbolento di materia,
+      esplicitare le grandezze coinvolte in ciascun numero adimensionale effettuando l’analisi
+      dimensionale di ciascun gruppo di grandezze che compongono i numeri adimensionali
+
+  15.​Descrivere la relazione tra k’c e k’g per il trasporto di materia in condizioni equimolari
+      contrarie ed in condizioni di mezzo stagnante
+
+  16.​Definire il concetto di diametro equivalente per il calcolo della caduta di pressione in una
+      condotta di forma diversa da quella cilindrica, eseguire i passaggi logici per ricavare la sua
+      formula
+
+  17.​1. Ricavare l’equazione del trasferimento di calore per due fluidi A e B separati da una
+      lastra piana, rappresentare graficamente i profili di temperatura considerando il caso di
+      conducibilità termica della lastra molto elevata e considerando la proprietà di trasporto del
+      fluido A molto più elevata rispetto al fluido B.
+
+  18.​Ricavare l’equazione del trasferimento di materia considerando il caso in cui un
+      componente gassoso viene assorbito in fase liquida, considerare il caso di trasferimento di
+      materia in presenza di un componente stagnante. Rappresentare i profili di concentrazione
+      della specie che si trasferisce e i salti motore parziali e totali dotandosi dei due grafici
+      rappresentativi (profili di concentrazione e curva di solubilità).
+
+  19.​Descrivere graficamente i salti motore parziali e totali utilizzando le concentrazioni molari in
+      fase liquida utilizzando le seguenti curve di solubilità
+
+
+
+
+  20.​ Rappresentare mediante il grafico della curva di solubilità il fenomeno del desorbimento di
+      un componente che si ripartisce tra fase gas e fase liquida. Descrivere il fenomeno
+      avvalendosi della costruzione grafica identificando i salti motore parziali e totali.
+
+  21.​Descrivere mediante l’ausilio dei grafici rappresentativi (curva di solubilità e profili di
+      concentrazione) il caso del trasferimento di materia di un componente che si assorbe in
+      fase liquida in condizioni di mezzo stagnante quando la proprietà di trasporto turbolento
+      della fase gas è molto inferiore alla proprietà di trasporto turbolento della fase liquida.
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+
+
+Test di autovalutazione numerico
+Traporto turbolento quantità di moto
+ESERCIZIO 1
+
+Un fluido avente densità 1.07 g/cm3 e viscosità pari a 8 cP (1 Poise= 1 g/cm s) scorre in
+una tubazione cilindrica del diametro di 50 mm, calcolare la caduta di pressione per metro
+lineare di tubazione e la velocità puntuale del fluido ad una distanza di 0.1 mm dalla parete
+della tubazione quando:
+   -​ La portata volumetrica è 1 m3/d [0.60 Pa, 9.4*10^-05 m/s]
+   -​ La portata volumetrica è 10 m3/h [632 Pa, 0.099 m/s]
+
+
+
+ESERCIZIO 2
+
+Un fluido (ρ= 0.920 g/cm3 e µ= 0,3 Poise) scorre in un condotto rettangolare largo 1.50 m e
+alto 90 cm. Il moto del fluido è turbolento (Re = 91420). Determinare:
+   a)​ La velocità media del fluido; [2.65 m/s]
+   b)​ La perdita di carico attraverso un tratto di tubazione di lunghezza 120 m.[6454 Pa]
+
+
+ESERCIZIO 3
+
+Calcolare la velocità media, la puntuale al limite dello strato laminare e la velocità al limite
+dello strato cuscinetto di un fluido che scorre in una tubazione cilindrica del diametro di 30
+mm e di lunghezza 10 m con una portata di 1 m3/min avente densità 1.2 g/cm3 e viscosità
+pari a 8 cP (1 Poise= 1g/cms). [Media 23.59 m/s, Laminare 5.62 m/s, Cuscinetto
+15.69 m/s]
+
+Traporto e trasferimento calore
+ESERCIZIO 1 - Calore
+
+Un olio minerale alla temperatura di 180 °C scorre in un condotto a sezione quadrata di lato 80 cm
+e lungo 5 metri. L’olio minerale scorre con una portata volumetrica di 20 m3/h, noti il calore
+specifico la densità e la viscosità, calcolare la caduta di pressione nel tratto di tubazione e il
+coefficiente di trasporto turbolento dell’olio. [Soluzione: -ΔP = 5.16 *10-2 Pa , h = 23 W/m2°C]
+
+ Cp olio = 2.95 kJ/kg°C
+ Densità olio = 780 g/dm3
+ Viscosità olio = 0.45 cP
+ Conduttività termica olio = 0.25 (W/m°C)
+ESERCIZIO 2 - Calore
+
+Un olio passa attraverso un tubo scambiatore di calore del diametro di 50 mm con una portata di
+1500 L/min. Nel punto del nocciolo turbolento la temperatura media del fluido T vale 49 °C,
+calcolare il valore del coefficiente di trasporto del calore e il flusso termico che arriva alla parete
+della tubazione sapendo che la temperatura della parete del tubo vale 76 °C. Sono note le
+seguenti caratteristiche chimico fisiche del fluido in funzione della temperatura. [Soluzione: h 1392
+kcal/m2h°C, 37580 kcal/m2h]
+
+ T (°C)                             µ (cPoise - 1 Poise = 1g/cm s)      Proprietà fisiche a 49°C
+                                                                        ρ = 900 kg/m3
+ 49                                 20                                  Cp= 0.465 Kcal/kg°C
+ 76                                 6                                   k= 0.104 kcal/m h °C
+
+
+Trasferimento materia
+ESERCIZIO 1 - Materia
+
+Una colonna a parete bagnata del diametro di 50 mm è percorsa da una miscela di aria e anidride
+carbonica alla velocità di 0.9 m/s. In un punto del nocciolo turbolento della colonna la frazione
+molare dell'anidride carbonica dell'aria vale 0.1 mentre la frazione molare dell'anidride carbonica
+nell'acqua all'interfaccia aria acqua vale 0.005 la colonna lavora a 10 atmosfere 25 ° calcolare il
+coefficiente di trasporto di materia kg e il flusso di materia che attraversa la superficie di interfaccia.
+Considerare l’aria come il componente stagnante [kg 3.9⋅10−4 kmol/(m2⋅s⋅atm); Na/A 0.00284
+kmol/(m2⋅s)]
+
+Dati a disposizione
+
+Df CO2 a 10 atm = 0.0059 m2/h
+
+H a 25°C = 1640 atm
+
+ρ aria a 10 atm = 11.9 kg/m3
+
+µ aria a 10 atm = 0.018 cPoise
+ESERCIZI COMBINATI
+1. Un fluido scorre in una tubazione cilindrica del diametro di 60 mm ad una temperatura media di
+50 °C. Il calore specifico del fluido è pari a 2594 J/ kg °C mentre la conduttività termica risulta 0.15
+W/m °C. Alla temperatura media, la densità del fluido è pari a 1.17 g/cm3 mentre la sua viscosità è
+4 cP (1 Poise= 1 g/cm s). Calcolare la caduta di pressione per metro lineare di tubazione, la
+velocità puntuale del fluido ad una distanza di 0.15 mm dalla parete della tubazione e il coefficiente
+di trasporto di calore nei seguenti casi:
+
+   -​   La portata volumetrica è 1.5 m3/d [0.22 Pa; 0.00012 m/s; 0.15 (J/s m °C)]
+   -​   La portata volumetrica è 1.5 m3/min [12857 Pa; 4.61 m/s; 3309 (J/s m °C)]
+
+Calcolare nel caso b la velocità di trasporto per metro lineare di calore verso lo strato di fluido
+posto a 0.15 mm dalla parete della tubazione sapendo che la temperatura in quel punto è pari a
+37°C (considerare invarianti la densità e la viscosità del fluido rispetto alla temperatura). [120 W]
+
+2. Un tubo in cui è presente vapore surriscaldato ha un diametro esterno di 50mm, la tubazione
+presenta una temperatura sulla sua superficie esterna pari a 250 ◦C. Il tubo viene ricoperto con un
+materiale di rivestimento isolante avente uno spessore di 45 mm. La conduttività termica del
+materiale è pari a 0.48 W/m°C. Sapendo che la quantità di calore trasportata nell’unità di tempo
+per unità di lunghezza è pari a 550 kcal/h (1 kcal = 4184 Joule), calcolare la temperatura sulla
+superficie del materiale isolante. [32°C]
+
+3. Calcolare la velocità media e la velocità al limite dello strato cuscinetto di un fluido che scorre in
+una tubazione cilindrica del diametro di 50 mm e di lunghezza 15 m con una portata di 1.5 m3/min
+avente densità 1.12 g/cm3 e viscosità pari a 2.5 cP (1 Poise= 1g/cms). Calcolare, inoltre, la
+distanza dalla parete della tubazione dello strato cuscinetto. [v media 12.73 m/s; v cuscinetto
+7.68 m/s ]
+
+4. Un fluido scorre in una tubazione cilindrica del diametro di 50 mm ad una temperatura media di
+50 °C. Il calore specifico del fluido è pari a 3560 J/ kg °C mentre la conduttività termica risulta 0.12
+W/m °C. Alla temperatura media, la densità del fluido è pari a 1.10 g/cm3 mentre la sua viscosità è
+2.5 cP (1 Poise= 1 g/cm s). Calcolare la caduta di pressione per metro lineare di tubazione, la
+velocità puntuale del fluido ad una distanza di 0.25 mm dalla parete della tubazione e il coefficiente
+di trasporto di calore nei seguenti casi:
+
+        a)​    La portata volumetrica è 2.5 m3/d [0.47 Pa; 0.00059 m/s; 0.12 (J/s m °C)]
+        b)​    La portata volumetrica è 2.5 m3/min [67033 Pa; 14.76 m/s; 7846 (J/s m2 °C)]
+CORSO DI PROCESSI E IMPIANTI I (CANALE 3 SCIENZE CHIMICHE)
+A.A. 2025-26
+​
+
+Test di autovalutazione numerica Traporto turbolento
+Quantità di moto
+ESERCIZIO 1
+Un fluido da inviare ad un’unità di distillazione scorre in una tubazione cilindrica del diametro
+interno di 5 cm con una portata pari a 6500 kg/h. Alla temperatura media, la densità del fluido è
+pari a 1117 kg/m3 mentre la sua viscosità è 1.4 cP (1 Poise= 1 g/cm s).
+
+    Calcolare:
+
+
+1. la caduta di pressione nel tratto di tubazione lungo 15 metri [2613 Pa]
+
+2. la velocità puntuale del fluido ad una distanza di 0.25 mm dalla parete della tubazione [0.35
+m/s]
+
+
+ESERCIZIO 2
+Un fluido scorre in una tubazione cilindrica del diametro di 50 mm ad una temperatura media di 50
+°C. Alla temperatura media, la densità del fluido è pari a 1.10 g/cm3 mentre la sua viscosità è 2.5
+cP (1 Poise= 1 g/cm s). Calcolare la caduta di pressione per metro lineare di tubazione e la
+velocità puntuale del fluido ad una distanza di 0.25 mm dalla parete della tubazione nei seguenti
+casi:
+
+1. La portata volumetrica è 2.5 m3/d [0.47 Pa; 5.9 *10-4 m/s]
+
+2. La portata volumetrica è 2.5 m3/min [67032 Pa; 14.8 m/s]
+
+
+
+ESERCIZIO 3
+Un fluido scorre in una tubazione cilindrica del diametro di 20 cm ad una temperatura media di 20
+°C. Alla temperatura media, la densità del fluido è pari a 1.10 g/cm3 mentre la sua viscosità è 2.5
+cP (1 Poise= 1 g/cm s). Calcolare la caduta di pressione per una lunghezza di tubazione pari a 10
+metri, la velocità puntuale del fluido ad una distanza di 0.35 mm dalla parete della tubazione nei
+seguenti casi:
+
+1. La portata volumetrica è 0.25 m3/s [21731 Pa; 4.8 m/s]
+
+2. La portata volumetrica è 2.5 m3/min [864 Pa; 0.51 m/s]
+
+ESERCIZIO 4
+Un fluido scorre in una tubazione cilindrica del diametro di 25 cm ad una temperatura media di 20
+°C. Alla temperatura media, la densità del fluido è pari a 1.15 g/cm3 mentre la sua viscosità è 1.5
+cP (1 Poise= 1 g/cm s). Calcolare lo spessore dello strato cuscinetto e dello strato laminare
+quando la portata è 0.15 m3/s. [5.31 *10-5 m; 2.65 *10-4 m]
+                             Esercizi da foto - Processi e Impianti
+
+               Testo ricostruito dalle due immagini caricate, con schemi ridisegnati in LATEX/TikZ.
+
+
+
+
+1. Esercizio di distillazione
+ Una miscela di composti organici con una portata massica totale di 5500 kg/h viene immessa in una
+ colonna di distillazione a piatti come liquido saturo per essere separata nei suoi due componenti. La
+ percentuale in peso del composto più volatile è del 15%. Si vuole ottenere un distillato con una frazione
+ molare del composto più volatile pari a 0,90. I pesi molecolari dei due composti sono rispettivamente
+ 85 e 160. Il rapporto di riflusso ottimale è fissato a 1,5 volte il rapporto di riflusso minimo.
+
+Calcolare
+
+  1. Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna.
+
+  2. Il numero di piatti teorici richiesto per la separazione con il metodo grafico di McCabe-Thiele,
+     avendo a disposizione la relativa curva di equilibrio.
+
+  3. Considerando lo schema di processo riportato in Figura 1, in cui un recupero termico viene effettuato
+     usando il corpo di fondo B come liquido saturo per preriscaldare l’alimentazione F in colonna,
+     calcolare la temperatura del prodotto di fondo dopo lo scambio termico. L’alimentazione prima
+     dello scambiatore si trova a 20 °C.
+
+Dati termici
+
+     Corrente           Temperatura di ebollizione (°C)            Calore specifico (kJ/(kmol °C))
+
+     Alimentazione                          156                                      60
+     Distillato                             117                                      55
+     Corpo di fondo                         169                                      85
+
+
+                                                                              D
+
+
+
+
+                                B
+                                        F           F
+
+
+
+
+                                                            B
+                                                     Colonna a piatti
+
+     Figura 1: Schema di processo semplificato della colonna di distillazione con recupero termico.
+
+
+
+                                                        1
+2. Esercizio di estrazione liquido-liquido
+
+ Si vuole purificare, attraverso un’estrazione con solvente in corrente incrociata, una miscela
+ costituita da un solvente B e da un soluto A, utilizzando un solvente C parzialmente miscibile con
+ B. La miscela binaria di partenza L0 ha una portata massica pari a 180 kg/h e una composizione in
+ A, come frazione massica, pari a 0,40. Si vuole arrivare a una miscela binaria purificata con frazione
+ massica di A pari a 0,10. La portata ottimizzata di solvente estraente V0 è pari a 120 kg/h. Utilizzare
+ il diagramma di fase ternario riportato in Figura 2.
+
+Calcolare
+
+  1. Il numero di stadi estrattivi necessari alla separazione.
+
+  2. Le portate orarie di raffinato ed estratto in uscita dall’ultimo stadio.
+
+  3. La composizione dell’estratto e del raffinato in uscita dal primo stadio estrattivo.
+
+  4. La composizione del composto A nelle miscele binarie di estratto e raffinato in uscita dal terzo
+     stadio estrattivo.
+
+
+
+                    1
+                         C
+
+                   0,9
+
+
+                   0,8
+
+
+                   0,7
+
+
+                   0,6
+
+
+                   0,5
+
+
+                   0,4
+
+
+                   0,3
+
+
+                   0,2
+
+
+                   0,1
+
+
+                    0B                                                                     A
+                         0   0,1         0,3    0,4   0,5   0,6    0,7   0,8   0,9     1
+
+
+Figura 2: Diagramma ternario ricostruito dalla foto. Le linee sottili sono linee di lettura a composizione
+costante; non sono tie-lines.
+
+
+
+
+               Documento generato automaticamente da testo e figure ricostruiti dalle immagini.
+
+
+
+                                                      2
+

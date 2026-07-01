@@ -1,0 +1,1548 @@
+                                        SCAMBIO TERMICO
+
+
+
+
+    E’ l’operazione unitaria nella quale è prevalente il trasferimento di calore.
+
+         Nella maggior parte delle applicazioni lo scambio di calore avviene
+         tenendo separati i due fluidi (caldo e freddo) tramite una superficie
+                       metallica (scambiatori a superficie).
+
+  In alcuni casi, lo scambio di calore avviene tramite contatto diretto fra i due
+                         fluidi (scambiatori a miscela).
+
+
+
+
+Processi e Impianti – Scambio termico                                               Scienze chimiche
+                             SCAMBIATORE A TUBI CONCENTRICI
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+                             SCAMBIATORE A TUBI CONCENTRICI
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+                               SCAMBIATORE A FASCIO TUBIERO
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+                               SCAMBIATORE A FASCIO TUBIERO
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+                               SCAMBIATORE A FASCIO TUBIERO
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+                                      SCAMBIATORE A FASCIO TUBIERO –
+                                          SCAMBIATORE A CHIOMA
+
+
+lato mantello                                   lato tubi
+
+
+
+
+        Processi e Impianti – Scambio termico                          Scienze chimiche
+                                      SCAMBIATORE A FASCIO TUBIERO –
+                                          SCAMBIATORE A CHIOMA
+
+
+lato mantello                                   lato tubi
+
+
+
+
+        Processi e Impianti – Scambio termico                          Scienze chimiche
+                              SCAMBIATORE A FASCIO TUBIERO –
+                                  SCAMBIATORE A CHIOMA
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+                            SCAMBIATORE A FASCIO TUBIERO 1-2
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+                            SCAMBIATORE A FASCIO TUBIERO 1-2
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+                            SCAMBIATORE A FASCIO TUBIERO 1-2
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+                            SCAMBIATORE A FASCIO TUBIERO 2-4
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+                                        SCAMBIATORE A PIASTRE
+
+
+
+
+Processi e Impianti – Scambio termico                           Scienze chimiche
+                                        SCAMBIATORE A PIASTRE
+
+
+
+
+Processi e Impianti – Scambio termico                           Scienze chimiche
+                                        SCAMBIATORE ALETTATI
+
+
+
+                     Alette longitudinali                 Alette trasversali
+
+
+
+
+Processi e Impianti – Scambio termico                                          Scienze chimiche
+                                        SCAMBIATORE ALETTATI
+
+
+
+
+Processi e Impianti – Scambio termico                          Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                        BILANCIO DI ENERGIA
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                        BILANCIO DI ENERGIA
+
+
+
+
+            SCAMBIATORE
+
+
+
+
+Processi e Impianti – Scambio termico                         Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+
+                                                               𝑊𝐴 = 𝑝𝑜𝑟𝑡𝑎𝑡𝑎 𝑚𝑎𝑠𝑠𝑖𝑐𝑎
+                                                                𝐾𝑔 ∙ 𝑠 −1 o 𝐾𝑔 ∙ ℎ−1
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+𝑇𝐴𝑒                                              𝑇𝐴𝑢
+
+
+
+
+      Processi e Impianti – Scambio termico                                            Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+
+                                                               𝑊𝐴 = 𝑝𝑜𝑟𝑡𝑎𝑡𝑎 𝑚𝑎𝑠𝑠𝑖𝑐𝑎
+                                                                𝐾𝑔 ∙ 𝑠 −1 o 𝐾𝑔 ∙ ℎ−1
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+                                                           In assenza di passaggi di stato (solo
+𝑇𝐴𝑒                                              𝑇𝐴𝑢       calore sensibile), la quantità di calore
+                                                           che il fluido A deve cedere nello
+                                                           scambiatore sarà pari a :
+
+
+                                                                    𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢
+
+      Processi e Impianti – Scambio termico                                                     Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+
+                                                               𝑊𝐴 = 𝑝𝑜𝑟𝑡𝑎𝑡𝑎 𝑚𝑎𝑠𝑠𝑖𝑐𝑎
+                                                                𝐾𝑔 ∙ 𝑠 −1 o 𝐾𝑔 ∙ ℎ−1
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+                                                           In assenza di passaggi di stato (solo
+𝑇𝐴𝑒                                              𝑇𝐴𝑢       calore sensibile), la quantità di calore
+                                                           che il fluido A deve cedere nello
+                                                           scambiatore sarà pari a :
+
+       Rappresenta quello che vogliamo
+         ottenere con lo scambiatore
+                                                                    𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢
+
+      Processi e Impianti – Scambio termico                                                     Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+                   𝑊𝐵            𝑇𝐵𝑢
+                                                             𝑊𝐴 , 𝑊𝐵 = 𝑝𝑜𝑟𝑡𝑎𝑡𝑎 𝑚𝑎𝑠𝑠𝑖𝑐𝑎
+                                                                  𝐾𝑔 ∙ 𝑠 −1 o 𝐾𝑔 ∙ ℎ−1
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+𝑇𝐴𝑒                                              𝑇𝐴𝑢
+
+                   𝑊𝐵           𝑇𝐵𝑒
+
+
+      Processi e Impianti – Scambio termico                                        Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+                   𝑊𝐵            𝑇𝐵𝑢
+                                                             𝑊𝐴 , 𝑊𝐵 = 𝑝𝑜𝑟𝑡𝑎𝑡𝑎 𝑚𝑎𝑠𝑠𝑖𝑐𝑎
+                                                                  𝐾𝑔 ∙ 𝑠 −1 o 𝐾𝑔 ∙ ℎ−1
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+𝑇𝐴𝑒                                              𝑇𝐴𝑢        Se lo scambiatore è adiabatico
+                                                            (assenza di dispersioni termiche), le
+                                                            condizioni sono stazionarie        e non
+                                                            avvengono passaggi di stato, la
+                   𝑊𝐵           𝑇𝐵𝑒                         quantità di calore ceduta dal fluido caldo
+                                                            A è acquisita dal fluido freddo B
+
+
+      Processi e Impianti – Scambio termico                                                      Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+                   𝑊𝐵            𝑇𝐵𝑢
+                                                       𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+𝑊𝐴                                              𝑊𝐴
+                  SCAMBIATORE
+𝑇𝐴𝑒                                              𝑇𝐴𝑢
+
+                   𝑊𝐵           𝑇𝐵𝑒
+
+
+      Processi e Impianti – Scambio termico                                              Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+                   𝑊𝐵            𝑇𝐵𝑢
+                                                       𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+𝑊𝐴                                              𝑊𝐴
+                                                       E’ una equazione di bilancio e non una equazione
+                  SCAMBIATORE
+                                                           di progetto valida in condizioni stazionarie
+𝑇𝐴𝑒                                              𝑇𝐴𝑢
+
+                   𝑊𝐵           𝑇𝐵𝑒
+
+
+      Processi e Impianti – Scambio termico                                                     Scienze chimiche
+           DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                              BILANCIO DI ENERGIA
+
+
+
+                   𝑊𝐵            𝑇𝐵𝑢
+                                                       𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+𝑊𝐴                                              𝑊𝐴
+                                                       E’ una equazione di bilancio e non una equazione
+                  SCAMBIATORE
+                                                           di progetto valida in condizioni stazionarie
+𝑇𝐴𝑒                                              𝑇𝐴𝑢
+                                                                    𝐾𝑐𝑎𝑙 𝐾𝑔 𝐾𝑐𝑎𝑙
+                   𝑊𝐵           𝑇𝐵𝑒                                     =          ℃
+                                                                     ℎ    ℎ 𝐾𝑔 ∙ ℃
+
+
+      Processi e Impianti – Scambio termico                                                     Scienze chimiche
+                 DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+Per ricavare l’equazione di progetto dobbiamo partire dalla equazione di trasferimento di calore per una
+             sezione generica dello scambiatore e poi integrare sull’intera apparecchiatura
+
+
+
+
+            Processi e Impianti – Scambio termico                                               Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+      Consideriamo uno scambiatore a tubi concentrici in equicorrente pura
+                𝑻 ℃
+
+                    𝑻𝑨 𝒆
+
+
+
+
+                    𝑻𝑩 𝒆
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+      Consideriamo uno scambiatore a tubi concentrici in equicorrente pura
+                𝑻 ℃
+
+                    𝑻𝑨 𝒆
+
+
+
+
+                                                                𝑻𝑨 𝒖
+                                                                𝑻𝑩 𝒖
+
+
+
+                    𝑻𝑩 𝒆
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+      Consideriamo uno scambiatore a tubi concentrici in equicorrente pura
+                𝑻 ℃
+
+                    𝑻𝑨 𝒆
+
+
+
+
+                                                                𝑻𝑨 𝒖
+                                                                𝑻𝑩 𝒖
+
+
+
+                    𝑻𝑩 𝒆
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+      Consideriamo uno scambiatore a tubi concentrici in equicorrente pura
+                𝑻 ℃
+
+                    𝑻𝑨 𝒆
+
+                                         𝑻𝑨
+
+                                                                𝑻𝑨 𝒖
+                                                                𝑻𝑩 𝒖
+
+                                         𝑻𝑩
+
+                    𝑻𝑩 𝒆
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+      Consideriamo uno scambiatore a tubi concentrici in equicorrente pura
+                𝑻 ℃
+
+                    𝑻𝑨 𝒆                   𝜃 = salto motore = 𝑇𝐴 − 𝑇𝐵
+
+                                         𝑻𝑨
+
+                                                                𝑻𝑨 𝒖
+                                                                𝑻𝑩 𝒖
+
+                                         𝑻𝑩
+
+                    𝑻𝑩 𝒆
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃
+
+ 𝑻𝑨 𝒆
+                                                       Consideriamo ora una porzione
+                         𝑻𝑨
+                                                        infinitesima di scambiatore di
+                                                                 lunghezza dL
+
+                                                𝑻𝑨 𝒖
+                                                𝑻𝑩 𝒖
+
+
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                      Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃                            𝒅𝑳
+
+ 𝑻𝑨 𝒆
+                                                         Consideriamo ora una porzione
+                         𝑻𝑨
+                                      𝑻𝑨 + 𝒅𝑻𝑨            infinitesima di scambiatore di
+                                                                   lunghezza dL
+
+                                                  𝑻𝑨 𝒖
+                                                  𝑻𝑩 𝒖
+
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                        Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃                               𝒅𝑳
+
+ 𝑻𝑨 𝒆
+                                                         Consideriamo ora una porzione
+                         𝑻𝑨
+                                       𝑻𝑨 + 𝒅𝑻𝑨           infinitesima di scambiatore di
+                            𝒅𝑻𝑨
+                                                                   lunghezza dL
+
+                                                  𝑻𝑨 𝒖
+                                                                 𝜃 = 𝑇𝐴 − 𝑇𝐵
+                                                  𝑻𝑩 𝒖
+                            𝒅𝑻𝑩
+                                                               𝑑𝜃 = 𝑑𝑇𝐴 − 𝑑𝑇𝐵
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                        Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃
+
+ 𝑻𝑨 𝒆
+                                                              Applichiamo il bilancio di energia
+                         𝑻𝑨                              all’elementino infinitesimo di scambiatore
+                                      𝑻𝑨 + 𝒅𝑻𝑨
+
+                                                  𝑻𝑨 𝒖
+                                                           𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+                                                  𝑻𝑩 𝒖
+
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                            Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                 𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+
+
+Processi e Impianti – Scambio termico                            Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                 𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+                 1                                                     1
+   𝑑𝑇𝐴 = −𝑑𝑞 ∙                                            𝑑𝑇𝐵 = 𝑑𝑞 ∙
+               𝑊𝐴 𝑐𝑝𝐴                                                𝑊𝐵 𝑐𝑝𝐵
+
+
+
+
+Processi e Impianti – Scambio termico                                         Scienze chimiche
+          DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                      𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+                      1                                                     1
+        𝑑𝑇𝐴 = −𝑑𝑞 ∙                                            𝑑𝑇𝐵 = 𝑑𝑞 ∙
+                    𝑊𝐴 𝑐𝑝𝐴                                                𝑊𝐵 𝑐𝑝𝐵
+
+
+                         1      1
+𝑑𝜃 = 𝑑𝑇𝐴 − 𝑑𝑇𝐵 = −𝑑𝑞 ∙       +
+                       𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵
+
+
+
+
+     Processi e Impianti – Scambio termico                                         Scienze chimiche
+          DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                      𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+                      1                                                     1
+        𝑑𝑇𝐴 = −𝑑𝑞 ∙                                            𝑑𝑇𝐵 = 𝑑𝑞 ∙
+                    𝑊𝐴 𝑐𝑝𝐴                                                𝑊𝐵 𝑐𝑝𝐵
+
+
+                         1      1                                          1      1
+𝑑𝜃 = 𝑑𝑇𝐴 − 𝑑𝑇𝐵 = −𝑑𝑞 ∙       +                                        𝑘=       +
+                       𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵                                     𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵
+
+
+
+
+     Processi e Impianti – Scambio termico                                               Scienze chimiche
+          DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                      𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+                      1                                                     1
+        𝑑𝑇𝐴 = −𝑑𝑞 ∙                                            𝑑𝑇𝐵 = 𝑑𝑞 ∙
+                    𝑊𝐴 𝑐𝑝𝐴                                                𝑊𝐵 𝑐𝑝𝐵
+
+
+                         1      1                                          1      1
+𝑑𝜃 = 𝑑𝑇𝐴 − 𝑑𝑇𝐵 = −𝑑𝑞 ∙       +                                        𝑘=       +
+                       𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵                                     𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵
+
+
+
+                          𝑑𝜃 = −𝑑𝑞 ∙ 𝑘
+
+     Processi e Impianti – Scambio termico                                               Scienze chimiche
+          DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+                                      𝑑𝑞 = −𝑊𝐴 𝑐𝑝𝐴 𝑑𝑇𝐴 = 𝑊𝐵 𝑐𝑝𝐵 𝑑𝑇𝐵
+
+
+                      1                                                     1
+        𝑑𝑇𝐴 = −𝑑𝑞 ∙                                            𝑑𝑇𝐵 = 𝑑𝑞 ∙
+                    𝑊𝐴 𝑐𝑝𝐴                                                𝑊𝐵 𝑐𝑝𝐵
+
+
+                         1      1                                          1      1
+𝑑𝜃 = 𝑑𝑇𝐴 − 𝑑𝑇𝐵 = −𝑑𝑞 ∙       +                                        𝑘=       +
+                       𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵                                     𝑊𝐴 𝑐𝑝𝐴 𝑊𝐵 𝑐𝑝𝐵
+
+
+                                                                      𝑑𝜃
+                          𝑑𝜃 = −𝑑𝑞 ∙ 𝑘                         𝑑𝑞 = −
+                                                                       𝑘
+
+     Processi e Impianti – Scambio termico                                               Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃                            𝒅𝑳
+
+ 𝑻𝑨 𝒆
+                                                          Ora utilizziamo l’equazione cinetica di
+                         𝑻𝑨                                    trasferimento di calore applicata
+                                      𝑻𝑨 + 𝒅𝑻𝑨           all’elementino infinitesimo di scambiatore
+
+                                                  𝑻𝑨 𝒖
+                                                  𝑻𝑩 𝒖
+
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                            Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃                            𝒅𝑳
+
+ 𝑻𝑨 𝒆
+                                                          Ora utilizziamo l’equazione cinetica di
+                         𝑻𝑨                                    trasferimento di calore applicata
+                                      𝑻𝑨 + 𝒅𝑻𝑨           all’elementino infinitesimo di scambiatore
+
+                                                  𝑻𝑨 𝒖
+                                                                   𝑞 = 𝑈𝐴 𝑇𝐴 − 𝑇𝐵
+                                                  𝑻𝑩 𝒖
+
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                            Scienze chimiche
+             DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+𝑻 ℃                            𝒅𝑳
+
+ 𝑻𝑨 𝒆
+                                                          Ora utilizziamo l’equazione cinetica di
+                         𝑻𝑨                                    trasferimento di calore applicata
+                                      𝑻𝑨 + 𝒅𝑻𝑨           all’elementino infinitesimo di scambiatore
+
+                                                  𝑻𝑨 𝒖
+                                                                   𝑞 = 𝑈𝐴 𝑇𝐴 − 𝑇𝐵
+                                                  𝑻𝑩 𝒖
+
+                                       𝑻𝑩 + 𝒅𝑻𝑩
+                         𝑻𝑩                               𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃
+ 𝑻𝑩 𝒆
+
+        Processi e Impianti – Scambio termico                                            Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                      𝑑𝜃
+   𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃              ma     𝑑𝑞 = −
+                                                       𝑘
+
+
+
+
+Processi e Impianti – Scambio termico                      Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                      𝑑𝜃
+   𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃              ma     𝑑𝑞 = −
+                                                       𝑘
+𝑑𝜃
+   = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃
+ 𝑘
+
+
+
+
+Processi e Impianti – Scambio termico                      Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                             𝑑𝜃
+   𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃               ma           𝑑𝑞 = −
+                                                              𝑘
+𝑑𝜃
+   = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃                        Separiamo le variabili e integriamo
+ 𝑘
+
+
+
+
+Processi e Impianti – Scambio termico                                         Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                             𝑑𝜃
+   𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃               ma           𝑑𝑞 = −
+                                                              𝑘
+𝑑𝜃
+   = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃                        Separiamo le variabili e integriamo
+ 𝑘
+
+              𝑑𝜃
+                 = −𝑘 ∙ 𝑈 ∙ 𝑑𝐴
+               𝜃
+
+
+
+
+Processi e Impianti – Scambio termico                                         Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                             𝑑𝜃
+   𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃               ma           𝑑𝑞 = −
+                                                              𝑘
+𝑑𝜃
+   = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃                        Separiamo le variabili e integriamo
+ 𝑘
+
+                                            𝜃2         𝐴
+              𝑑𝜃                             𝑑𝜃
+                 = −𝑘 ∙ 𝑈 ∙ 𝑑𝐴          −න      = 𝑘𝑈 න 𝑑𝐴
+               𝜃                          𝜃1 𝜃        0
+
+
+
+
+Processi e Impianti – Scambio termico                                         Scienze chimiche
+       DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                               𝑑𝜃
+     𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃               ma           𝑑𝑞 = −
+                                                                𝑘
+   𝑑𝜃
+      = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃                       Separiamo le variabili e integriamo
+    𝑘
+
+                                              𝜃2         𝐴
+                𝑑𝜃                             𝑑𝜃
+                   = −𝑘 ∙ 𝑈 ∙ 𝑑𝐴          −න      = 𝑘𝑈 න 𝑑𝐴
+                 𝜃                          𝜃1 𝜃        0
+
+
+  𝜃1
+ln = 𝑘 ∙ 𝑈 ∙ 𝐴
+  𝜃2
+  Processi e Impianti – Scambio termico                                         Scienze chimiche
+       DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+                                                                                𝑑𝜃
+     𝑑𝑞 = 𝑈𝑑𝐴 𝑇𝐴 − 𝑇𝐵 = 𝑈𝑑𝐴𝜃                                ma           𝑑𝑞 = −
+                                                                                 𝑘
+   𝑑𝜃
+      = −𝑈 ∙ 𝑑𝐴 ∙ 𝜃                                        Separiamo le variabili e integriamo
+    𝑘
+
+                                                               𝜃2     𝐴
+                𝑑𝜃                                          𝑑𝜃
+                   = −𝑘 ∙ 𝑈 ∙ 𝑑𝐴                       −න      = 𝑘𝑈 න 𝑑𝐴
+                 𝜃                                       𝜃1 𝜃        0
+
+
+  𝜃1
+ln = 𝑘 ∙ 𝑈 ∙ 𝐴                            𝜃1 = 𝑇𝐴𝑒 − 𝑇𝐵𝑒                𝜃2 = 𝑇𝐴𝑢 − 𝑇𝐵𝑢
+  𝜃2
+  Processi e Impianti – Scambio termico                                                          Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+    Riprendiamo ora la relazione           𝑑𝜃 = −𝑑𝑞 ∙ 𝑘
+
+
+
+
+Processi e Impianti – Scambio termico                      Scienze chimiche
+       DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+      Riprendiamo ora la relazione              𝑑𝜃 = −𝑑𝑞 ∙ 𝑘
+
+
+                                            𝜃2               𝑞
+Integriamo lungo lo scambiatore           න 𝑑𝜃 = −𝑘 ∙ න 𝑑𝑞
+                                           𝜃1              0
+
+
+
+
+  Processi e Impianti – Scambio termico                          Scienze chimiche
+       DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+      Riprendiamo ora la relazione              𝑑𝜃 = −𝑑𝑞 ∙ 𝑘
+
+
+                                            𝜃2               𝑞
+Integriamo lungo lo scambiatore           න 𝑑𝜃 = −𝑘 ∙ න 𝑑𝑞
+                                           𝜃1              0
+
+
+
+
+                                             𝜃1 − 𝜃2
+                 𝜃2 − 𝜃1 = −𝑘 ∙ 𝑞         𝑘=
+                                                𝑞
+
+  Processi e Impianti – Scambio termico                          Scienze chimiche
+     DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+                                          𝜃1                    𝜃1 − 𝜃2
+ Ricordando che                         ln = 𝑘 ∙ 𝑈 ∙ 𝐴   e   𝑘=
+                                          𝜃2                       𝑞
+
+
+
+
+Processi e Impianti – Scambio termico                                     Scienze chimiche
+              DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+                                                   𝜃1                    𝜃1 − 𝜃2
+          Ricordando che                         ln = 𝑘 ∙ 𝑈 ∙ 𝐴   e   𝑘=
+                                                   𝜃2                       𝑞
+
+
+                       𝜃1 𝜃1 − 𝜃2
+avremo               ln =         ∙𝑈∙𝐴
+                       𝜃2    𝑞
+
+
+
+
+         Processi e Impianti – Scambio termico                                     Scienze chimiche
+              DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+                                                   𝜃1                         𝜃1 − 𝜃2
+          Ricordando che                         ln = 𝑘 ∙ 𝑈 ∙ 𝐴        e   𝑘=
+                                                   𝜃2                            𝑞
+
+
+                       𝜃1 𝜃1 − 𝜃2                                                  𝜃1 − 𝜃2
+avremo               ln =         ∙𝑈∙𝐴                        da cui
+                                                                           𝑞 =𝑈∙𝐴∙
+                                                                                       𝜃1
+                       𝜃2    𝑞                                                      ln
+                                                                                       𝜃2
+
+
+
+
+         Processi e Impianti – Scambio termico                                          Scienze chimiche
+              DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+
+
+                                                   𝜃1                         𝜃1 − 𝜃2
+          Ricordando che                         ln = 𝑘 ∙ 𝑈 ∙ 𝐴        e   𝑘=
+                                                   𝜃2                            𝑞
+
+
+                       𝜃1 𝜃1 − 𝜃2                                                  𝜃1 − 𝜃2
+avremo               ln =         ∙𝑈∙𝐴                        da cui
+                                                                           𝑞 =𝑈∙𝐴∙
+                                                                                       𝜃1
+                       𝜃2    𝑞                                                      ln
+                                                                                       𝜃2
+
+                                                        𝜃1 − 𝜃2
+                                            ma                  = 𝜃𝑙𝑚
+                                                            𝜃1
+                                                         ln
+                                                            𝜃2
+         Processi e Impianti – Scambio termico                                          Scienze chimiche
+               DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+Otteniamo quindi l’Equazione di Progetto per uno scambiatore di calore che lavora in equicorrente
+
+
+
+                                                  𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+        Dove       U = coefficiente globale di trasferimento di calore
+                   A = superficie complessiva di trasferimento (dimensione apparecchiatura)
+                   lm = salto motore logaritmico medio su tutto lo scambiatore
+
+
+
+
+          Processi e Impianti – Scambio termico                                               Scienze chimiche
+               DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+Otteniamo quindi l’Equazione di Progetto per uno scambiatore di calore che lavora in equicorrente
+
+
+
+                                                  𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+        Dove       U = coefficiente globale di trasferimento di calore
+                   A = superficie complessiva di trasferimento (dimensione apparecchiatura)
+                   lm = salto motore logaritmico medio su tutto lo scambiatore
+
+
+                                𝜃1 − 𝜃2   𝑇𝐴𝑒 − 𝑇𝐵𝑒 − 𝑇𝐴𝑢 − 𝑇𝐵𝑢
+                          𝜃𝑙𝑚 =         =
+                                    𝜃1            𝑇𝐴𝑒 − 𝑇𝐵𝑒
+                                 ln            ln
+                                    𝜃2
+                                                  𝑇𝐴𝑢 − 𝑇𝐵𝑢
+          Processi e Impianti – Scambio termico                                               Scienze chimiche
+               DIMENSIONAMENTO TERMICO DEGLI SCAMBIATORI DI CALORE
+
+Otteniamo quindi l’Equazione di Progetto per uno scambiatore di calore che lavora in equicorrente
+
+
+
+                                                  𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+        Ricordiamo che l’equazione di progetto è stata ricavata sotto le seguenti ipotesi:
+
+                     1) Assenza di dispersioni termiche (scambiatore adiabatico)
+                     2) Coefficiente globale di trasferimento U costante lungo lo scambiatore
+                     3) W e cp costanti lungo lo scambiatore (k = costante)
+                     4) Scambio termico in equicorrente pura
+                     5) Calore coinvolto solo «sensibile» e assenza di passaggi di stato
+
+          Processi e Impianti – Scambio termico                                                 Scienze chimiche
+                       DIMENSIONAMENTO IN CONTROCORRENTE
+
+
+
+
+Processi e Impianti – Scambio termico                      Scienze chimiche
+                       DIMENSIONAMENTO IN CONTROCORRENTE
+
+
+
+                                                Anche in questo caso l’equazione di
+                                                    progetto che si ottiene è:
+
+
+                                                      𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+
+
+
+
+Processi e Impianti – Scambio termico                                        Scienze chimiche
+                       DIMENSIONAMENTO IN CONTROCORRENTE
+
+
+
+                                                Anche in questo caso l’equazione di
+                                                    progetto che si ottiene è:
+
+
+                                                       𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+
+                                                dove però il salto motore logaritmico
+                                                           medio diventa
+
+
+                                                    𝜃1 − 𝜃2   𝑇𝐴𝑒 − 𝑇𝐵𝑢 − 𝑇𝐴𝑢 − 𝑇𝐵𝑒
+                                              𝜃𝑙𝑚 =         =
+                                                        𝜃1            𝑇𝐴𝑒 − 𝑇𝐵𝑢
+                                                     ln            ln
+                                                        𝜃2
+                                                                      𝑇𝐴𝑢 − 𝑇𝐵𝑒
+
+Processi e Impianti – Scambio termico                                         Scienze chimiche
+                     CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+• Lo scambio di calore in controcorrente avviene in
+                                                            EQUICORRENTE
+  condizioni cineticamente più favorevoli rispetto allo
+  schema di flusso in equicorrente.
+
+
+
+
+                                                             CONTROCORRENTE
+
+
+
+
+          Processi e Impianti – Scambio termico                               Scienze chimiche
+                     CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+• Lo scambio di calore in controcorrente avviene in
+                                                            EQUICORRENTE
+  condizioni cineticamente più favorevoli rispetto allo
+  schema di flusso in equicorrente.
+• Questa differenza cinetica si può evincere, sul piano
+  concettuale, dal semplice confronto fra i profili di
+  temperatura nei due casi.
+
+
+
+
+                                                             CONTROCORRENTE
+
+
+
+
+          Processi e Impianti – Scambio termico                               Scienze chimiche
+                     CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+• Lo scambio di calore in controcorrente avviene in
+                                                            EQUICORRENTE
+  condizioni cineticamente più favorevoli rispetto allo
+  schema di flusso in equicorrente.
+• Questa differenza cinetica si può evincere, sul piano
+  concettuale, dal semplice confronto fra i profili di
+  temperatura nei due casi.
+• Il salto motore , infatti, ha un andamento molto più
+  regolare nel caso della controcorrente, mentre
+  adottando l’equicorrente,  presenta una notevole
+  “strozzatura” in corrispondenza dell’estremità dello       CONTROCORRENTE
+
+  scambiatore da cui escono le correnti fluide.
+
+
+
+
+          Processi e Impianti – Scambio termico                               Scienze chimiche
+                     CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+• Lo scambio di calore in controcorrente avviene in
+                                                            EQUICORRENTE
+  condizioni cineticamente più favorevoli rispetto allo
+  schema di flusso in equicorrente.
+• Questa differenza cinetica si può evincere, sul piano
+  concettuale, dal semplice confronto fra i profili di
+  temperatura nei due casi.
+• Il salto motore , infatti, ha un andamento molto più
+  regolare nel caso della controcorrente, mentre
+  adottando l’equicorrente,  presenta una notevole
+  “strozzatura” in corrispondenza dell’estremità dello       CONTROCORRENTE
+
+  scambiatore da cui escono le correnti fluide.
+• Inoltre, mentre nel caso dell’equicorrente TBu può al
+  massimo essere uguale a TAu (quando lo scambiatore
+  ha superficie infinita), con lo schema della
+  controcorrente TBu può anche essere superiore a TAu.
+
+
+          Processi e Impianti – Scambio termico                               Scienze chimiche
+                       CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+Confrontiamo il salto motore logaritmico medio, a parità di temperature di ingresso e di uscita dei due fluidi, per
+           uno scambiatore che lavora in equicorrente rispetto ad uno che lavora in controcorrente
+
+
+
+
+            Processi e Impianti – Scambio termico                                                           Scienze chimiche
+                       CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+Confrontiamo il salto motore logaritmico medio, a parità di temperature di ingresso e di uscita dei due fluidi, per
+           uno scambiatore che lavora in equicorrente rispetto ad uno che lavora in controcorrente
+
+
+
+                                             𝑇𝐴𝑒 = 90℃            𝑇𝐵𝑒 = 15℃
+                                             𝑇𝐴𝑢 = 40℃           𝑇𝐵𝑢 = 35℃
+
+
+
+
+            Processi e Impianti – Scambio termico                                                           Scienze chimiche
+                       CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+Confrontiamo il salto motore logaritmico medio, a parità di temperature di ingresso e di uscita dei due fluidi, per
+           uno scambiatore che lavora in equicorrente rispetto ad uno che lavora in controcorrente
+
+
+
+                                             𝑇𝐴𝑒 = 90℃            𝑇𝐵𝑒 = 15℃
+                                             𝑇𝐴𝑢 = 40℃           𝑇𝐵𝑢 = 35℃
+
+
+
+
+     90℃                                         40℃
+
+
+     15℃                                         35℃
+           1                                 2
+
+
+
+            Processi e Impianti – Scambio termico                                                           Scienze chimiche
+                        CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+ Confrontiamo il salto motore logaritmico medio, a parità di temperature di ingresso e di uscita dei due fluidi, per
+            uno scambiatore che lavora in equicorrente rispetto ad uno che lavora in controcorrente
+
+
+
+                                              𝑇𝐴𝑒 = 90℃            𝑇𝐵𝑒 = 15℃
+                                              𝑇𝐴𝑢 = 40℃           𝑇𝐵𝑢 = 35℃
+
+
+
+
+      90℃                                         40℃
+𝜽𝟏 = 𝟕𝟓℃                                            𝜽𝟐 = 𝟓℃
+      15℃                                         35℃
+            1                                 2
+
+
+
+             Processi e Impianti – Scambio termico                                                           Scienze chimiche
+                        CONFRONTO FRA EQUICORRENTE E CONTROCORRENTE
+
+ Confrontiamo il salto motore logaritmico medio, a parità di temperature di ingresso e di uscita dei due fluidi, per
+            uno scambiatore che lavora in equicorrente rispetto ad uno che lavora in controcorrente
+
+
+
+                                              𝑇𝐴𝑒 = 90℃            𝑇𝐵𝑒 = 15℃
+                                              𝑇𝐴𝑢 = 40℃           𝑇𝐵𝑢 = 35℃
+
+
+
+
+      90℃                                         40℃                 90℃                                40℃
+𝜽𝟏 = 𝟕𝟓℃                                            𝜽𝟐 = 𝟓℃     𝜽𝟏 = 𝟓𝟓℃                                   𝜽𝟐 = 𝟐𝟓℃
+      15℃                                         35℃                   35℃                              15℃
+            1                                 2                               1                        2
+
+
+
+             Processi e Impianti – Scambio termico                                                           Scienze chimiche
+                         EQUICORRENTE                                           CONTROCORRENTE
+
+
+      90℃                                           40℃               90℃                        40℃
+𝜽𝟏 = 𝟕𝟓℃                                              𝜽𝟐 = 𝟓℃   𝜽𝟏 = 𝟓𝟓℃                           𝜽𝟐 = 𝟐𝟓℃
+     15℃                                            35℃              35℃                         15℃
+            1                                   2                           1                    2
+
+
+
+
+                Processi e Impianti – Scambio termico                                                Scienze chimiche
+                         EQUICORRENTE                                                  CONTROCORRENTE
+
+
+      90℃                                           40℃                     90℃                         40℃
+𝜽𝟏 = 𝟕𝟓℃                                              𝜽𝟐 = 𝟓℃         𝜽𝟏 = 𝟓𝟓℃                            𝜽𝟐 = 𝟐𝟓℃
+     15℃                                            35℃                     35℃                         15℃
+            1                                   2                                 1                     2
+
+
+
+
+                                                        𝜃1 − 𝜃2   𝑇𝐴𝑒 − 𝑇𝐵𝑢 − 𝑇𝐴𝑢 − 𝑇𝐵𝑒   75 − 5
+      EQUICORRENTE                                𝜃𝑙𝑚 =         =                       =        = 25.8 ℃
+                                                            𝜃1            𝑇𝐴𝑒 − 𝑇𝐵𝑢           75
+                                                         ln            ln                  ln
+                                                            𝜃2                                 5
+                                                                          𝑇𝐴𝑢 − 𝑇𝐵𝑒
+
+
+
+
+                Processi e Impianti – Scambio termico                                                       Scienze chimiche
+                         EQUICORRENTE                                                  CONTROCORRENTE
+
+
+      90℃                                           40℃                     90℃                         40℃
+𝜽𝟏 = 𝟕𝟓℃                                              𝜽𝟐 = 𝟓℃         𝜽𝟏 = 𝟓𝟓℃                            𝜽𝟐 = 𝟐𝟓℃
+     15℃                                            35℃                     35℃                         15℃
+            1                                   2                                 1                     2
+
+
+
+
+                                                        𝜃1 − 𝜃2   𝑇𝐴𝑒 − 𝑇𝐵𝑒 − 𝑇𝐴𝑢 − 𝑇𝐵𝑢   75 − 5
+      EQUICORRENTE                                𝜃𝑙𝑚 =         =                       =        = 25.8 ℃
+                                                            𝜃1            𝑇𝐴𝑒 − 𝑇𝐵𝑒           75
+                                                         ln            ln                  ln
+                                                            𝜃2                                 5
+                                                                          𝑇𝐴𝑢 − 𝑇𝐵𝑢
+
+
+                                                       𝜃1 − 𝜃2   𝑇𝐴𝑒 − 𝑇𝐵𝑢 − 𝑇𝐴𝑢 − 𝑇𝐵𝑒   55 − 25
+     CONTROCORRENTE                              𝜃𝑙𝑚 =         =                       =         = 38.0 ℃
+                                                           𝜃1            𝑇   − 𝑇             55
+                                                        ln            ln
+                                                                          𝐴𝑒    𝐵𝑢        ln
+                                                           𝜃2                                25
+                                                                         𝑇𝐴𝑢 − 𝑇𝐵𝑒
+
+                Processi e Impianti – Scambio termico                                                       Scienze chimiche
+                                        EQUICORRENTE   𝜃𝑙𝑚 = 25.8 ℃
+
+                                    CONTROCORRENTE     𝜃𝑙𝑚 = 38.0 ℃
+
+
+
+
+Processi e Impianti – Scambio termico                                 Scienze chimiche
+                                        EQUICORRENTE      𝜃𝑙𝑚 = 25.8 ℃
+
+                                    CONTROCORRENTE        𝜃𝑙𝑚 = 38.0 ℃
+
+
+
+                              essendo              𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+
+            A parità di A ed U                         𝑞𝑐𝑜𝑛𝑡𝑟𝑜𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒 > 𝑞𝑒𝑞𝑢𝑖𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒
+
+
+
+
+Processi e Impianti – Scambio termico                                                Scienze chimiche
+                                             EQUICORRENTE      𝜃𝑙𝑚 = 25.8 ℃
+
+                                         CONTROCORRENTE        𝜃𝑙𝑚 = 38.0 ℃
+
+
+
+                                   essendo              𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚
+
+                 A parità di A ed U                         𝑞𝑐𝑜𝑛𝑡𝑟𝑜𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒 > 𝑞𝑒𝑞𝑢𝑖𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒
+
+Oppure, fissata la necessaria velocità di trasferimento di calore q (dal bilancio di energia), si avrà
+
+
+                              𝐴𝑐𝑜𝑛𝑡𝑟𝑜𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒 < 𝐴𝑒𝑞𝑢𝑖𝑐𝑜𝑟𝑟𝑒𝑛𝑡𝑒
+     Processi e Impianti – Scambio termico                                                               Scienze chimiche
+Malgrado lo svantaggio cinetico, in taluni casi l’equicorrente può essere preferita alla controcorrente.
+
+
+
+
+    Processi e Impianti – Scambio termico                                                          Scienze chimiche
+   Malgrado lo svantaggio cinetico, in taluni casi l’equicorrente può essere preferita alla controcorrente.
+Si consideri, ad esempio, lo scambio termico fra un fluido A (prodotti caldi di combustione che si raffreddano
+                   da 900 ℃ a 450 ℃) e un fluido B (aria che si riscalda da 20 ℃ a 350 ℃).
+
+
+
+
+        Processi e Impianti – Scambio termico                                                         Scienze chimiche
+   Malgrado lo svantaggio cinetico, in taluni casi l’equicorrente può essere preferita alla controcorrente.
+Si consideri, ad esempio, lo scambio termico fra un fluido A (prodotti caldi di combustione che si raffreddano
+                   da 900 ℃ a 450 ℃) e un fluido B (aria che si riscalda da 20 ℃ a 350 ℃).
+
+
+
+
+        Processi e Impianti – Scambio termico                                                         Scienze chimiche
+   Malgrado lo svantaggio cinetico, in taluni casi l’equicorrente può essere preferita alla controcorrente.
+Si consideri, ad esempio, lo scambio termico fra un fluido A (prodotti caldi di combustione che si raffreddano
+                   da 900 ℃ a 450 ℃) e un fluido B (aria che si riscalda da 20 ℃ a 350 ℃).
+
+
+
+
+        Processi e Impianti – Scambio termico                                                         Scienze chimiche
+La temperatura della parete metallica che separa i due fluidi può essere considerata, in ogni sezione dello
+scambiatore, vicina al valore intermedio fra le temperature dei due fluidi in quella sezione (essendo quasi uguali i
+coefficienti di trasporto di calore nei due fluidi e trascurando la resistenza conduttiva). Si può osservare che
+l’equicorrente presenta, nei confronti della controcorrente, un duplice vantaggio: l’estremità “calda” dello
+scambiatore è meno calda (460 ℃ rispetto a 625 ℃, con conseguente minor affaticamento termico del materiale) e
+l’estremità “fredda” dello scambiatore è meno fredda (400 ℃ rispetto a 235 ℃ , con minore possibilità di
+condensazioni corrosive nel caso in cui i prodotti di combustione contengano composti dello zolfo).
+
+             Processi e Impianti – Scambio termico                                                       Scienze chimiche
+                     PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+
+
+
+TAe
+
+                                              TBu
+                                              TBe
+
+                             TAu
+
+
+      Processi e Impianti – Scambio termico                        Scienze chimiche
+                                        SCAMBIATORE A FASCIO
+                                            TUBIERO 1 - 1
+
+
+
+
+Processi e Impianti – Scambio termico                 Scienze chimiche
+                                        SCAMBIATORE A FASCIO
+                                            TUBIERO 1 - 2
+
+
+
+
+Processi e Impianti – Scambio termico                    Scienze chimiche
+                                        SCAMBIATORE A FASCIO
+                                            TUBIERO 1 - 4
+
+
+
+
+Processi e Impianti – Scambio termico                    Scienze chimiche
+                                        SCAMBIATORE A FASCIO
+                                            TUBIERO 2 - 4
+
+
+
+
+Processi e Impianti – Scambio termico                    Scienze chimiche
+                     PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+
+
+
+TAe                                                 La condizione fluidodinamica è mista tra equi e controcorrente.
+                                                     Si usa quindi l’equazione di progetto per uno scambiatore in
+                                                    controcorrente e si corregge il salto motore logaritmico medio
+                                              TBu                  per un opportuno coefficiente < 1
+
+                                              TBe
+
+                            TAu
+
+
+
+      Processi e Impianti – Scambio termico                                                              Scienze chimiche
+                     PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+
+
+
+TAe                                                 La condizione fluidodinamica è mista tra equi e controcorrente.
+                                                     Si usa quindi l’equazione di progetto per uno scambiatore in
+                                                    controcorrente e si corregge il salto motore logaritmico medio
+                                              TBu                  per un opportuno coefficiente < 1
+
+                                              TBe
+                                                                    𝑞 = 𝑈 ∙ 𝐴 ∙ 𝜃𝑙𝑚 ∙ 𝑌
+                            TAu
+
+
+
+      Processi e Impianti – Scambio termico                                                              Scienze chimiche
+               PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+Il valore di Y si calcola in funzione delle temperature estreme in grafici, specifici per la
+            tipologia di scambiatore, parametrizzati per due grandezze X e Z.
+
+
+
+
+Processi e Impianti – Scambio termico                                                          Scienze chimiche
+                PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+ Il valore di Y si calcola in funzione delle temperature estreme in grafici, specifici per la
+             tipologia di scambiatore, parametrizzati per due grandezze X e Z.
+
+
+
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+
+
+
+ Processi e Impianti – Scambio termico                                                          Scienze chimiche
+                PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+ Il valore di Y si calcola in funzione delle temperature estreme in grafici, specifici per la
+             tipologia di scambiatore, parametrizzati per due grandezze X e Z.
+
+
+
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+
+   𝑇𝐴𝑒 − 𝑇𝐴𝑢
+𝑍=
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+
+
+ Processi e Impianti – Scambio termico                                                          Scienze chimiche
+                PROGETTO DEGLI SCAMBIATORI A FASCIO TUBIERO
+
+ Il valore di Y si calcola in funzione delle temperature estreme in grafici, specifici per la
+             tipologia di scambiatore, parametrizzati per due grandezze X e Z.
+
+
+
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+
+   𝑇𝐴𝑒 − 𝑇𝐴𝑢
+𝑍=
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+
+
+ Processi e Impianti – Scambio termico                                                          Scienze chimiche
+           Il parametro Z rappresenta il rapporto tra le capacità termiche dei fluidi
+
+
+
+
+Processi e Impianti – Scambio termico                                                   Scienze chimiche
+           Il parametro Z rappresenta il rapporto tra le capacità termiche dei fluidi
+
+
+                     𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+
+
+Processi e Impianti – Scambio termico                                                   Scienze chimiche
+           Il parametro Z rappresenta il rapporto tra le capacità termiche dei fluidi
+
+
+                     𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+                         𝑊𝐴 𝑐𝑝𝐴 rappresenta la capacità termica del fluido A
+
+
+                         𝑊𝐵 𝑐𝑝𝐵 rappresenta la capacità termica del fluido B
+
+
+
+
+Processi e Impianti – Scambio termico                                                   Scienze chimiche
+           Il parametro Z rappresenta il rapporto tra le capacità termiche dei fluidi
+
+
+                     𝑞 = 𝑊𝐴 𝑐𝑝𝐴 𝑇𝐴𝑒 − 𝑇𝐴𝑢 = 𝑊𝐵 𝑐𝑝𝐵 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+                         𝑊𝐴 𝑐𝑝𝐴 rappresenta la capacità termica del fluido A
+
+
+                         𝑊𝐵 𝑐𝑝𝐵 rappresenta la capacità termica del fluido B
+
+
+
+                                           𝑊𝐵 𝑐𝑝𝐵 𝑇𝐴𝑒 − 𝑇𝐴𝑢
+                                        𝑍=       =
+                                           𝑊𝐴 𝑐𝑝𝐴 𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+
+Processi e Impianti – Scambio termico                                                   Scienze chimiche
+              Il parametro X rappresenta invece il rendimento dello scambiatore
+
+
+
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+
+
+
+Processi e Impianti – Scambio termico                                             Scienze chimiche
+              Il parametro X rappresenta invece il rendimento dello scambiatore
+
+
+                                                effettiva variazione della grandezza
+                                               in esame (riscaldamento del fluido B)
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+
+
+
+Processi e Impianti – Scambio termico                                                  Scienze chimiche
+              Il parametro X rappresenta invece il rendimento dello scambiatore
+
+
+                                                effettiva variazione della grandezza
+                                               in esame (riscaldamento del fluido B)
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+                                          massima variazione possibile della grandezza
+                                             in esame (riscaldamento del fluido B)
+
+
+
+
+Processi e Impianti – Scambio termico                                                    Scienze chimiche
+              Il parametro X rappresenta invece il rendimento dello scambiatore
+
+
+                                                effettiva variazione della grandezza
+                                               in esame (riscaldamento del fluido B)
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+                                          massima variazione possibile della grandezza
+                                             in esame (riscaldamento del fluido B)
+
+
+
+
+Processi e Impianti – Scambio termico                                                    Scienze chimiche
+              Il parametro X rappresenta invece il rendimento dello scambiatore
+
+
+                                                effettiva variazione della grandezza
+                                               in esame (riscaldamento del fluido B)
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+                                          massima variazione possibile della grandezza
+                                             in esame (riscaldamento del fluido B)
+
+
+
+
+                                                      Se Y risulta essere minore di 0,75,
+                                                        conviene cambiare tipologia di
+                                                     scambiatore (per esempio, passando
+                                                           dal tipo 1-2 al tipo 2-4).
+
+
+
+
+Processi e Impianti – Scambio termico                                                       Scienze chimiche
+                                               Scambiatore fascio tubiero 1 - 2
+
+
+
+
+ X rendimento dello
+    scambiatore
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+    Z rapporto
+  tra le capacità
+     termiche
+
+
+   𝑇𝐴𝑒 − 𝑇𝐴𝑢
+𝑍=
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+                                                                         X
+
+             Processi e Impianti – Scambio termico                                Scienze chimiche
+                                               Scambiatore fascio tubiero 2 - 4
+
+
+
+
+ X rendimento dello
+    scambiatore
+
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+𝑋=
+   𝑇𝐴𝑒 − 𝑇𝐵𝑒
+
+    Z rapporto
+  tra le capacità
+     termiche
+
+
+   𝑇𝐴𝑒 − 𝑇𝐴𝑢
+𝑍=
+   𝑇𝐵𝑢 − 𝑇𝐵𝑒
+
+
+             Processi e Impianti – Scambio termico                                Scienze chimiche
+

@@ -1,0 +1,122 @@
+                             Esercizi da foto - Processi e Impianti
+
+               Testo ricostruito dalle due immagini caricate, con schemi ridisegnati in LATEX/TikZ.
+
+
+
+
+1. Esercizio di distillazione
+ Una miscela di composti organici con una portata massica totale di 5500 kg/h viene immessa in una
+ colonna di distillazione a piatti come liquido saturo per essere separata nei suoi due componenti. La
+ percentuale in peso del composto più volatile è del 15%. Si vuole ottenere un distillato con una frazione
+ molare del composto più volatile pari a 0,90. I pesi molecolari dei due composti sono rispettivamente
+ 85 e 160. Il rapporto di riflusso ottimale è fissato a 1,5 volte il rapporto di riflusso minimo.
+
+Calcolare
+
+  1. Le portate orarie di distillato e di corpo di fondo in uscita dalla colonna.
+
+  2. Il numero di piatti teorici richiesto per la separazione con il metodo grafico di McCabe-Thiele,
+     avendo a disposizione la relativa curva di equilibrio.
+
+  3. Considerando lo schema di processo riportato in Figura 1, in cui un recupero termico viene effettuato
+     usando il corpo di fondo B come liquido saturo per preriscaldare l’alimentazione F in colonna,
+     calcolare la temperatura del prodotto di fondo dopo lo scambio termico. L’alimentazione prima
+     dello scambiatore si trova a 20 °C.
+
+Dati termici
+
+     Corrente           Temperatura di ebollizione (°C)            Calore specifico (kJ/(kmol °C))
+
+     Alimentazione                          156                                      60
+     Distillato                             117                                      55
+     Corpo di fondo                         169                                      85
+
+
+                                                                              D
+
+
+
+
+                                B
+                                        F           F
+
+
+
+
+                                                            B
+                                                     Colonna a piatti
+
+     Figura 1: Schema di processo semplificato della colonna di distillazione con recupero termico.
+
+
+
+                                                        1
+2. Esercizio di estrazione liquido-liquido
+
+ Si vuole purificare, attraverso un’estrazione con solvente in corrente incrociata, una miscela
+ costituita da un solvente B e da un soluto A, utilizzando un solvente C parzialmente miscibile con
+ B. La miscela binaria di partenza L0 ha una portata massica pari a 180 kg/h e una composizione in
+ A, come frazione massica, pari a 0,40. Si vuole arrivare a una miscela binaria purificata con frazione
+ massica di A pari a 0,10. La portata ottimizzata di solvente estraente V0 è pari a 120 kg/h. Utilizzare
+ il diagramma di fase ternario riportato in Figura 2.
+
+Calcolare
+
+  1. Il numero di stadi estrattivi necessari alla separazione.
+
+  2. Le portate orarie di raffinato ed estratto in uscita dall’ultimo stadio.
+
+  3. La composizione dell’estratto e del raffinato in uscita dal primo stadio estrattivo.
+
+  4. La composizione del composto A nelle miscele binarie di estratto e raffinato in uscita dal terzo
+     stadio estrattivo.
+
+
+
+                    1
+                         C
+
+                   0,9
+
+
+                   0,8
+
+
+                   0,7
+
+
+                   0,6
+
+
+                   0,5
+
+
+                   0,4
+
+
+                   0,3
+
+
+                   0,2
+
+
+                   0,1
+
+
+                    0B                                                                     A
+                         0   0,1         0,3    0,4   0,5   0,6    0,7   0,8   0,9     1
+
+
+Figura 2: Diagramma ternario ricostruito dalla foto. Le linee sottili sono linee di lettura a composizione
+costante; non sono tie-lines.
+
+
+
+
+               Documento generato automaticamente da testo e figure ricostruiti dalle immagini.
+
+
+
+                                                      2
+

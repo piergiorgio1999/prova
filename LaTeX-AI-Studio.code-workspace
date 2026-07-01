@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "/Users/pg/Documents/prova/"
+    }
+  ],
+  "settings": {
+    "latex-workshop.latex.recipe.default": "latexmk (lualatex)",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "workbench.editor.enablePreview": false
+  },
+  "extensions": {
+    "recommendations": [
+      "saoudrizwan.claude-dev",
+      "James-Yu.latex-workshop",
+      "eamodio.gitlens",
+      "kilocode.Kilo-Code"
+    ]
+  }
+}

@@ -1,0 +1,1337 @@
+    CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                   Metodo grafico di McCabe-Thiele
+                                                       Bilancio di materia riferito al componente più
+                                                      volatile sulla porzione di colonna compresa tra
+                                                              la sommità e il generico piatto n
+
+
+                                                          𝑉 ∙ 𝑦𝑛+1 = 𝐿 ∙ 𝑥𝑛 + 𝐷 ∙ 𝑥𝐷
+                                              D, xD
+                                                      Indichiamo con x e y le composizioni delle fasi
+                                                             che si incontrano negli interstadi
+
+
+                                                                 𝑉𝑦 = 𝐿𝑥 + 𝐷𝑥𝐷
+
+L, xn               V, yn+1                                         𝐿   𝐷𝑥𝐷
+                                                                  𝑦= 𝑥+
+                                                                    𝑉    𝑉
+        Processi e Impianti – Distillazione                                                       Scienze chimiche
+    CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                   Metodo grafico di McCabe-Thiele
+
+                                                                       𝐿   𝐷𝑥𝐷
+                                                                     𝑦= 𝑥+
+                                                                       𝑉    𝑉
+
+                                                                       𝑉 =𝐿+𝐷
+                         L0                   D, xD
+                                                                       𝐿     𝐷𝑥𝐷
+                                                                   𝑦=     𝑥+
+                                                                      𝐿+𝐷    𝐿+𝐷
+
+                                                                       𝐿ൗ      𝐷ൗ 𝑥
+L, xn               V, yn+1                    Moltiplichiamo e
+                                                                  𝑦=     𝐷  𝑥+   𝐷 𝐷
+                                               dividiamo per D       𝐿ൗ + 1    𝐿ൗ + 1
+                                                                       𝐷         𝐷
+        Processi e Impianti – Distillazione                                         Scienze chimiche
+    CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                   Metodo grafico di McCabe-Thiele
+
+                                                                𝐿ൗ        𝑥𝐷
+                                                           𝑦=     𝐷  𝑥+
+                                                              𝐿ൗ + 1    𝐿ൗ + 1
+                                                                𝐷         𝐷
+
+                         L0                   D, xD      𝐿0 𝐿
+                                                      𝐸=   =                  Rapporto di riflusso
+                                                         𝐷 𝐷
+
+                                                                   𝐸      𝑥𝐷
+                                                               𝑦=     𝑥+
+                                                                  𝐸+1    𝐸+1
+L, xn               V, yn+1
+                                                      Retta di lavoro della sezione di arricchimento
+
+
+        Processi e Impianti – Distillazione                                                     Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+
+
+xD                                                              𝐸      𝑥𝐷
+                                                            𝑦=     𝑥+
+                                                               𝐸+1    𝐸+1
+                                                                      𝑥 = 𝑥𝐷
+
+                                                    𝐸        𝑥𝐷   𝐸+1
+                                                𝑦=     𝑥𝐷 +     =     𝑥𝐷 = 𝑥𝐷
+                                                   𝐸+1      𝐸+1 𝐸+1
+
+                                                  La retta di lavoro della sezione di
+                                           xD     arricchimento passa per il punto       𝑥𝐷
+                                                   (xD, xD) e interseca l’asse y in
+                                                      corrispondenza del valore
+                                                                                        𝐸+1
+     Processi e Impianti – Distillazione                                                 Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+
+
+xD                                              Il punto (xD, xD) rappresenta le composizioni delle correnti
+                                                    che si incontrano nell’«interstadio» 0 della colonna
+
+
+
+
+                                                              V1, xD
+                                                                                           D, xD
+                                                              1                 L0, xD
+                                           xD
+
+
+
+     Processi e Impianti – Distillazione                                                           Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+𝐿ത , 𝑥𝑚−1         ത 𝑦𝑚
+                  𝑉,
+                                             Bilancio di materia riferito al componente più
+                                            volatile sulla porzione di colonna compresa tra
+                                              il generico piatto m e il fondo della colonna
+
+
+                                               𝐿ത ∙ 𝑥𝑚−1 = 𝑉ത ∙ 𝑦𝑚 + 𝐵 ∙ 𝑥𝐵
+
+                                            Indichiamo con x e y le composizioni delle fasi
+                                                   che si incontrano negli interstadi
+
+
+                                                       𝐿ത 𝑥 = 𝑉𝑦
+                                                              ത + 𝐵𝑥𝐵
+
+                                                          𝐿ത  𝐵𝑥𝐵
+                                                        𝑦= 𝑥−
+        B, xB                                             𝑉ത   𝑉ത
+      Processi e Impianti – Distillazione                                               Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+𝐿ത , 𝑥𝑚+1         ത 𝑦𝑚
+                  𝑉,
+                                                           𝐿ത  𝐵𝑥𝐵
+                                                         𝑦= 𝑥+
+                                                           𝑉ത   𝑉ത
+                                             Per il bilancio di materia totale sulla porzione
+                                             di colonna compresa tra il generico piatto m e
+                                                          il fondo della colonna
+
+
+                                               𝑉ത = 𝐿ത − 𝐵                       𝑥 = 𝑥𝐵
+
+                                               𝐿ത    𝐵𝑥𝐵 𝑥𝐵 𝐿ത − 𝐵
+                                            𝑦 = 𝑥𝐵 −     =         = 𝑥𝐵
+                                               𝑉ത     𝑉ത      𝑉ത
+        B, xB
+      Processi e Impianti – Distillazione                                                       Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+
+     xD                                                             𝐿ത  𝐵𝑥𝐵
+                                                                  𝑦= 𝑥−
+                                                                    𝑉ത   𝑉ത
+                                                     Retta di lavoro della sezione di esaurimento
+
+
+                                                             La retta di lavoro della sezione di
+                                                              esaurimento passa per il punto
+                                                                 (xB, xB) ma non possiamo
+                                                               costruire la retta perché non
+                                                             conosciamo il valore del rapporto
+                                                                        tra le portate
+xB
+           xB                                   xD
+
+
+
+          Processi e Impianti – Distillazione                                                       Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+
+     xD                                              Il punto (xB, xB) rappresenta le composizioni delle correnti
+                                                        che si incontrano nell’«interstadio» N+1 della colonna
+
+
+
+
+                                                                       N                ത 𝑥𝐵
+                                                                                        𝑉,
+
+
+
+
+xB
+           xB                                   xD
+
+
+
+          Processi e Impianti – Distillazione                                                           Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+
+     xD                                                             𝐿ത  𝐵𝑥𝐵
+                                                                  𝑦= 𝑥−
+                                                                    𝑉ത   𝑉ത
+                                                     Retta di lavoro della sezione di esaurimento
+
+
+                                                             La retta di lavoro della sezione di
+                                                              esaurimento passa per il punto
+                                                                 (xB, xB) ma non possiamo
+                                                               costruire la retta perché non
+                                                             conosciamo il valore del rapporto
+                                                                        tra le portate
+xB
+           xB                                   xD
+                                                       Dobbiamo allora far ricorso alla cosiddetta
+                                                               RETTA DI FREDDEZZA
+
+          Processi e Impianti – Distillazione                                                       Scienze chimiche
+       CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                      Metodo grafico di McCabe-Thiele
+
+ La RETTA DI FREDDEZZA è il luogo dei punti di incontro delle due rette di lavoro, della sezione
+                             di arricchimento e di esaurimento
+
+
+
+                 𝑉𝑦 = 𝐿𝑥 + 𝐷𝑥𝐷                                ത = 𝐿ത 𝑥 − 𝐵𝑥𝐵
+                                                              𝑉𝑦
+                       arricchimento                              esaurimento
+
+
+
+          I punti appartenenti alla retta di freddezza, che       𝑉𝑦𝑖 = 𝐿𝑥𝑖 + 𝐷𝑥𝐷        i
+
+      indichiamo con le generiche coordinate xi, yi, devono
+        soddisfare contemporaneamente le due equazioni            ത 𝑖 = 𝐿ത 𝑥𝑖 − 𝐵𝑥𝐵
+                                                                  𝑉𝑦
+
+Sottraendo membro a membro si ottiene          𝑉ത − 𝑉 𝑦𝑖 = 𝐿ത − 𝐿 𝑥𝑖 − 𝐵𝑥𝐵 + 𝐷𝑥𝐷
+
+        Processi e Impianti – Distillazione                                                  Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+                                             𝑉ത − 𝑉 𝑦𝑖 = 𝐿ത − 𝐿 𝑥𝑖 − 𝐵𝑥𝐵 + 𝐷𝑥𝐷
+       𝐿
+
+                                                     ma      𝐹𝑧𝐹 = 𝐵𝑥𝐵 + 𝐷𝑥𝐷
+
+                                                   𝑉ത − 𝑉 𝑦𝑖 = 𝐿ത − 𝐿 𝑥𝑖 − 𝐹𝑧𝐹
+
+           𝑉ത                             D’altra parte     𝑉 =𝐿+𝐷        𝑉ത = 𝐿ത − 𝐵
+
+                                      Sottraendo membro a
+                                       membro si ottiene
+                                                              𝑉ത − 𝑉 = 𝐿ത − 𝐿 − 𝐵 + 𝐷
+
+Processi e Impianti – Distillazione                                                 Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+                                                             𝑉ത − 𝑉 = 𝐿ത − 𝐿 − 𝐵 + 𝐷
+       𝐿
+
+                                                                𝑉ത − 𝑉 = 𝐿ത − 𝐿 − 𝐹
+
+                                         Riprendiamo la      𝑉ത − 𝑉 𝑦𝑖 = 𝐿ത − 𝐿 𝑥𝑖 − 𝐹𝑧𝐹
+
+                                      e sostituiamo       𝐿ത − 𝐿 − 𝐹 𝑦𝑖 = 𝐿ത − 𝐿 𝑥𝑖 − 𝐹𝑧𝐹
+           𝑉ത
+
+                                                                 𝐿ത − 𝐿           𝐹𝑧𝐹
+                                        ovvero        𝑦𝑖 =               𝑥𝑖 −
+                                                              𝐿ത − 𝐿 − 𝐹      𝐿ത − 𝐿 − 𝐹
+
+Processi e Impianti – Distillazione                                                    Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+
+                                                                𝐿ത − 𝐿           𝐹𝑧𝐹
+       𝐿                                         𝑦𝑖 =                   𝑥𝑖 −
+                                                             𝐿ത − 𝐿 − 𝐹      𝐿ത − 𝐿 − 𝐹
+
+                                                                𝐿ത − 𝐿
+                          Moltiplichiamo e                         𝐹                 𝑧𝐹
+                          dividiamo il secondo   𝑦𝑖 =                    𝑥𝑖 −
+                          membro per F                       𝐿ത − 𝐿             𝐿ത − 𝐿
+                                                                      −1                −1
+           𝑉ത
+                                                                𝐹                  𝐹
+
+                                                                      𝐿ത − 𝐿
+                                          e indichiamo con         𝑖=
+                                                                         𝐹
+Processi e Impianti – Distillazione                                                     Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+                                                                     𝑖        𝑧𝐹
+     xD                                                        𝑦𝑖 =     𝑥𝑖 −
+                                                                    𝑖−1      𝑖−1
+                                                                     Retta di freddezza
+
+
+                                                                      Se xi = zF allora
+
+
+                                                           𝑖        𝑧𝐹   𝑖 − 1 𝑧𝐹
+                                                     𝑦𝑖 =     𝑧𝐹 −     =          = 𝑧𝐹
+                                                          𝑖−1      𝑖−1     𝑖−1
+xB
+                                  zF            xD     E quindi la retta di freddezza passa per il punto
+           xB
+                                                                               (zF, zF)
+
+
+          Processi e Impianti – Distillazione                                                        Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+
+     xD
+
+                                                                     𝑖        𝑧𝐹
+                                                               𝑦𝑖 =     𝑥𝑖 −
+                                                                    𝑖−1      𝑖−1
+                                                                     Retta di freddezza
+
+
+                                                     Dobbiamo ora trovare un modo di calcolare i in modo
+                                                       di conoscere il coefficiente angolare della retta
+
+xB
+           xB                     zF            xD
+
+
+
+          Processi e Impianti – Distillazione                                                  Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+                      Si parte dal bilancio di energia per il piatto di alimentazione
+
+
+         L, HL                 V, HV             Si assume che le entalpie specifiche della fase liquida HL e di quella vapore HV
+                                                        non varino apprezzabilmente nel passaggio attraverso il piatto
+
+
+ F                                                                          ഥ𝐿
+                                                                       𝐻𝐿 = 𝐻                       ഥ𝑉
+                                                                                               𝐻𝑉 = 𝐻
+ HF
+                                                                        Quindi il bilancio di energia sarà
+
+         𝐿ത , 𝐻
+              ഥ𝐿              ത 𝐻
+                              𝑉, ഥ𝑉
+                                                                               ത 𝑉 = 𝑉𝐻𝑉 + 𝐿ത 𝐻𝐿
+                                                                   𝐹𝐻𝐹 + 𝐿𝐻𝐿 + 𝑉𝐻
+
+                                                                             Raccogliendo avremo
+H = entalpie molari (Kcal mol)
+                                                                    𝐿ത − 𝐿 𝐻𝐿 − 𝐹𝐻𝐹 = 𝑉ത − 𝑉 𝐻𝑉
+
+                                       Abbiamo già ricavato come          𝑉ത − 𝑉 = 𝐿ത − 𝐿 − 𝐹
+ Processi e Impianti – Distillazione                                                                                   Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+                                          𝐿ത − 𝐿 𝐻𝐿 − 𝐹𝐻𝐹 = 𝑉ത − 𝑉 𝐻𝑉
+
+                                               𝑉ത − 𝑉 = 𝐿ത − 𝐿 − 𝐹
+        L, HL                 V, HV
+
+                                      𝐿ത − 𝐿 𝐻𝐿 − 𝐹𝐻𝐹 = 𝐿ത − 𝐿 𝐻𝑉 − 𝐹𝐻𝑉
+F
+HF                                      𝐿ത − 𝐿 𝐻𝑉 − 𝐻𝐿 = 𝐹 𝐻𝑉 − 𝐻𝐹
+
+        𝐿ത , 𝐻
+             ഥ𝐿              ത 𝐻
+                             𝑉, ഥ𝑉
+                                               𝐿ത − 𝐿      𝐻𝑉 − 𝐻𝐹
+                                                      = 𝑖=
+                                                  𝐹        𝐻𝑉 − 𝐻𝐿
+
+
+                                      Quindi il parametro i è legato alle caratteristiche
+                                                entalpiche della alimentazione
+
+
+Processi e Impianti – Distillazione                                                         Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+
+                                      𝐻𝑉 − 𝐻𝐹   Rappresenta l’entalpia (calore) necessaria a portare
+                                                una mole di alimentazione, in qualunque stato fisico
+                                                essa si trovi, allo stato di vapore saturo (è l’energia
+        L, HL                 V, HV             necessaria per vaporizzare una mole di
+                                                alimentazione)
+
+F                                     𝐻𝑉 − 𝐻𝐿   Rappresenta l’entalpia (calore) necessaria a portare
+                                                una mole di liquido saturo (alla composizione della
+HF                                              alimentazione) allo stato di vapore saturo.
+                                                Corrisponde chiaramente al calore latente di
+                                                vaporizzazione di una miscela di composizione pari
+        𝐿ത , 𝐻
+             ഥ𝐿              ത 𝐻
+                             𝑉, ഥ𝑉              alla alimentazione
+
+
+
+                                                            𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝐹
+                                                         𝑖=         =
+                                                            𝐻𝑉 − 𝐻𝐿    𝜆
+
+
+Processi e Impianti – Distillazione                                                                 Scienze chimiche
+            CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                           Metodo grafico di McCabe-Thiele
+                                                   T
+           Retta di freddezza
+           𝑖        𝑧𝐹                                                                Tb
+     𝑦𝑖 =     𝑥𝑖 −                                                 V
+          𝑖−1      𝑖−1
+  el caso in c i l’ali enta ione sia nella
+forma di LIQUIDO SATURO (miscela di a
+  e b alla sua temperatura di ebollizione)
+
+   𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝐿 𝜆                                                        F=L
+𝑖=        =       = =1
+      𝜆       𝜆    𝜆                               Ta
+       𝑖   1  1
+         =   = =∞                                                      zF
+      𝑖−1 1−1 0                                         1   x, y                  0
+             Processi e Impianti – Distillazione                                  Scienze chimiche
+            CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                           Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza                            Retta di freddezza
+
+
+
+           𝑖        𝑧𝐹
+     𝑦𝑖 =     𝑥𝑖 −
+          𝑖−1      𝑖−1
+  el caso in c i l’ali enta ione sia nella
+forma di LIQUIDO SATURO (miscela di a
+  e b alla sua temperatura di ebollizione)
+
+   𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝐿 𝜆
+𝑖=        =       = =1
+      𝜆       𝜆    𝜆
+                                                    xB                        zF   xD
+       𝑖   1  1
+         =   = =∞
+      𝑖−1 1−1 0
+             Processi e Impianti – Distillazione                                        Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+                                                    T
+           Retta di freddezza
+            𝑖        𝑧𝐹                                                          Tb
+      𝑦𝑖 =     𝑥𝑖 −                                          F=V
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella
+forma di VAPORE SATURO (miscela di a e
+ b alla sua temperatura di condensazione)
+
+    𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝑉 0
+ 𝑖=        =       = =0
+       𝜆       𝜆    𝜆                               Ta
+
+                                                                   zF
+                                                         1                   0
+              Processi e Impianti – Distillazione                            Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza
+            𝑖        𝑧𝐹
+      𝑦𝑖 =     𝑥𝑖 −
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella
+forma di VAPORE SATURO (miscela di a e
+ b alla sua temperatura di condensazione)
+
+    𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝑉 0
+ 𝑖=        =       = =0
+       𝜆       𝜆    𝜆
+
+           𝑖   0
+             =    =0
+          𝑖−1 0−1
+              Processi e Impianti – Distillazione                            Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza
+            𝑖        𝑧𝐹
+      𝑦𝑖 =     𝑥𝑖 −
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella
+forma di VAPORE SATURO (miscela di a e
+ b alla sua temperatura di condensazione)
+
+    𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝑉 0
+ 𝑖=        =       = =0
+       𝜆       𝜆    𝜆
+                                                     xB        zF      xD
+           𝑖   0
+             =    =0
+          𝑖−1 0−1
+              Processi e Impianti – Distillazione                            Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza
+            𝑖        𝑧𝐹
+      𝑦𝑖 =     𝑥𝑖 −
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella
+                                                      Retta di
+forma di VAPORE SATURO (miscela di a e              freddezza
+
+ b alla sua temperatura di condensazione)
+
+    𝐻𝑉 − 𝐻𝐹 𝐻𝑉 − 𝐻𝑉 0
+ 𝑖=        =       = =0
+       𝜆       𝜆    𝜆
+                                                            xB   zF    xD
+           𝑖   0
+             =    =0
+          𝑖−1 0−1
+              Processi e Impianti – Distillazione                            Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+                                                    T
+           Retta di freddezza
+            𝑖        𝑧𝐹                                                                         Tb
+      𝑦𝑖 =     𝑥𝑖 −                                                    V
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella                   calore
+forma di LIQUIDO SOTTORAFFREDDATO                            latente
+   (miscela di a e b ad una temperatura
+       inferiore a quella di ebollizione)
+                                                                   L
+                                                                                 calore
+   𝐻𝑉 − 𝐻𝐹 𝑐𝑝 𝑇𝐿 − 𝑇𝐹 + 𝜆                                                       sensibile
+𝑖=        =               >1                        Ta
+      𝜆           𝜆                                                             F
+                                                                           zF
+                                                         1                                  0
+              Processi e Impianti – Distillazione                                           Scienze chimiche
+             CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                            Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza
+                                                                      Retta di
+
+            𝑖        𝑧𝐹                                             freddezza
+
+
+      𝑦𝑖 =     𝑥𝑖 −
+           𝑖−1      𝑖−1
+   el caso in c i l’ali enta ione sia nella
+forma di LIQUIDO SOTTORAFFREDDATO
+   (miscela di a e b ad una temperatura
+       inferiore a quella di ebollizione)
+
+   𝐻𝑉 − 𝐻𝐹 𝑐𝑝 𝑇𝐿 − 𝑇𝐹 + 𝜆
+𝑖=        =               >1
+      𝜆           𝜆
+                                                     xB        zF            xD
+            𝑖
+              >1
+          𝑖−1
+              Processi e Impianti – Distillazione                                 Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+                                                  T
+                                                            calore              F
+         Retta di freddezza                                sensibile
+         𝑖        𝑧𝐹                                                                    Tb
+   𝑦𝑖 =     𝑥𝑖 −                                                       V
+        𝑖−1      𝑖−1
+el caso in c i l’ali enta ione sia nella
+forma di VAPORE SURRISCALDATO
+ (miscela di a e b ad una temperatura
+ superiore a quella di condensazione)
+
+   𝐻𝑉 − 𝐻𝐹 𝑐𝑝 𝑇𝑉 − 𝑇𝐹
+𝑖=        =           <1                          Ta
+      𝜆         𝜆
+
+                                                                           zF
+                                                       1                            0
+            Processi e Impianti – Distillazione                                     Scienze chimiche
+          CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                         Metodo grafico di McCabe-Thiele
+
+
+         Retta di freddezza
+         𝑖        𝑧𝐹
+   𝑦𝑖 =     𝑥𝑖 −
+        𝑖−1      𝑖−1
+el caso in c i l’ali enta ione sia nella
+forma di VAPORE SURRISCALDATO
+ (miscela di a e b ad una temperatura
+ superiore a quella di condensazione)
+
+   𝐻𝑉 − 𝐻𝐹 𝑐𝑝 𝑇𝑉 − 𝑇𝐹
+𝑖=        =           <1
+      𝜆         𝜆
+          𝑖
+             <0
+         𝑖−1
+            Processi e Impianti – Distillazione                           Scienze chimiche
+            CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                           Metodo grafico di McCabe-Thiele
+
+
+           Retta di freddezza
+           𝑖        𝑧𝐹
+     𝑦𝑖 =     𝑥𝑖 −
+          𝑖−1      𝑖−1                                Retta di
+                                                    lavoro della
+
+  el caso in c i l’ali enta ione sia nella           sezione di
+                                                    esaurimento
+
+  forma di VAPORE SURRISCALDATO
+                                                                     Retta di
+   (miscela di a e b ad una temperatura                            freddezza
+
+   superiore a quella di condensazione)
+
+   𝐻𝑉 − 𝐻𝐹 𝑐𝑝 𝑇𝑉 − 𝑇𝐹 + 𝜆
+𝑖=        =               <1
+      𝜆           𝜆
+                                                           xB      zF           xD
+            𝑖
+              <0
+          𝑖−1
+              Processi e Impianti – Distillazione                                    Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+                                                                  liquido        liquido
+                                                     miscela                sottoraffreddato
+                                                                  saturo
+                                                 liquido-vapore
+
+
+
+
+           Retta di freddezza
+        𝑖        𝑧𝐹                       vapore
+  𝑦𝑖 =     𝑥𝑖 −                           saturo
+
+       𝑖−1      𝑖−1
+
+                𝐻𝑉 − 𝐻𝐹
+             𝑖=                          vapore
+                   𝜆                  surriscaldato
+
+
+
+
+                                                                    𝑧𝐹
+
+
+
+Processi e Impianti – Distillazione                                                      Scienze chimiche
+ CALCOLO DEL NUMERO DEI
+  PIATTI DI UNA COLONNA DI
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+                                            xB   zF   xD
+
+
+
+      Processi e Impianti – Distillazione                  Scienze chimiche
+ CALCOLO DEL NUMERO DEI
+  PIATTI DI UNA COLONNA DI
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+                                            xB   zF   xD
+
+
+
+      Processi e Impianti – Distillazione                  Scienze chimiche
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+  PIATTI DI UNA COLONNA DI
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+      y1       x0
+ 1                      L0, xD
+ 2
+ 3                                                           xB   zF   xD
+
+
+
+     Processi e Impianti – Distillazione                                    Scienze chimiche
+                                                                       1
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+  PIATTI DI UNA COLONNA DI
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+      y1
+ 1            x1        L0, xD
+ 2
+ 3                                                           xB   zF   x1   xD
+
+
+
+     Processi e Impianti – Distillazione                                         Scienze chimiche
+                                                                            1
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+  PIATTI DI UNA COLONNA DI                                   y2
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+ 1    y2      x1        L0, xD
+ 2
+ 3                                                                xB   zF   x1   xD
+
+
+
+     Processi e Impianti – Distillazione                                              Scienze chimiche
+                                                                               1
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+                                                                          2
+  PIATTI DI UNA COLONNA DI                                   y2
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+ 1    y2                L0, xD
+ 2             x2
+ 3                                                                xB   zF x2   x1   xD
+
+
+
+     Processi e Impianti – Distillazione                                                 Scienze chimiche
+                                                                               1
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+                                                                          2
+  PIATTI DI UNA COLONNA DI                                   y2
+       DISTILLAZIONE
+                                                             y3
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+ 1                      L0, xD
+ 2    y3       x2
+ 3                                                                xB   zF x2   x1   xD
+
+
+
+     Processi e Impianti – Distillazione                                                 Scienze chimiche
+                                                                                    1
+ CALCOLO DEL NUMERO DEI                            y1 = xD
+                                                                               2
+  PIATTI DI UNA COLONNA DI                                   y2         3
+       DISTILLAZIONE
+                                                             y3
+Metodo grafico di McCabe-Thiele
+
+
+
+
+  V1, xD
+                                           D, xD
+ 1                      L0, xD
+ 2    y3
+ 3                                                                xB   zF   x3 x2   x1   xD
+               x3
+
+
+
+     Processi e Impianti – Distillazione                                                      Scienze chimiche
+                                                        1
+ CALCOLO DEL NUMERO DEI                             2
+  PIATTI DI UNA COLONNA DI
+                                                3
+       DISTILLAZIONE
+Metodo grafico di McCabe-Thiele
+
+
+
+
+                                           xB               xD
+
+
+
+     Processi e Impianti – Distillazione                         Scienze chimiche
+                                                            1
+ CALCOLO DEL NUMERO DEI                                 2
+  PIATTI DI UNA COLONNA DI
+                                                    3
+       DISTILLAZIONE
+                                                4
+Metodo grafico di McCabe-Thiele
+
+
+
+
+                                           xB                   xD
+
+
+
+     Processi e Impianti – Distillazione                             Scienze chimiche
+                                                                    1
+ CALCOLO DEL NUMERO DEI                                         2
+  PIATTI DI UNA COLONNA DI
+                                                            3
+       DISTILLAZIONE
+                                                        4
+Metodo grafico di McCabe-Thiele
+                                                    5
+
+
+
+                                                6
+
+
+
+                                           7
+
+
+
+                                               xB                       xD
+
+
+
+     Processi e Impianti – Distillazione                                     Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI
+DI UNA COLONNA DI DISTILLAZIONE
+  Metodo grafico di McCabe-Thiele
+                                                               Punto
+                                                              di pinch
+Il rapporto di riflusso E viene scelto in base
+a considerazioni tecnico-economiche.
+Si adotta il rapporto di riflusso che rende
+minimo il costo totale ell’opera ione (dato          𝑥𝐷
+dalla somma del costo ’i pianto e del costo        𝐸𝑚𝑖𝑛 + 1
+di esercizio).
+Prima di tutto si verifica che esiste un Eminimo
+al disotto del quale non si può scendere e che
+corrisponde ad un numero infinito di piatti.
+Si ottiene quando la retta di freddezza
+interseca la retta di lavoro della sezione di
+arricchimento (e quindi anche quella di
+                                                      xB                 zF   xD
+esaurimento) sulla curva di equilibrio.
+
+
+
+            Processi e Impianti – Distillazione                                    Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI
+DI UNA COLONNA DI DISTILLAZIONE
+  Metodo grafico di McCabe-Thiele
+                                                               Punto
+                                                              di pinch
+Il rapporto di riflusso E viene scelto in base
+a considerazioni tecnico-economiche.
+Si adotta il rapporto di riflusso che rende
+minimo il costo totale ell’opera ione (dato          𝑥𝐷
+dalla somma del costo ’i pianto e del costo        𝐸𝑚𝑖𝑛 + 1
+di esercizio).
+Prima di tutto si verifica che esiste un Eminimo
+al disotto del quale non si può scendere e che
+corrisponde ad un numero infinito di piatti.
+Si ottiene quando la retta di freddezza
+interseca la retta di lavoro della sezione di
+arricchimento (e quindi anche quella di
+                                                      xB                 zF   xD
+esaurimento) sulla curva di equilibrio.
+
+
+
+            Processi e Impianti – Distillazione                                    Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI
+DI UNA COLONNA DI DISTILLAZIONE
+  Metodo grafico di McCabe-Thiele
+                                                         Punto
+                                                        di pinch
+Il rapporto di riflusso E viene scelto in base
+a considerazioni tecnico-economiche.
+Si adotta il rapporto di riflusso che rende
+minimo il costo totale ell’opera ione (dato
+dalla somma del costo ’i pianto e del costo
+di esercizio).
+Prima di tutto si verifica che esiste un Eminimo
+al disotto del quale non si può scendere e che
+corrisponde ad un numero infinito di piatti.
+Si ottiene quando la retta di freddezza
+interseca la retta di lavoro della sezione di
+arricchimento (e quindi anche quella di
+                                                   xB              zF   xD
+esaurimento) sulla curva di equilibrio.
+
+
+
+            Processi e Impianti – Distillazione                              Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI
+DI UNA COLONNA DI DISTILLAZIONE
+  Metodo grafico di McCabe-Thiele
+
+
+
+   Invece, per E ➔ ∞ si ha un numero
+   minimo di piatti.
+   Infatti, la retta di lavoro della sezione
+   di arricchimento avrà intercetta nulla
+   e quindi coinciderà con la diagonale.
+   Conseguentemente per qualsiasi
+   valore della retta di freddezza, anche
+   la retta di lavoro della sezione di
+   esaurimento coinciderà con la
+   diagonale.
+                                                 xB   zF   xD
+
+
+
+           Processi e Impianti – Distillazione                  Scienze chimiche
+       CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                      Metodo grafico di McCabe-Thiele
+
+Quindi, E potrà variare da un valore minimo, Eminimo, fino ad infinito. Nel primo caso avremo un numero
+infinito di piatti e quindi un costo di impianto infinito, mentre nel secondo, il numero dei piatti sarà minimo
+e conseguentemente lo sarà anche il costo di impianto.
+
+
+                                     Vediamo ora cosa succede per il costo di esercizio
+
+
+                                                               qc                                      𝐿0
+Nel costo di esercizio il                       V1
+                                                                              𝑉1 = 𝐿0 + 𝐷           𝐸=
+peso maggiore è dato dal                                                                               𝐷
+costo della energia da                                 L0           D
+fornire al ribollitore che                                                     𝑉1 = 𝐸𝐷 + 𝐷 = 𝐷 𝐸 + 1
+aumenta      notevolmente
+con E
+                                                                        𝑞𝑐 = 𝑉1 ∙ 𝜆
+                                                                                          che quindi aumenta con E
+                                                                    𝑞𝑐 = 𝐷 𝐸 + 1 ∙ 𝜆
+        Processi e Impianti – Distillazione                                                               Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+                                   qc                   In realtà il qc non costa molto perché usualmente è
+                                                        sottratto con acqua di raffreddamento.
+                                           D, HD
+                                                        Consideriamo però il bilancio globale di energia
+                                                        s ll’intera colonna.
+
+
+F                                                              𝐹𝐻𝐹 + 𝑞𝑒 = 𝑞𝑐 + 𝐷𝐻𝐷 + 𝐵𝐻𝐵
+HF                                                      Chiaramente i contributi dovuti alle correnti entranti
+                                                               ed uscenti restano costanti e quindi
+
+
+                                     qe            𝑠𝑒 𝑬 ↑ 𝑎𝑙𝑙𝑜𝑟𝑎       𝑽𝟏 ↑ 𝑒 𝑞𝑢𝑖𝑛𝑑𝑖 𝒒𝒄 ↑                        𝒒𝒆 ↑
+
+                                                                   𝑞𝑐 = 𝐷 𝐸 + 1 ∙ 𝜆
+          B, HB
+     Processi e Impianti – Distillazione                                                                     Scienze chimiche
+     CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+                    Metodo grafico di McCabe-Thiele
+                                   qc                    In realtà il qc non costa molto perché usualmente è
+                                                         sottratto con acqua di raffreddamento.
+                                           D, HD
+                                                         Consideriamo però il bilancio globale di energia
+                                                         s ll’intera colonna.
+
+
+F                                                               𝐹𝐻𝐹 + 𝑞𝑒 = 𝑞𝑐 + 𝐷𝐻𝐷 + 𝐵𝐻𝐵
+HF                                                       Chiaramente i contributi dovuti alle correnti entranti
+                                                                ed uscenti restano costanti e quindi
+
+
+                                     qe            𝑠𝑒 𝑬 ↑ 𝑎𝑙𝑙𝑜𝑟𝑎        𝑽𝟏 ↑ 𝑒 𝑞𝑢𝑖𝑛𝑑𝑖 𝒒𝒄 ↑                        𝒒𝒆 ↑
+
+                                                        qe, a differenza di qc, è invece un calore «costoso» in
+                                                      quanto viene generato usualmente bruciando combustibile
+          B, HB
+     Processi e Impianti – Distillazione                                                                      Scienze chimiche
+CALCOLO DEL NUMERO DEI PIATTI DI UNA COLONNA DI DISTILLAZIONE
+               Metodo grafico di McCabe-Thiele
+
+
+                costo
+                                                           costo
+                                                           totale
+
+
+
+
+                                              costo di           costo di
+                                             impianto           esercizio
+
+
+
+
+                                      Emin               Eopt               E
+
+Processi e Impianti – Distillazione                                             Scienze chimiche
+Processi e Impianti Ind. Chimici                                                               Capitolo 5
+
+
+
+[12]                               C n +1 + qn +1 = Cn −1 + qn −1 + q p + qm
+
+Le seguenti ipotesi:
+
+   a) dispersioni termiche trascurabili (qp= 0);
+   b) energia di miscelazione trascurabile (qm= 0);
+   c) bilanciamento fra le energie di riscaldamento del liquido e di raffreddamento del vapore
+      (Cn+1 = Cn-1);
+   d) calori molari di evaporazione indipendenti dalla composizione
+
+consentono di assumere la costanza delle portate nella sezione di arricchimento (e analoga
+conclusione può essere tratta considerando la sezione di esaurimento).
+Infatti le ipotesi (a), (b) e (c) riconducono la [11] nella forma:
+
+[13]                                             qn +1 = qn
+
+Essendo qn+1 = λn+1∆V e qn-1 = λn-1∆L, dove ∆V è la quantità di vapore che condensa nell’unità di
+tempo, ∆L è la quantità di liquido che evapora nell’unità di tempo, λn-1 e λn+1 sono i calori molari di
+evaporazione/condensazione, e avendo assunto, in base all’ipotesi (d), che λn-1 = λn+1, la [11]
+diventa:
+
+                                                 ∆V = ∆L
+
+cioè resta verificata la costanza delle portate e, di conseguenza, la rettilinearità della curva di lavoro.
+
+
+4.2 Calcolo del numero di piatti teorici
+
+Si prendono in esame i metodi per il calcolo del numero dei piatti teorici, intendendo con questa
+denominazione riferirsi a una condizione di funzionamento ideale in cui le due correnti (il liquido
+ed il vapore) che lasciano ogni piatto sono fra loro in equilibrio (cioè yn e xn definiscono punti
+situati sulla curva di equilibrio).
+
+4.2.1   Metodo grafico semplificato di McCabe-Thiele
+
+Il metodo di McCabe-Thiele si applica quando si può assumere la rettilinearità delle curve di lavoro.
+L’equazione [11] della retta di lavoro della sezione di arricchimento si può anche scrivere nella
+forma:
+
+                                                 E      x
+[14]                                       y=        x+ D
+                                                E +1   E +1
+
+dove E, pari a L/D, è denominato rapporto di riflusso.
+Dalla [14] risulta che tale retta, nel piano y-x, passa per il punto della diagonale di ascissa xD, ha
+una pendenza E/(E+1) e ha una intercetta con l’asse delle ordinate di valore xD/(E+1).
+L’equazione della retta di lavoro della sezione di esaurimento si ottiene tramite il bilancio di
+materia riferito al componente più volatile e alla porzione di colonna compresa fra il generico piatto
+m della sezione di esaurimento e il fondo della colonna:
+
+
+                                                   p. [97]
+Processi e Impianti Ind. Chimici                                                             Capitolo 5
+
+[15]                                    Lm−1 xm −1 = Vm y m + Bx B
+
+ovvero:
+
+                                                 Lm −1         Bx
+[16]                                     ym =          x m −1 − B
+                                                 Vm            Vm
+
+Essendo costanti, e pari a L e V , le portate, di liquido e di vapore rispettivamente, nella sezione di
+esaurimento la [16] può anche essere messa nella forma:
+
+                                                     L   Bx
+[17]                                           y=      x− B
+                                                     V    V
+
+Essendo V = L -B, dalla [17] risulta che tale retta, nel piano y-x, passa per il punto della diagonale
+di ascissa xB.
+Per poter collocare tale retta nel piano y-x occorre individuare un altro punto appartenente alla retta.
+A tale fine, si prende in esame il luogo dei punti di incontro delle 2 rette di lavoro, descritto da una
+equazione che deve soddisfare sia la [9] che la [15] e cioè:
+
+                                              Vy i = Lxi + Dx D
+                                              V y i = Lxi − Bx B
+
+Sottraendo membro a membro si ottiene:
+
+                                 (V − V )y = (L − L)x − (Bx + Dx )
+                                          i               i        B       D
+
+
+ovvero:
+
+                                      (V − V )y = (L − L)x − Fz
+                                                 i             i       F
+
+
+
+D’altra parte, essendo V = L+D e V = L − B risulta:
+
+                                      (V − V ) = (L − L) − (B + D )
+ovvero
+
+                                         (V − V ) = (L − L) − F
+Pertanto:
+
+                                   [(L − L) − F ]y = (L − L)x − Fz
+                                                     i             i       F
+
+
+ovvero:
+
+
+
+
+                                                     p. [98]
+Processi e Impianti Ind. Chimici                                                              Capitolo 5
+
+
+                                                 (L − L)
+                                                    F           zF
+                                      yi =               xi −
+                                             (   L−L
+                                                      −1
+                                                        )     L−L
+                                                                   −1
+                                                                          (           )
+                                                  F            F
+
+Ponendo i = ( L − L) / F , si ottiene:
+
+                                                          i       z
+[18]                                             yi =        xi − F
+                                                        i −1     i −1
+
+La [18], che rappresenta il luogo dei punti di incontro della retta di lavoro della sezione di
+arricchimento con la retta di lavoro della sezione di esaurimento, è detta retta di freddezza. Tale
+denominazione deriva dal significato fisico del parametro i .
+Infatti, il bilancio di energia del piatto di alimentazione
+
+                                                             L                            V
+
+                                 F
+                                                             L                            V
+
+è:
+
+                                     FH F + LH L + V H V = LH L + VH L
+
+indicando con HF (J mol-1) l’entalpia specifica dell’alimentazione e ipotizzando che le entalpie
+specifiche della fase liquida HL e di quella vapore HV non varino apprezzabilmente nel passaggio
+attraverso il piatto; si ha pertanto:
+
+                                                  (           )
+                                      FH F + V − V H V = L − L H L        (           )
+Essendo (V − V ) = ( L − L) − F , si ha:
+
+                                             (          )
+                                  FH F + L − L H V − FH V = L − L H L         (           )
+ovvero:
+
+                                                              (
+                                     F (H V − H F ) = L − L (H V − H L )  )
+Pertanto:
+
+
+[19]                                       i=
+                                                  (L − L) = H − H     V           F
+                                                      F           HV − H L
+
+
+
+                                                            p. [99]
+Processi e Impianti Ind. Chimici                                                                           Capitolo 5
+
+Il parametro i viene determinato, perciò, tramite la conoscenza della entalpia specifica HF
+dell’alimentazione, cioè in base alla condizione termica dell’alimentazione.
+La figura che segue mostra le varie posizioni della retta di freddezza al variare di i , cioè al variare
+della condizione termica dell’alimentazione:
+
+                                                      i = 1 (liquido al punto di ebollizione)
+
+                                0< i <1                                        i > 1 (liquido sottoraffreddato)
+                         (miscela liquido/vapore)
+
+                                   1
+
+
+                                                   i=0
+                                       (vapore al punto di rugiada)
+
+                                   y
+
+
+
+
+                  i <0
+          (vapore surriscaldato)
+
+                                   0
+                                                             x        zF             1
+                                       0
+
+
+In base a queste premesse metodologiche, il numero dei piatti teorici può essere calcolato con il
+metodo grafico semplificato di McCabe-Thiele.
+I dati noti sono:
+
+   -   la caratterizzazione termodinamica del sistema (equilibrio liquido-vapore);
+   -   le caratteristiche dell’alimentazione (F, zF, HF);
+   -   le specifiche di separazione (xD, xB);
+   -   il rapporto di riflusso E.
+
+Dalle equazioni [7] e [8] si ricavano D e B.
+Nel piano (y,x) si tracciano:
+
+   -   la curva di equilibrio;
+   -   la retta di lavoro della sezione di arricchimento (tramite la conoscenza di xD e E);
+   -   la retta di freddezza (tramite la conoscenza di zF e HF).
+
+La retta di lavoro della sezione di esaurimento viene determinata dalla congiunzione di due punti (il
+punto sulla diagonale corrispondente ad un’ascissa pari a xB e il punto di incontro della retta di
+freddezza con la retta di lavoro della sezione di arricchimento).
+Collocate così le due rette di lavoro e la curva di equilibrio nel piano (y,x), a partire dal piatto 1 (da
+cui si leva il vapore di composizione y1, pari a xD) si ricostruiscono le composizioni delle 2 fasi,
+tenendo conto che le due correnti che lasciano ogni piatto sono in equilibrio (e, conseguentemente, i
+punti corrispondenti giacciono sulla curva di equilibrio) mentre le composizioni delle due fasi nelle
+
+                                                       p. [100]
+Processi e Impianti Ind. Chimici                                                              Capitolo 5
+
+zone comprese fra due piatti (interstadi) sono rappresentate da punti che giacciono sulla retta di
+lavoro.
+La costruzione di McCabe-Thiele è basata sui presupposti sopraenunciati e consiste in una gradinata
+fra la curva di equilibrio e le due rette di lavoro; il conteggio dei gradini fornisce il numero di piatti
+teorici nelle due sezioni:
+
+
+
+
+Il rapporto di riflusso E viene scelto in base a considerazioni tecnico-economiche. Si adotta il
+rapporto di riflusso che rende minimo il costo totale dell’operazione (dato dalla somma del costo
+d’impianto e del costo di esercizio). Esiste un valore critico del rapporto di riflusso (Emin) in
+corrispondenza del quale il numero di piatti teorici è infinito; dalla figura si nota come tale rapporto
+di riflusso si determina considerando una retta di lavoro della sezione di arricchimento che passa
+per il punto di incontro della retta di freddezza con la curva di equilibrio:
+
+
+
+
+Pertanto, il costo di impianto, che è strettamente collegato al numero dei piatti, è infinito in
+corrispondenza ad Emin e diminuisce al crescere del rapporto di riflusso. Il costo di esercizio, invece,
+                                                p. [101]
+Processi e Impianti Ind. Chimici                                                            Capitolo 5
+
+aumenta al crescere del rapporto di riflusso. Infatti la portata di vapore V1 che si leva dal primo
+piatto è pari a D+L, cioè
+
+                                            V1 = D(1+E)
+
+essendo L uguale a ED. Pertanto al crescere di E, aumenta V1 e, di conseguenza, il calore qc (Js-1)
+sottratto nel condensatore. Il bilancio di energia riferito all’intero impianto di distillazione è:
+
+[20]                                  FH F + qe = DhD + BhB + qc
+
+dove hD e hB sono le entalpie specifiche (J mole-1) del distillato e del prodotto di fondo
+rispettivamente, qe è il calore trasmesso nel ribollitore (Js-1).
+Dalla [20] si osserva che al crescere di qc (corrispondente a un aumento di E) aumenta anche qe (con
+conseguente incremento del costo di esercizio).
+Le tendenze antagonisme espresse dal costo d’impianto e dal costo di esercizio all’aumentare di E
+comportano che esista un valore ottimale del rapporto di riflusso (Eopt) in corrispondenza del quale
+il costo totale è minimo:
+
+
+                   costo
+                                                               costo
+                                                               totale
+
+
+
+
+                                       costo di                      costo di
+                                      impianto                      esercizio
+
+
+
+
+                               Emin                          Eopt               E
+
+
+4.2.2.   Metodo di Fenske
+
+Il metodo di Fenske consente il calcolo del numero di piatti teorici nel caso di riflusso totale (E =
+∞). In tali condizioni la retta di lavoro della sezione di arricchimento coincide con la diagonale (y =
+x) e il numero di piatti teorici è il minimo possibile.
+Si tratta di una condizione di funzionamento soltanto “virtuale” in quanto una separazione con
+portata di distillato nulla non è praticamente proponibile. Tuttavia il numero minimo di piatti teorici
+ottenibile con il metodo di Fenske fornisce un importante indicazione sulle effettive possibilità di
+separazione tramite distillazione: un elevato valore riscontrato per il numero minimo di piatti teorici
+attesta una difficile separabilità del sistema considerato quando si utilizza l’equilibrio liquido-
+vapore.
+Oltre alla condizione di riflusso totale, il metodo di Fenske assume la costanza della volatilità
+relativa α. Con riferimento al piatto N posto sul fondo della colonna, applicando la [3] si ha:
+
+
+
+                                                  p. [102]
+

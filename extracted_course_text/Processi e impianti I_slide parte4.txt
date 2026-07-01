@@ -1,0 +1,4062 @@
+                                       ASSORBIMENTO GAS - LIQUIDO
+
+L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+  colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+
+      Processi e Impianti – Assorbimento Gas-Liquido                                     Scienze chimiche
+                                                  ASSORBIMENTO GAS - LIQUIDO
+
+      L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+         colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+                     gas
+                                colonne a spruzzo
+
+
+                                        liquido
+liquido
+                                                                                             Nella colonna a spruzzo la fase liquida
+                                                                                             costituisce la fase dispersa (sotto forma
+                                           gas                                         gas
+                                                                                             di minutissime goccioline), mentre la fase
+gas
+                                                                                             gassosa costituisce la fase continua.
+
+                                                                             liquido
+                              liquido
+
+
+                                                    in corrente incrociata
+          in controcorrente
+
+
+
+
+                Processi e Impianti – Assorbimento Gas-Liquido                                                                 Scienze chimiche
+                                            ASSORBIMENTO GAS - LIQUIDO
+
+     L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+       colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+
+                                                            Nella colonna a bolle invece avviene il contrario: la fase
+colonne a bolle                                             liquida costituisce la fase continua, mentre la fase
+                                                            gassosa costituisce la fase dispersa (sotto forma di bolle)
+
+
+
+
+           Processi e Impianti – Assorbimento Gas-Liquido                                                      Scienze chimiche
+                                         ASSORBIMENTO GAS - LIQUIDO
+
+L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+  colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+  gas
+
+
+
+                                                           Nelle colonne a parete bagnata, o a film
+                                                           sottile, il liquido, che scende sotto forma di
+           distributore
+                                                           film sottile scorrendo sulla parete interna di un
+                                                           tubo verticale, incontra in controcorrente un
+                                                           flusso ascendente di gas
+                          liquido
+
+  gas
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                                                Scienze chimiche
+                                       ASSORBIMENTO GAS - LIQUIDO
+
+L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+  colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+
+                                                        Il contatto viene realizzato mediante i piatti
+                                                        fisici. I piatti sono costituiti da una superficie
+                                                        forata e dotata di dispositivi che mettono in
+                                                        contatto le due fasi, di una zona chiamata
+                                                        discendente, ove scende appunto la corrente
+                                                        liquida dal piatto superiore, ed una zona detta
+                                                        stramazzo, ove il liquido passa al piatto
+                                                        inferiore.
+
+
+
+
+      Processi e Impianti – Assorbimento Gas-Liquido                                                Scienze chimiche
+                                       ASSORBIMENTO GAS - LIQUIDO
+
+L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+  colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+
+                                                        Le colonne a riempimento sono di gran
+                                                        lunga le apparecchiature più impiegate per
+                                                        realizzare l’assorbimento liquido-gas. Sono
+                                                        costituite da colonne verticali riempite con
+                                                        idonei materiali e percorse da una corrente
+                                                        gassosa ascendente che incontra il flusso
+                                                        discendente di liquido immesso tramite
+                                                        appositi distributori.
+
+
+
+
+      Processi e Impianti – Assorbimento Gas-Liquido                                           Scienze chimiche
+                                       ASSORBIMENTO GAS - LIQUIDO
+
+L’assorbimento gas-liquido può avvenire in vari tipi di apparecchiature: colonne a spruzzo,
+  colonne a bolle, colonne a parete bagnata, colonne a piatti, colonne a riempimento.
+
+
+
+
+      Processi e Impianti – Assorbimento Gas-Liquido                                     Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+c) Buone caratteristiche di bagnabilità.
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+c) Buone caratteristiche di bagnabilità.
+d) Buona resistenza meccanica, soprattutto allo schiacciamento sotto il peso proprio.
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+c) Buone caratteristiche di bagnabilità.
+d) Buona resistenza meccanica, soprattutto allo schiacciamento sotto il peso proprio.
+e) Basso peso specifico, così da rendere minimi i carichi su se stesso e sulle strutture
+   (fondazioni e sostegni della colonna).
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+c) Buone caratteristiche di bagnabilità.
+d) Buona resistenza meccanica, soprattutto allo schiacciamento sotto il peso proprio.
+e) Basso peso specifico, così da rendere minimi i carichi su se stesso e sulle strutture
+   (fondazioni e sostegni della colonna).
+f) Elevata inerzia chimica ai fluidi di processo.
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                                      ASSORBIMENTO GAS – LIQUIDO
+                                   Materiali di riempimento - Caratteristiche
+
+a) Elevata superficie specifica, cioè grande area superficiale per unità di volume di
+   riempimento, così da creare una vasta area superficiale di contatto fra le due fasi e
+   favorire lo scambio di materia.
+b) Alto grado di vuoto (definito come rapporto fra il volume dei “vuoti” e il volume
+   totale), così da presentare una grande sezione libera al passaggio del gas e
+   rendere minime le perdite di carico del gas.
+c) Buone caratteristiche di bagnabilità.
+d) Buona resistenza meccanica, soprattutto allo schiacciamento sotto il peso proprio.
+e) Basso peso specifico, così da rendere minimi i carichi su se stesso e sulle strutture
+   (fondazioni e sostegni della colonna).
+f) Elevata inerzia chimica ai fluidi di processo.
+g) Basso costo.
+
+        Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+                           Materiali di riempimento - Caratteristiche
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+                           Materiali di riempimento - Caratteristiche
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+                           Materiali di riempimento - Caratteristiche
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                                 ASSORBIMENTO GAS – LIQUIDO
+
+                   DIMENSIONAMENTO COLONNE A RIEMPIMENTO
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                Scienze chimiche
+                                 ASSORBIMENTO GAS – LIQUIDO
+
+                   DIMENSIONAMENTO COLONNE A RIEMPIMENTO
+
+
+
+
+                                                         CALCOLO DIAMETRO
+
+
+
+
+                                                  CALCOLO ALTEZZA DEL RIEMPIMENTO
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                        CALCOLO del DIAMETRO
+                                                               V2       L2
+
+
+                                                               2
+
+
+
+
+                                                               1
+
+
+
+                                                                   V1   L1
+
+Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                              CALCOLO del DIAMETRO
+                                                                     V2       L2
+
+Si calcola sulla base di considerazioni di natura
+fluidodinamica. Si ottimizza il vantaggio che si ottiene             2
+aumentando la turbolenza (aumento della velocità di
+trasferimento di materia), rispetto allo svantaggio
+dovuto al conseguente aumento della perdita di
+carico.
+
+
+
+                                                                     1
+
+
+
+                                                                         V1   L1
+
+      Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                              CALCOLO del DIAMETRO
+                                                                     V2       L2
+
+Si calcola sulla base di considerazioni di natura
+fluidodinamica. Si ottimizza il vantaggio che si ottiene             2
+aumentando la turbolenza (aumento della velocità di
+trasferimento di materia), rispetto allo svantaggio
+dovuto al conseguente aumento della perdita di
+carico.
+
+Il calcolo si basa sulla osservazione del
+comportamento fluidodinamico di una qualsiasi
+colonna a riempimento quando, fissata una certa                      1
+portata di liquido, si aumenta progressivamente la
+portata di gas
+                                                                         V1   L1
+
+      Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L=0
+
+
+2
+                          −∆𝑷
+
+         Anelli
+        Rashig 2’
+
+
+
+
+1
+
+
+
+    V               L=0
+
+                Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L=0         −∆𝑷
+
+
+2
+                          −∆𝑷
+
+         Anelli
+        Rashig 2’                  log
+
+
+
+1
+
+
+
+    V               L=0
+                                                                         log          𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L=0         −∆𝑷
+
+
+2
+                                                                                                  L=0
+                          −∆𝑷
+
+         Anelli
+        Rashig 2’                  log
+
+                                                                               Anelli Rashig 2’
+
+
+1
+
+
+
+    V               L=0
+                                                                         log                        𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                        CALCOLO del DIAMETRO
+
+
+
+
+                                                 𝒇 = 𝑲 𝑹𝒆 𝒏
+
+
+
+
+Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                          CALCOLO del DIAMETRO
+
+
+
+
+                                                   𝒇 = 𝑲 𝑹𝒆 𝒏
+
+
+                                          𝑛
+2 −∆𝑃 𝐷    𝐷𝑣𝜌ҧ
+    2
+        =𝐾
+ 𝜌𝑣ҧ ∆𝑦     𝜇
+
+
+
+
+  Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                          CALCOLO del DIAMETRO
+
+
+
+
+                                                   𝒇 = 𝑲 𝑹𝒆 𝒏
+
+
+                                          𝑛
+2 −∆𝑃 𝐷    𝐷𝑣𝜌ҧ
+    2
+        =𝐾                                                       −∆𝑃 ∝ 𝑣ҧ 𝑚
+ 𝜌𝑣ҧ ∆𝑦     𝜇
+
+
+
+
+  Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                                          CALCOLO del DIAMETRO
+
+
+
+
+                                                   𝒇 = 𝑲 𝑹𝒆 𝒏
+
+
+                                          𝑛
+2 −∆𝑃 𝐷    𝐷𝑣𝜌ҧ
+    2
+        =𝐾                                                            −∆𝑃 ∝ 𝑣ҧ 𝑚
+ 𝜌𝑣ҧ ∆𝑦     𝜇
+
+
+
+             log −∆𝑃 ∝ 𝑚 log 𝑣ҧ                             dove   𝑣ҧ ∝ 𝑉
+
+  Processi e Impianti – Assorbimento Gas-Liquido                               Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L=0         −∆𝑷
+
+
+2
+                                                                                                       L=0             L=0
+
+                                                                               Anelli Rashig 1’
+                          −∆𝑷
+
+         Anelli
+        Rashig 1’                  log
+
+                                                                                                  Anelli Rashig 2’
+
+1
+
+
+
+    V               L=0
+                                                                         log                                                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                                                       Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L=0         −∆𝑷
+
+                                              La pendenza della retta è la
+2                                             stessa della corrispondente
+                                                                                                                 L=0             L=0
+                                              colonna con anelli Rashig da 2’’
+                                              ma la perdita di carico è
+                                              maggiore a parità di V (essendo            Anelli Rashig 1’
+                          −∆𝑷
+
+         Anelli                               ora     la sezione      inferiore,
+        Rashig 1’                  log        maggiore impaccamento con
+                                              anelli più piccoli, la velocità
+                                              media del fluido è maggiore e                                 Anelli Rashig 2’
+                                              quindi maggiore la perdita di
+1                                             carico)
+
+
+
+    V               L=0
+                                                                                   log                                                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                                                                 Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L’≠0       −∆𝑷                                       L’
+
+2
+                                                                                L=0     L=0
+                         −∆𝑷
+
+         Anelli
+        Rashig 1’                  log
+
+
+
+1
+
+
+
+    V               L’
+                                                                          log                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                        Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L’≠0       −∆𝑷                                       L’
+
+2
+                                                                                L=0     L=0
+                         −∆𝑷
+
+         Anelli
+        Rashig 1’                  log
+
+
+
+                                                                     L
+1
+
+
+
+    V               L’
+                                                                          log                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                        Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L’≠0       −∆𝑷                                       L’
+
+2
+                                                                                L=0     L=0
+
+                                                                          F
+                         −∆𝑷
+
+         Anelli
+        Rashig 1’                  log
+
+
+
+                                                                     L
+1
+
+
+
+    V               L’
+                                                                          log                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                        Scienze chimiche
+                                                        CALCOLO del DIAMETRO
+
+    V               L’’>L’ −∆𝑷                                   L’’>L’       L’
+
+2
+                                                                                     L=0     L=0
+
+                                                                               F
+                          −∆𝑷
+
+         Anelli
+        Rashig 1’                  log
+
+
+
+                                                                          L
+1
+
+
+
+    V               L’’
+                                                                               log                𝑽
+                Processi e Impianti – Assorbimento Gas-Liquido                             Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷                                       Prima del punto di Loading L (o punto di
+                                                                 ingorgamento) il liquido scende con regolarità
+                                                                 lungo il riempimento della colonna, bagnando i
+                                                                 corpi e aderendo ad essi sotto forma di un film
+2
+                                                                 sottile di spessore costante e adeguato al
+                                                                 deflusso per gravità della portata di liquido.
+                                                             F
+                 −∆𝑷
+
+                           log
+
+
+                                                         L
+1
+
+
+
+    V      L
+                                                                   log                                        𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                 Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷                                       Prima del punto di Loading L (o punto di
+                                                                 ingorgamento) il liquido scende con regolarità
+                                                                 lungo il riempimento della colonna, bagnando i
+                                                                 corpi e aderendo ad essi sotto forma di un film
+2
+                                                                 sottile di spessore costante e adeguato al
+                                                                 deflusso per gravità della portata di liquido.
+                                                             F
+                                                                 La pendenza della retta è la stessa della
+                 −∆𝑷
+
+                           log                                   corrispondente colonna con L=0 ma la perdita di
+                                                                 carico è maggiore a parità di V (essendo la
+                                                                 sezione inferiore la velocità media del fluido è
+                                                         L       maggiore e quindi maggiore la perdita di carico)
+1
+                                                                          log −∆𝑃 ∝ 𝑚 log 𝑣ҧ
+    V      L
+                                                                    log                                        𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                  Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+                                                                 A partire dal punto di loading, l’aumento di
+                                                                 portata di gas è tale da determinare una fase di
+2                                                                trascinamento progressivamente crescente sul
+                                                                 liquido    così     da     richiedere    spessori
+                                                                 corrispondentemente crescenti di film liquido sui
+                                                             F   corpi di riempimento al fine di assicurare il
+                 −∆𝑷
+
+                                                                 regolare deflusso del liquido.
+                           log
+
+
+                                                         L
+1
+
+
+
+    V      L
+                                                                   log                                         𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                  Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+                                                                 A partire dal punto di loading, l’aumento di
+                                                                 portata di gas è tale da determinare una fase di
+2                                                                trascinamento progressivamente crescente sul
+                                                                 liquido    così     da     richiedere    spessori
+                                                                 corrispondentemente crescenti di film liquido sui
+                                                             F   corpi di riempimento al fine di assicurare il
+                 −∆𝑷
+
+                                                                 regolare deflusso del liquido.
+                           log
+                                                                 L’aumento dello spessore del film liquido
+                                                                 comporta una diminuzione della sezione di
+                                                         L       passaggio      del     gas,   con     conseguente
+1                                                                incremento della pendenza della curva della
+                                                                 perdita di carico in funzione della portata di gas.
+
+
+    V      L
+                                                                   log                                           𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                    Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+
+
+2
+                                                                 Nel punto di flooding (o punto di allagamento)
+                                                                 lo spessore del film liquido è cresciuto in misura
+                                                             F   tale da annullare la sezione di passaggio del
+                 −∆𝑷
+
+                                                                 gas, con completo intasamento della colonna
+                           log                                   che cessa di funzionare.
+
+
+                                                         L
+1
+
+
+
+    V      L
+                                                                   log                                          𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                   Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+                                                                 La condizione ottimale di funzionamento della
+                                                                 colonna è vicino al punto di loading, dove, pur
+                                                                 essendo le perdite di carico ancora contenute,
+2                                                                esiste già una intensa turbolenza in
+                                                                 corrispondenza dell’interfaccia liquido-gas, con
+                                                                 conseguente       elevato     coefficiente     di
+                                                             F   trasferimento di materia.
+                 −∆𝑷
+
+                           log
+
+
+                                                         L
+1
+
+
+
+    V      L
+                                                                    log                                         𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                   Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+                                                                 La condizione ottimale di funzionamento della
+                                                                 colonna è vicino al punto di loading, dove, pur
+                                                                 essendo le perdite di carico ancora contenute,
+2                                                                esiste già una intensa turbolenza in
+                                                                 corrispondenza dell’interfaccia liquido-gas, con
+                                                                 conseguente       elevato     coefficiente     di
+                                                             F   trasferimento di materia.
+                 −∆𝑷
+
+                           log
+                                                                 In genere si cerca di lavorare un po’ sotto il
+                                                                 punto di loading (che sarebbe quello ottimale)
+                                                                 per evitare che, al verificarsi di una oscillazione
+                                                         L       della portata di gas, la condizione superi quella
+1                                                                di loading e la perdita di carico aumenti in modo
+                                                                 significativo
+
+    V      L
+                                                                    log                                           𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                     Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+
+
+2                                                                Il punto di flooding è più facilmente
+                                                                 determinabile    (corrisponde al  completo
+                                                                 allagamento della colonna) mentre quello di
+                                                             F   loading è certamente più difficile da
+                                                                 identificare.
+                 −∆𝑷
+
+                           log
+
+
+                                                         L
+1
+
+
+
+    V      L
+                                                                   log                                    𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                             Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+    V     L            −∆𝑷
+
+
+2                                                                Il punto di flooding è più facilmente
+                                                                 determinabile    (corrisponde al  completo
+                                                                 allagamento della colonna) mentre quello di
+                                                             F   loading è certamente più difficile da
+                                                                 identificare.
+                 −∆𝑷
+
+                           log
+                                                                 Si è trovata quindi una relazione per
+                                                                 determinare il valore del flooding per la colonna
+                                                         L       da progettare. Questo valore poi si riduce di una
+                                                                 certa percentuale (60-70%) per determinare
+1
+                                                                 l’ottimale punto di lavoro (poco sotto al loading).
+
+
+    V      L
+                                                                   log                                           𝑽
+        Processi e Impianti – Assorbimento Gas-Liquido                                                    Scienze chimiche
+                                                CALCOLO del DIAMETRO
+
+
+
+
+Si utilizza quindi il diagramma di Colburn
+che consente di calcolare la velocità di
+massa del gas in corrispondenza al flooding
+(GVF, in kg h-1m-2):
+
+
+
+
+        Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                                     CALCOLO del DIAMETRO
+
+
+
+
+     Si utilizza quindi il diagramma di Colburn
+     che consente di calcolare la velocità di
+     massa del gas in corrispondenza al flooding
+     (GVF, in kg h-1m-2):
+
+
+                                           𝑉 (portata massica del gas)
+𝐺𝑉 = velocità di massa del gas =
+                                               𝑆 (sezione colonna)
+
+
+
+
+             Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                                     CALCOLO del DIAMETRO
+
+
+
+
+     Si utilizza quindi il diagramma di Colburn
+     che consente di calcolare la velocità di
+     massa del gas in corrispondenza al flooding
+     (GVF, in kg h-1m-2):
+
+
+                                           𝑉 (portata massica del gas)
+𝐺𝑉 = velocità di massa del gas =
+                                               𝑆 (sezione colonna)
+
+              𝑉 (portata del gas al flooding)
+       𝐺𝑉𝐹 ==
+                   𝑆 (sezione colonna)
+
+
+             Processi e Impianti – Assorbimento Gas-Liquido                 Scienze chimiche
+                                                     CALCOLO del DIAMETRO
+
+
+
+                                                                  av (  L )
+                                                               2           0.2
+                                                              GVF
+                                                               gc 3 V  L
+
+     Si utilizza quindi il diagramma di Colburn
+     che consente di calcolare la velocità di
+     massa del gas in corrispondenza al flooding
+     (GVF, in kg h-1m-2):
+
+
+                                           𝑉 (portata del gas)
+𝐺𝑉 = velocità di massa del gas =
+                                           𝑆 (sezione colonna)
+
+              𝑉 (portata del gas al flooding)
+       𝐺𝑉𝐹 ==
+                   𝑆 (sezione colonna)
+                                                                                        𝑽
+             Processi e Impianti – Assorbimento Gas-Liquido                      Scienze chimiche
+ 2
+GVF av (  L )
+             0.2                                           CALCOLO del DIAMETRO
+ gc 3 V  L
+
+                                                                    GV è la velocità di massa del gas (kg h-1 m-2),
+                                                                    GL la velocità di massa del liquido (kg h-1 m-2),
+                                                                    GVF la velocità di massa del gas in corrispondenza
+                                                                    al punto di flooding (kg h-1 m-2),
+                                                                    L la viscosità del liquido (centipoises),
+                                                                    gc un fattore di conversione (1,27102),
+                                                                    V la massa specifica del gas (kg m-3),
+                                                                    L la massa specifica del liquido (kg m-3),
+                                                                    aV la superficie specifica del riempimento (m2 m-3),
+                                                                     la porosità del riempimento.
+
+
+
+                   Processi e Impianti – Assorbimento Gas-Liquido                                              Scienze chimiche
+ 2
+GVF av (  L )
+             0.2                                           CALCOLO del DIAMETRO
+ gc 3 V  L
+
+
+
+                                                                                  𝐺𝐿 𝐿ൗ𝑆 𝐿
+                                                                      ma             =    =
+                                                                                  𝐺𝑉   𝑉ൗ𝑆 𝑉
+
+
+
+
+                   Processi e Impianti – Assorbimento Gas-Liquido                              Scienze chimiche
+ 2
+GVF av (  L )
+             0.2                                           CALCOLO del DIAMETRO
+ gc 3 V  L
+
+
+
+                                                                                    𝐺𝐿 𝐿ൗ𝑆 𝐿
+                                                                       ma              =    =
+                                                                                    𝐺𝑉   𝑉ൗ𝑆 𝑉
+
+                                                                    La portata di gas, V, è nota (è la corrente
+                                                                    materiale da trattare), mentre la portata di
+                                                                    liquido, L, viene ottenuta attraverso una
+                                                                    ottimizzazione dei costi (lo vedremo alla fine).
+
+
+
+
+                   Processi e Impianti – Assorbimento Gas-Liquido                                            Scienze chimiche
+ 2
+GVF av (  L )
+             0.2                                           CALCOLO del DIAMETRO
+ gc 3 V  L
+                                                                    Noto quindi il valore della ascissa, si determina
+                                                                    il corrispondente valore della ordinata che
+                                                                    contiene la velocità di massa al punto di
+                                                                    Flooding.
+
+                                                                                     G av (  L )
+                                                                                       2         0.2
+                                                                                       VF
+
+                                                                                      gc 3 V  L
+
+
+
+
+                   Processi e Impianti – Assorbimento Gas-Liquido                                            Scienze chimiche
+ 2
+GVF av (  L )
+             0.2                                           CALCOLO del DIAMETRO
+ gc 3 V  L
+                                                                    Noto quindi il valore della ascissa, si determina
+                                                                    il corrispondente valore della ordinata che
+                                                                    contiene la velocità di massa al punto di
+                                                                    Flooding.
+
+                                                                                     G av (  L )
+                                                                                       2         0.2
+                                                                                       VF
+
+                                                                                      gc 3 V  L
+
+                                                                    Essendo tutti gli altri termini noti (una volta
+                                                                    scelto il riempimento) si ricava il valore di GVF
+                                                                    dal quale poi si determina il diametro ottimale
+                                                                    della colonna
+
+
+                   Processi e Impianti – Assorbimento Gas-Liquido                                            Scienze chimiche
+                                            CALCOLO del DIAMETRO
+
+
+Il valore GV da adottare per ottenere il funzionamento fluidodinamico ottimale
+della colonna è una opportuna frazione di GVF (GV = 0,5  0,7 GVF).
+
+
+
+
+    Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                                            CALCOLO del DIAMETRO
+
+
+Il valore GV da adottare per ottenere il funzionamento fluidodinamico ottimale
+della colonna è una opportuna frazione di GVF (GV = 0,5  0,7 GVF).
+
+
+
+
+         𝐺𝑉 = 0.5 ÷ 0.7 ∙ 𝐺𝑉𝐹
+
+
+
+
+    Processi e Impianti – Assorbimento Gas-Liquido                          Scienze chimiche
+                                            CALCOLO del DIAMETRO
+
+
+Il valore GV da adottare per ottenere il funzionamento fluidodinamico ottimale
+della colonna è una opportuna frazione di GVF (GV = 0,5  0,7 GVF).
+
+
+
+
+                                                              2
+                                                                      𝑉 𝐾𝑔Τℎ
+         𝐺𝑉 = 0.5 ÷ 0.7 ∙ 𝐺𝑉𝐹                           𝑆 𝑚       =
+                                                                    𝐺𝑉 𝐾𝑔Τℎ ∙ 𝑚2
+
+
+
+
+    Processi e Impianti – Assorbimento Gas-Liquido                                 Scienze chimiche
+                                            CALCOLO del DIAMETRO
+
+
+Il valore GV da adottare per ottenere il funzionamento fluidodinamico ottimale
+della colonna è una opportuna frazione di GVF (GV = 0,5  0,7 GVF).
+
+
+
+
+                                                              2
+                                                                      𝑉 𝐾𝑔Τℎ
+         𝐺𝑉 = 0.5 ÷ 0.7 ∙ 𝐺𝑉𝐹                           𝑆 𝑚       =
+                                                                    𝐺𝑉 𝐾𝑔Τℎ ∙ 𝑚2
+
+
+                                  𝜋 2                              2
+                                𝑆= 𝐷
+                                  4                        𝐷 = 2 𝑆ൗ𝜋
+
+
+    Processi e Impianti – Assorbimento Gas-Liquido                                 Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+   2                                                       Schematizziamo una colonna di
+                                                       assorbimento di altezza z funzionante in
+                                                               condizioni stazionarie
+
+                                               z
+
+
+
+
+   1
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                      Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                  L2, x2
+
+    2                                                       Schematizziamo una colonna di
+                                                        assorbimento di altezza z funzionante in
+                                                                condizioni stazionarie
+
+                                                z         Siano L e V le portate molari totali del
+                                                              liquido assorbente e del gas,
+                                                        rispettivamente, e siano x e y le frazioni
+                                                        molari del componente che si trasferisce,
+                                                          nel liquido e nel gas, rispettivamente
+    1
+
+
+ V1, y1                  L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                        Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                  L2, x2
+
+    2
+                                                        Consideriamo ora una porzione infinitesima di
+                                                                colonna di altezza pari a dz
+
+                            z+dz
+                             z                  z
+
+
+
+
+    1
+
+
+ V1, y1                  L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                           Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+    2
+         V+dV L+dL
+                                                        Consideriamo ora una porzione infinitesima di
+         y+dy x+dx                                              colonna di altezza pari a dz
+
+                             z+dz                          e rappresentiamo le caratteristiche delle
+                             z                  z         correnti entranti ed uscenti dalla porzione
+                                                                    infinitesima identificata
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                             Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                        Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                   infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                               quantità entrante = quantità uscente
+                             z+dz
+                             z                  z
+
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                 Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                        Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                   infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                               quantità entrante = quantità uscente
+                             z+dz
+                             z                  z          𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 =V
+
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                 Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                        Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                   infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                               quantità entrante = quantità uscente
+                             z+dz
+                             z                  z          𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 = 𝑉 + 𝑑𝑉 𝑦 + 𝑑𝑦 + 𝐿𝑥 V
+
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                 Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                          Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                     infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                                  quantità entrante = quantità uscente
+                             z+dz
+                             z                  z             𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 = 𝑉 + 𝑑𝑉 𝑦 + 𝑑𝑦 + 𝐿𝑥 V
+
+           V, y     L, x                                𝑉𝑦 + 𝐿𝑥 + 𝐿𝑑𝑥 + 𝑥𝑑𝐿 + 𝑑𝐿𝑑𝑥 = 𝑉𝑦 + 𝑉𝑑𝑦 + 𝑦𝑑𝑉 + 𝑑𝑉𝑑𝑦 + 𝐿𝑥 V
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                    Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                          Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                     infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                                  quantità entrante = quantità uscente
+                             z+dz
+                             z                  z             𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 = 𝑉 + 𝑑𝑉 𝑦 + 𝑑𝑦 + 𝐿𝑥 V
+
+           V, y     L, x                                𝑉𝑦 + 𝐿𝑥 + 𝐿𝑑𝑥 + 𝑥𝑑𝐿 + 𝑑𝐿𝑑𝑥 = 𝑉𝑦 + 𝑉𝑑𝑦 + 𝑦𝑑𝑉 + 𝑑𝑉𝑑𝑦 + 𝐿𝑥 V
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                    Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                          Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                     infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                                  quantità entrante = quantità uscente
+                             z+dz
+                             z                  z             𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 = 𝑉 + 𝑑𝑉 𝑦 + 𝑑𝑦 + 𝐿𝑥 V
+
+           V, y     L, x                                𝑉𝑦 + 𝐿𝑥 + 𝐿𝑑𝑥 + 𝑥𝑑𝐿 + 𝑑𝐿𝑑𝑥 = 𝑉𝑦 + 𝑉𝑑𝑦 + 𝑦𝑑𝑉 + 𝑑𝑉𝑑𝑦 + 𝐿𝑥 V
+
+
+                                                                         𝐿𝑑𝑥 + 𝑥𝑑𝐿 = 𝑉𝑑𝑦 + 𝑦𝑑𝑉V
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                    Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+
+                                                          Eseguiamo ora il bilancio di materia sull’elementino
+    2                                                     infinitesimo relativo al componente che si assorbe
+         V+dV L+dL
+         y+dy x+dx
+                                                                  quantità entrante = quantità uscente
+                             z+dz
+                             z                  z             𝑉𝑦 + 𝐿 + 𝑑𝐿 𝑥 + 𝑑𝑥 = 𝑉 + 𝑑𝑉 𝑦 + 𝑑𝑦 + 𝐿𝑥 V
+
+           V, y     L, x                                𝑉𝑦 + 𝐿𝑥 + 𝐿𝑑𝑥 + 𝑥𝑑𝐿 + 𝑑𝐿𝑑𝑥 = 𝑉𝑦 + 𝑉𝑑𝑦 + 𝑦𝑑𝑉 + 𝑑𝑉𝑑𝑦 + 𝐿𝑥 V
+
+
+                                                                         𝐿𝑑𝑥 + 𝑥𝑑𝐿 = 𝑉𝑑𝑦 + 𝑦𝑑𝑉V
+    1
+
+                                                                             𝑑 𝑉𝑦 = 𝑑 𝐿𝑥 V
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                    Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+                                                        𝑑 𝑉𝑦 = 𝑑 𝐿𝑥 V
+    2
+         V+dV L+dL
+         y+dy x+dx
+
+                             z+dz
+                             z                  z
+
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+                                                                          𝑑 𝑉𝑦 = 𝑑 𝐿𝑥 V
+    2
+         V+dV L+dL                                      𝑑 𝑉𝑦   rappresenta la diminuzione della portata molare di
+         y+dy x+dx                                             componente che si assorbe, nella corrente di gas
+                                                               (dovuta al trasferimento nel liquido nell’elementino di
+                             z+dz                              colonna di altezza dz)
+
+                             z                  z
+
+           V, y     L, x
+
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                         Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+                                                                          𝑑 𝑉𝑦 = 𝑑 𝐿𝑥 V
+    2
+         V+dV L+dL                                      𝑑 𝑉𝑦   rappresenta la diminuzione della portata molare di
+         y+dy x+dx                                             componente che si assorbe, nella corrente di gas
+                                                               (dovuta al trasferimento nel liquido nell’elementino di
+                             z+dz                              colonna di altezza dz)
+
+                             z                  z
+                                                        𝑑 𝐿𝑥   rappresenta la diminuzione della portata molare di
+                                                               componente che si assorbe, nella corrente di liquido
+           V, y     L, x                                       (dovuta al trasferimento nel liquido nell’elementino di
+                                                               colonna di altezza dz)
+
+
+    1
+
+
+ V1, y1                    L1, x1
+ Processi e Impianti – Modello Unità di Trasferimento                                                         Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+V2, y2                     L2, x2
+                                                                           𝑑 𝑉𝑦 = 𝑑 𝐿𝑥 V
+    2
+         V+dV L+dL                                      𝑑 𝑉𝑦   rappresenta la diminuzione della portata molare di
+         y+dy x+dx                                             componente che si assorbe, nella corrente di gas
+                                                               (dovuta al trasferimento nel liquido nell’elementino di
+                             z+dz                              colonna di altezza dz)
+
+                             z                  z
+                                                        𝑑 𝐿𝑥   rappresenta la diminuzione della portata molare di
+                                                               componente che si assorbe, nella corrente di liquido
+           V, y     L, x                                       (dovuta al trasferimento nel liquido nell’elementino di
+                                                               colonna di altezza dz)
+
+                                                                   Quello che cede il gas viene acquisito dal liquido
+    1
+                                                                 Andando verso la sommità della colonna, entrambe le
+                                                                  correnti materiali diminuiscono la portata molare del
+ V1, y1                    L1, x1                                             componente che si assorbe
+ Processi e Impianti – Modello Unità di Trasferimento                                                           Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+                                                       Possiamo quindi esprimere la variazione di portata molare
+                                                       di componente nella fase gassosa in funzione della cinetica
+                                                       del trasferimento (4 modi diversi):
+
+
+                                                                         𝑑 𝑉𝑦 = 𝑑 𝑁𝑎 V
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+                                                       Possiamo quindi esprimere la variazione di portata molare
+                                                       di componente nella fase gassosa in funzione della cinetica
+                                                       del trasferimento (4 modi diversi):
+
+
+                                                                         𝑑 𝑉𝑦 = 𝑑 𝑁𝑎 V
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑦 𝑑𝐴 𝑦𝑖 − 𝑦
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+                                                       Possiamo quindi esprimere la variazione di portata molare
+                                                       di componente nella fase gassosa in funzione della cinetica
+                                                       del trasferimento (4 modi diversi):
+
+
+                                                                         𝑑 𝑉𝑦 = 𝑑 𝑁𝑎 V
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑦 𝑑𝐴 𝑦𝑖 − 𝑦
+                                                                    𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+                                                       Possiamo quindi esprimere la variazione di portata molare
+                                                       di componente nella fase gassosa in funzione della cinetica
+                                                       del trasferimento (4 modi diversi):
+
+
+                                                                         𝑑 𝑉𝑦 = 𝑑 𝑁𝑎 V
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑦 𝑑𝐴 𝑦𝑖 − 𝑦
+                                                                    𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑥 𝑑𝐴 𝑥 − 𝑥𝑖
+
+
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                                       Considerando la porzione infinitesima di colonna, avremo
+                                                       questo profilo di concentrazione (espresso ora in termini di
+                                                       frazione molare del componente che si assorbe).
+
+                                                       Possiamo quindi esprimere la variazione di portata molare
+                                                       di componente nella fase gassosa in funzione della cinetica
+                                                       del trasferimento (4 modi diversi):
+
+
+                                                                         𝑑 𝑉𝑦 = 𝑑 𝑁𝑎 V
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑦 𝑑𝐴 𝑦𝑖 − 𝑦
+                                                                    𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+                                                                    𝑑 𝑉𝑦 = 𝑘𝑥 𝑑𝐴 𝑥 − 𝑥𝑖
+                                                                   𝑑 𝑉𝑦 = 𝐾𝑥 𝑑𝐴 𝑥 − 𝑥 ∗ V
+Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+               Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+Consideriamo ora l′equazione cinetica riferita al salto motore
+totale espresso in termini di frazione molare in fase gassosa       𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+
+
+
+             Processi e Impianti – Modello Unità di Trasferimento                          Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+               Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+Consideriamo ora l′equazione cinetica riferita al salto motore
+totale espresso in termini di frazione molare in fase gassosa       𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+definendo a = area specifica (sono i m2 di superficie               𝑑𝐴 = 𝑎𝑑𝑉 = 𝑎 ∙ 𝑆 ∙ 𝑑𝑧
+              esposta per m3 di riempimento)
+
+
+
+
+             Processi e Impianti – Modello Unità di Trasferimento                           Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+               Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+Consideriamo ora l′equazione cinetica riferita al salto motore
+totale espresso in termini di frazione molare in fase gassosa           𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+definendo a = area specifica (sono i m2 di superficie                   𝑑𝐴 = 𝑎𝑑𝑉 = 𝑎 ∙ 𝑆 ∙ 𝑑𝑧
+              esposta per m3 di riempimento)
+
+
+                                               𝑑 𝑉𝑦 = 𝐾𝑦 ∙ 𝑎 ∙ 𝑆 ∙ 𝑑𝑧 ∙ 𝑦 ∗ − 𝑦
+
+
+
+
+             Processi e Impianti – Modello Unità di Trasferimento                               Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+               Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+Consideriamo ora l′equazione cinetica riferita al salto motore
+totale espresso in termini di frazione molare in fase gassosa                𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+definendo a = area specifica (sono i m2 di superficie                        𝑑𝐴 = 𝑎𝑑𝑉 = 𝑎 ∙ 𝑆 ∙ 𝑑𝑧
+              esposta per m3 di riempimento)
+
+
+                                               𝑑 𝑉𝑦 = 𝐾𝑦 ∙ 𝑎 ∙ 𝑆 ∙ 𝑑𝑧 ∙ 𝑦 ∗ − 𝑦
+
+                                                                   𝑑 𝑉𝑦
+                                                       𝑑𝑧 =
+                                                            𝐾𝑦 ∙ 𝑎 ∙ 𝑆 ∙ 𝑦 ∗ − 𝑦
+
+
+
+
+             Processi e Impianti – Modello Unità di Trasferimento                                    Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+               Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+Consideriamo ora l′equazione cinetica riferita al salto motore
+totale espresso in termini di frazione molare in fase gassosa                𝑑 𝑉𝑦 = 𝐾𝑦 𝑑𝐴 𝑦 ∗ − 𝑦
+
+definendo a = area specifica (sono i m2 di superficie                        𝑑𝐴 = 𝑎𝑑𝑉 = 𝑎 ∙ 𝑆 ∙ 𝑑𝑧
+              esposta per m3 di riempimento)
+
+
+                                               𝑑 𝑉𝑦 = 𝐾𝑦 ∙ 𝑎 ∙ 𝑆 ∙ 𝑑𝑧 ∙ 𝑦 ∗ − 𝑦
+
+                                                                   𝑑 𝑉𝑦
+                                                       𝑑𝑧 =
+                                                            𝐾𝑦 ∙ 𝑎 ∙ 𝑆 ∙ 𝑦 ∗ − 𝑦
+                                                             𝑧      𝑦2
+                                                                    𝑑 𝑉𝑦
+                                                 𝑧 = න 𝑑𝑧 = න           ∗−𝑦
+                                                      0      𝑦1 𝐾𝑦 𝑎𝑆 𝑦
+
+             Processi e Impianti – Modello Unità di Trasferimento                                    Scienze chimiche
+                             ASSORBIMENTO GAS – LIQUIDO
+          Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+Esprimiamo ora il differenziale in modo più comodo. La corrente di gas che sale è data da una miscela di gas inerte
+ (il mezzo stagnante) a cui si somma il componente che viene assorbito. In ogni sezione della colonna la portata di
+                                    gas inerte (V’) resta costante e quindi avremo:
+
+
+
+
+         Processi e Impianti – Modello Unità di Trasferimento                                                  Scienze chimiche
+                             ASSORBIMENTO GAS – LIQUIDO
+          Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+Esprimiamo ora il differenziale in modo più comodo. La corrente di gas che sale è data da una miscela di gas inerte
+ (il mezzo stagnante) a cui si somma il componente che viene assorbito. In ogni sezione della colonna la portata di
+                                    gas inerte (V’) resta costante e quindi avremo:
+
+
+
+
+                                        𝑽 = 𝑽′ + 𝑽𝒚
+
+
+
+
+         Processi e Impianti – Modello Unità di Trasferimento                                                  Scienze chimiche
+                             ASSORBIMENTO GAS – LIQUIDO
+          Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+Esprimiamo ora il differenziale in modo più comodo. La corrente di gas che sale è data da una miscela di gas inerte
+ (il mezzo stagnante) a cui si somma il componente che viene assorbito. In ogni sezione della colonna la portata di
+                                    gas inerte (V’) resta costante e quindi avremo:
+
+
+
+
+                                        𝑽 = 𝑽′ + 𝑽𝒚
+        portata molare totale
+
+            𝑚𝑜𝑙𝑖 𝑡𝑜𝑡𝑎𝑙𝑖
+                ℎ
+
+         Processi e Impianti – Modello Unità di Trasferimento                                                  Scienze chimiche
+                             ASSORBIMENTO GAS – LIQUIDO
+          Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+Esprimiamo ora il differenziale in modo più comodo. La corrente di gas che sale è data da una miscela di gas inerte
+ (il mezzo stagnante) a cui si somma il componente che viene assorbito. In ogni sezione della colonna la portata di
+                                    gas inerte (V’) resta costante e quindi avremo:
+
+
+                                                       portata molare componente stagnante
+
+                                                      𝑚𝑜𝑙𝑖 𝑑𝑖 𝑐𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 𝑠𝑡𝑎𝑔𝑛𝑎𝑛𝑡𝑒
+                                                                   ℎ
+
+
+                                        𝑽 = 𝑽′ + 𝑽𝒚
+        portata molare totale
+
+            𝑚𝑜𝑙𝑖 𝑡𝑜𝑡𝑎𝑙𝑖
+                ℎ
+
+         Processi e Impianti – Modello Unità di Trasferimento                                                  Scienze chimiche
+                             ASSORBIMENTO GAS – LIQUIDO
+          Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+Esprimiamo ora il differenziale in modo più comodo. La corrente di gas che sale è data da una miscela di gas inerte
+ (il mezzo stagnante) a cui si somma il componente che viene assorbito. In ogni sezione della colonna la portata di
+                                    gas inerte (V’) resta costante e quindi avremo:
+
+
+                                                       portata molare componente stagnante
+
+                                                      𝑚𝑜𝑙𝑖 𝑑𝑖 𝑐𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 𝑠𝑡𝑎𝑔𝑛𝑎𝑛𝑡𝑒
+                                                                   ℎ
+
+
+                                        𝑽 = 𝑽′ + 𝑽𝒚
+        portata molare totale                                            portata molare componente che si assorbe
+
+            𝑚𝑜𝑙𝑖 𝑡𝑜𝑡𝑎𝑙𝑖                                                    𝑚𝑜𝑙𝑖 𝑐𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝑒 𝑐ℎ𝑒 𝑠𝑖 𝑎𝑠𝑠𝑜𝑟𝑏𝑒
+                ℎ                                                                       ℎ
+
+         Processi e Impianti – Modello Unità di Trasferimento                                                       Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+𝑉 = 𝑉 ′ + 𝑉𝑦
+
+
+
+
+ Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                     ASSORBIMENTO GAS – LIQUIDO
+  Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+𝑉 = 𝑉 ′ + 𝑉𝑦                                            𝑉 ′ = 𝑉 − 𝑉𝑦 = 𝑉 1 − 𝑦
+
+
+
+
+ Processi e Impianti – Modello Unità di Trasferimento                            Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+           Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+         𝑉 = 𝑉 ′ + 𝑉𝑦                                            𝑉 ′ = 𝑉 − 𝑉𝑦 = 𝑉 1 − 𝑦
+
+
+                 𝑉′
+quindi       𝑉=
+                1−𝑦
+
+
+
+
+          Processi e Impianti – Modello Unità di Trasferimento                            Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+           Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+         𝑉 = 𝑉 ′ + 𝑉𝑦                                                   𝑉 ′ = 𝑉 − 𝑉𝑦 = 𝑉 1 − 𝑦
+
+
+                                    ′               moltiplico i membri per 𝑦
+                 𝑉                                                                  ′
+                                                                                        𝑦
+quindi       𝑉=                                                                 𝑉𝑦 = 𝑉
+                1−𝑦                                                                    1−𝑦
+
+
+
+
+          Processi e Impianti – Modello Unità di Trasferimento                                   Scienze chimiche
+                                   ASSORBIMENTO GAS – LIQUIDO
+                Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+            𝑉 = 𝑉 ′ + 𝑉𝑦                                             𝑉 ′ = 𝑉 − 𝑉𝑦 = 𝑉 1 − 𝑦
+
+
+                     𝑉′                                                          ′
+                                                                                  𝑦
+  quindi         𝑉=                                                       𝑉𝑦 = 𝑉
+                    1−𝑦                                                          1−𝑦
+
+
+                                               𝑦               ′
+faccio il differenziale            𝑑 𝑉𝑦 = 𝑉 𝑑
+                                              1−𝑦
+              Processi e Impianti – Modello Unità di Trasferimento                            Scienze chimiche
+                                ASSORBIMENTO GAS – LIQUIDO
+             Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+          𝑉 = 𝑉 ′ + 𝑉𝑦                                             𝑉 ′ = 𝑉 − 𝑉𝑦 = 𝑉 1 − 𝑦
+
+
+                   𝑉′                                                          ′
+                                                                                𝑦
+quindi         𝑉=                                                       𝑉𝑦 = 𝑉
+                  1−𝑦                                                          1−𝑦
+
+
+                                              𝑦     ′
+                                                       𝑑𝑦     ′
+         allora                   𝑑 𝑉𝑦 = 𝑉 𝑑     =𝑉
+                                             1−𝑦      1−𝑦 2
+            Processi e Impianti – Modello Unità di Trasferimento                            Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+        Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+𝑉′ = 𝑉 1 − 𝑦
+
+
+
+
+       Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                        ASSORBIMENTO GAS – LIQUIDO
+     Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+′
+                                        𝑑𝑦                 ′
+𝑉 =𝑉 1−𝑦                      𝑑 𝑉𝑦 = 𝑉
+                                       1−𝑦 2
+
+
+
+
+    Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                        ASSORBIMENTO GAS – LIQUIDO
+     Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+′
+                                        𝑑𝑦      1−𝑦        ′
+𝑉 =𝑉 1−𝑦                      𝑑 𝑉𝑦 = 𝑉     2
+                                             =𝑉     2
+                                                      𝑑𝑦
+                                       1−𝑦      1−𝑦
+
+
+
+
+    Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                        ASSORBIMENTO GAS – LIQUIDO
+     Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+′
+                                        𝑑𝑦      1−𝑦        ′
+                                                              𝑑𝑦
+𝑉 =𝑉 1−𝑦                      𝑑 𝑉𝑦 = 𝑉     2
+                                             =𝑉     2
+                                                      𝑑𝑦 = 𝑉
+                                       1−𝑦      1−𝑦          1−𝑦
+
+
+
+
+    Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+           Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+  ′
+                                              𝑑𝑦      1−𝑦        ′
+                                                                    𝑑𝑦
+𝑉 =𝑉 1−𝑦                            𝑑 𝑉𝑦 = 𝑉     2
+                                                   =𝑉     2
+                                                            𝑑𝑦 = 𝑉
+                                             1−𝑦      1−𝑦          1−𝑦
+
+                      𝑦2
+                   𝑑 𝑉𝑦
+quindi   𝑧=න           ∗−𝑦
+            𝑦1 𝐾𝑦 𝑎𝑆 𝑦
+
+
+
+
+          Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+           Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+  ′
+                                              𝑑𝑦      1−𝑦        ′
+                                                                    𝑑𝑦
+𝑉 =𝑉 1−𝑦                            𝑑 𝑉𝑦 = 𝑉     2
+                                                   =𝑉     2
+                                                            𝑑𝑦 = 𝑉
+                                             1−𝑦      1−𝑦          1−𝑦
+
+                      𝑦2        𝑦2
+                   𝑑 𝑉𝑦                     𝑉𝑑𝑦
+quindi   𝑧=න           ∗
+                             =න            ∗−𝑦 1−𝑦
+            𝑦1 𝐾𝑦 𝑎𝑆 𝑦   − 𝑦   𝑦1  𝐾𝑦 𝑎𝑆 𝑦
+
+
+
+
+          Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                                ASSORBIMENTO GAS – LIQUIDO
+             Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+  ′
+                                                𝑑𝑦      1−𝑦        ′
+                                                                      𝑑𝑦
+𝑉 =𝑉 1−𝑦                              𝑑 𝑉𝑦 = 𝑉     2
+                                                     =𝑉     2
+                                                              𝑑𝑦 = 𝑉
+                                               1−𝑦      1−𝑦          1−𝑦
+
+                        𝑦2       𝑦2
+                    𝑑 𝑉𝑦                     𝑉𝑑𝑦
+quindi    𝑧=න           ∗
+                              =න            ∗−𝑦 1−𝑦
+             𝑦1 𝐾𝑦 𝑎𝑆 𝑦   − 𝑦   𝑦1  𝐾𝑦 𝑎𝑆 𝑦
+
+         Moltiplichiamo il numeratore e il denominatore della funzione all’interno
+                           dell’integrale per la grandezza (1-y)lm.
+
+            Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                        ASSORBIMENTO GAS – LIQUIDO
+     Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+      𝑦2                     𝑦2
+               𝑉𝑑𝑦                       𝑉𝑑𝑦                           1 − 𝑦 𝑙𝑚
+𝑧=න           ∗
+                          =න            ∗−𝑦 1−𝑦
+   𝑦1 𝐾𝑦 𝑎𝑆 𝑦   − 𝑦 1 − 𝑦   𝑦1  𝐾𝑦 𝑎𝑆 𝑦                                1 − 𝑦 𝑙𝑚
+
+
+
+
+    Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+      Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+       𝑦2                    𝑦2
+               𝑉𝑑𝑦                       𝑉𝑑𝑦                            1 − 𝑦 𝑙𝑚
+𝑧=න           ∗
+                          =න            ∗−𝑦 1−𝑦
+   𝑦1 𝐾𝑦 𝑎𝑆 𝑦   − 𝑦 1 − 𝑦   𝑦1  𝐾𝑦 𝑎𝑆 𝑦                                 1 − 𝑦 𝑙𝑚
+
+
+ Chiaramente, sia la portata V che Ky e (1 – y)lm variano lungo la colonna
+       ma è possibile dimostrare (attraverso l’ADR) che il rapporto
+
+
+
+
+     Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+      Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+       𝑦2                    𝑦2
+               𝑉𝑑𝑦                       𝑉𝑑𝑦                                       1 − 𝑦 𝑙𝑚
+𝑧=න           ∗
+                          =න            ∗−𝑦 1−𝑦
+   𝑦1 𝐾𝑦 𝑎𝑆 𝑦   − 𝑦 1 − 𝑦   𝑦1  𝐾𝑦 𝑎𝑆 𝑦                                            1 − 𝑦 𝑙𝑚
+
+
+ Chiaramente, sia la portata V che Ky e (1 – y)lm variano lungo la colonna
+       ma è possibile dimostrare (attraverso l’ADR) che il rapporto
+
+         𝑉                                 si mantiene praticamente costante e quindi può
+    𝐾𝑦 1 − 𝑦 𝑙𝑚                            essere portato fuori dal segno di integrazione
+
+
+
+     Processi e Impianti – Modello Unità di Trasferimento                                   Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                  𝑦2
+                                   𝑉𝑑𝑦                 1 − 𝑦 𝑙𝑚
+                    𝑧=න           ∗−𝑦 1−𝑦
+                       𝑦1 𝐾𝑦 𝑎𝑆 𝑦                      1 − 𝑦 𝑙𝑚
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                 𝑦2
+                                  𝑽𝑑𝑦                  1 − 𝑦 𝑙𝑚
+                   𝑧=න            ∗−𝑦 1−𝑦
+                      𝑦1 𝑲 𝒚 𝒂𝑺 𝑦                      𝟏 − 𝒚 𝒍𝒎
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                 𝑦2
+                                  𝑽𝑑𝑦                  1 − 𝑦 𝑙𝑚
+                   𝑧=න            ∗−𝑦 1−𝑦
+                      𝑦1 𝑲 𝒚 𝒂𝑺 𝑦                      𝟏 − 𝒚 𝒍𝒎
+
+                                   𝑦2
+                         𝑉              1 − 𝑦 𝑙𝑚
+                𝑧=               න    ∗
+                                                 𝑑𝑦
+                   𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑦1 𝑦 − 𝑦 1 − 𝑦
+
+
+
+
+Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                    ASSORBIMENTO GAS – LIQUIDO
+ Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+                                 𝑦2
+                                  𝑽𝑑𝑦                            1 − 𝑦 𝑙𝑚
+                   𝑧=න            ∗−𝑦 1−𝑦
+                      𝑦1 𝑲 𝒚 𝒂𝑺 𝑦                                𝟏 − 𝒚 𝒍𝒎
+
+                                   𝑦2
+                         𝑉              1 − 𝑦 𝑙𝑚
+                𝑧=               න    ∗
+                                                 𝑑𝑦
+                   𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑦1 𝑦 − 𝑦 1 − 𝑦
+
+
+
+
+                                                 𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺   Modello della Unità di Trasferimento
+
+Processi e Impianti – Modello Unità di Trasferimento                                        Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+      Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+                𝑉
+    𝐻𝑂𝐺 =
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚
+Altezza della Unità di Trasferimento
+
+
+
+
+     Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+      Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                      𝑦2
+                𝑉                                                             1 − 𝑦 𝑙𝑚
+    𝐻𝑂𝐺 =                                                   𝑁𝑂𝐺 = න         ∗
+                                                                                       𝑑𝑦
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                             𝑦1    𝑦 −𝑦 1−𝑦
+Altezza della Unità di Trasferimento                        Numero delle Unità di Trasferimento
+
+
+
+
+     Processi e Impianti – Modello Unità di Trasferimento                                         Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+      Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                          𝑦2
+                𝑉                                                                 1 − 𝑦 𝑙𝑚
+    𝐻𝑂𝐺 =                                                      𝑁𝑂𝐺 = න          ∗
+                                                                                           𝑑𝑦
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                                 𝑦1    𝑦 −𝑦 1−𝑦
+Altezza della Unità di Trasferimento                            Numero delle Unità di Trasferimento
+
+
+
+                                                      𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺
+
+
+   L’altezza del riempimento è quindi dato dalla somma di tante unità di
+    trasferimento, ognuna di altezza pari ad HOG, pari al valore di NOG.
+
+     Processi e Impianti – Modello Unità di Trasferimento                                             Scienze chimiche
+                               ASSORBIMENTO GAS – LIQUIDO
+            Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+                𝑉
+    𝐻𝑂𝐺 =
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚
+Altezza della Unità di Trasferimento
+
+
+
+
+           Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                               ASSORBIMENTO GAS – LIQUIDO
+            Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  L’altezza della unità di trasferimento dipende
+                𝑉                                                 essenzialmente dal valore del coefficiente globale di
+    𝐻𝑂𝐺 =                                                         trasferimento. Maggiore Ky minore l’altezza della unità di
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                          trasferimento. Inoltre maggiore la superficie specifica
+                                                                  del riempimento, minore l’altezza della unità di
+Altezza della Unità di Trasferimento                              trasferimento. Quindi HOG dipende essenzialmente dalle
+                                                                  caratteristiche cinetiche del trasferimento.
+
+
+
+
+           Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                                 ASSORBIMENTO GAS – LIQUIDO
+              Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  L’altezza della unità di trasferimento dipende
+                𝑉                                                 essenzialmente dal valore del coefficiente globale di
+    𝐻𝑂𝐺 =                                                         trasferimento. Maggiore Ky minore l’altezza della unità di
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                          trasferimento. Inoltre maggiore la superficie specifica
+                                                                  del riempimento, minore l’altezza della unità di
+Altezza della Unità di Trasferimento                              trasferimento. Quindi HOG dipende essenzialmente dalle
+                                                                  caratteristiche cinetiche del trasferimento.
+
+
+          𝑦2
+                   1 − 𝑦 𝑙𝑚
+𝑁𝑂𝐺 = න          ∗
+                            𝑑𝑦
+         𝑦1     𝑦 −𝑦 1−𝑦
+Numero delle Unità di Trasferimento
+
+           Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                                 ASSORBIMENTO GAS – LIQUIDO
+              Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  L’altezza della unità di trasferimento dipende
+                𝑉                                                 essenzialmente dal valore del coefficiente globale di
+    𝐻𝑂𝐺 =                                                         trasferimento. Maggiore Ky minore l’altezza della unità di
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                          trasferimento. Inoltre maggiore la superficie specifica
+                                                                  del riempimento, minore l’altezza della unità di
+Altezza della Unità di Trasferimento                              trasferimento. Quindi HOG dipende essenzialmente dalle
+                                                                  caratteristiche cinetiche del trasferimento.
+
+
+          𝑦2                                                      Il numero delle unità di trasferimento dipende invece:
+                   1 − 𝑦 𝑙𝑚
+𝑁𝑂𝐺 = න                     𝑑𝑦                                    dal grado di separazione richiesto (estremi di
+                 ∗
+                𝑦 −𝑦 1−𝑦                                          integrazione) e dal salto motore (y* - y), cioè dalla
+         𝑦1
+                                                                  distanza    dall'equilibrio (governato    dalla  legge
+Numero delle Unità di Trasferimento                               termodinamica)
+
+           Processi e Impianti – Modello Unità di Trasferimento                                                     Scienze chimiche
+                      ASSORBIMENTO GAS – LIQUIDO
+   Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                  Il pedice O (overall) indica che stiamo usando un salto
+𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺                                     motore totale, mentre G indica che lo stiamo esprimendo in
+                                                  funzione della frazione molare in fase gassosa.
+
+
+
+
+  Processi e Impianti – Modello Unità di Trasferimento                                                Scienze chimiche
+                      ASSORBIMENTO GAS – LIQUIDO
+   Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                  Il pedice O (overall) indica che stiamo usando un salto
+𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺                                     motore totale, mentre G indica che lo stiamo esprimendo in
+                                                  funzione della frazione molare in fase gassosa.
+
+
+
+
+  Processi e Impianti – Modello Unità di Trasferimento                                                Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                      Il pedice O (overall) indica che stiamo usando un salto
+  𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺                                       motore totale, mentre G indica che lo stiamo esprimendo in
+                                                      funzione della frazione molare in fase gassosa.
+
+
+
+
+In questo caso (1 – y)lm assume la forma:
+
+
+           1 − 𝑦 − 1 − 𝑦∗
+1 − 𝑦 𝑙𝑚 =
+                 1−𝑦
+              ln
+                 1 − 𝑦∗
+
+      Processi e Impianti – Modello Unità di Trasferimento                                                Scienze chimiche
+                            ASSORBIMENTO GAS – LIQUIDO
+         Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+Possiamo anche esprimere il modello dell’unità di trasferimento considerando gli altri 3 modi di
+                    rappresentazione della cinetica del trasferimento
+
+
+
+
+        Processi e Impianti – Modello Unità di Trasferimento                                Scienze chimiche
+                            ASSORBIMENTO GAS – LIQUIDO
+         Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+Possiamo anche esprimere il modello dell’unità di trasferimento considerando gli altri 3 modi di
+                    rappresentazione della cinetica del trasferimento
+
+
+
+
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿
+
+
+
+
+        Processi e Impianti – Modello Unità di Trasferimento                                Scienze chimiche
+                            ASSORBIMENTO GAS – LIQUIDO
+         Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+Possiamo anche esprimere il modello dell’unità di trasferimento considerando gli altri 3 modi di
+                    rappresentazione della cinetica del trasferimento
+
+
+
+
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿                                              𝑧 = 𝐻𝐺 ∙ 𝑁𝐺
+
+
+
+
+        Processi e Impianti – Modello Unità di Trasferimento                                Scienze chimiche
+                            ASSORBIMENTO GAS – LIQUIDO
+         Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+Possiamo anche esprimere il modello dell’unità di trasferimento considerando gli altri 3 modi di
+                    rappresentazione della cinetica del trasferimento
+
+
+
+
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿                                              𝑧 = 𝐻𝐺 ∙ 𝑁𝐺        𝑧 = 𝐻𝐿 ∙ 𝑁𝐿
+
+
+
+
+        Processi e Impianti – Modello Unità di Trasferimento                                Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+        Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿
+
+
+
+
+       Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+        Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                    𝑥2
+                                             𝐿                             1 − 𝑥 𝑙𝑚
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿                    𝐻𝑂𝐿 =                        𝑁𝑂𝐿 = න        ∗
+                                                                                    𝑑𝑥
+                                       𝐾𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚               𝑥1   𝑥−𝑥 1−𝑥
+
+
+
+
+       Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+        Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                    𝑥2
+                                             𝐿                             1 − 𝑥 𝑙𝑚
+𝑧 = 𝐻𝑂𝐿 ∙ 𝑁𝑂𝐿                    𝐻𝑂𝐿 =                        𝑁𝑂𝐿 = න        ∗
+                                                                                    𝑑𝑥
+                                       𝐾𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚               𝑥1   𝑥−𝑥 1−𝑥
+
+
+
+                1 − 𝑥 − 1 − 𝑥∗
+     1 − 𝑥 𝑙𝑚 =
+                      1−𝑥
+                   ln
+                      1 − 𝑥∗
+
+
+       Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+𝑧 = 𝐻𝐿 ∙ 𝑁𝐿
+
+
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  𝑥2
+                                            𝐿                             1 − 𝑥 𝑙𝑚
+𝑧 = 𝐻𝐿 ∙ 𝑁𝐿                     𝐻𝐿 =                         𝑁𝐿 = න                 𝑑𝑥
+                                     𝑘𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚               𝑥1   𝑥 − 𝑥𝑖 1 − 𝑥
+
+
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                        Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  𝑥2
+                                            𝐿                             1 − 𝑥 𝑙𝑚
+𝑧 = 𝐻𝐿 ∙ 𝑁𝐿                     𝐻𝐿 =                         𝑁𝐿 = න                 𝑑𝑥
+                                     𝑘𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚               𝑥1   𝑥 − 𝑥𝑖 1 − 𝑥
+
+
+
+               1 − 𝑥 − 1 − 𝑥𝑖
+    1 − 𝑥 𝑙𝑚 =
+                     1−𝑥
+                  ln
+                     1 − 𝑥𝑖
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                        Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+
+
+𝑧 = 𝐻𝐺 ∙ 𝑁𝐺
+
+
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                      Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  𝑦2
+                                           𝑉                              1 − 𝑦 𝑙𝑚
+𝑧 = 𝐻𝐺 ∙ 𝑁𝐺                     𝐻𝐺 =                         𝑁𝐺 = න                 𝑑𝑦
+                                     𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚               𝑦1   𝑦𝑖 − 𝑦 1 − 𝑦
+
+
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                       Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+       Calcolo altezza del riempimento – Modello della Unità di Trasferimento
+
+
+                                                                  𝑦2
+                                           𝑉                              1 − 𝑦 𝑙𝑚
+𝑧 = 𝐻𝐺 ∙ 𝑁𝐺                     𝐻𝐺 =                         𝑁𝐺 = න                 𝑑𝑦
+                                     𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚               𝑦1   𝑦𝑖 − 𝑦 1 − 𝑦
+
+
+
+               1 − 𝑦 − 1 − 𝑦𝑖
+    1 − 𝑦 𝑙𝑚 =
+                     1−𝑦
+                  ln
+                     1 − 𝑦𝑖
+
+
+      Processi e Impianti – Modello Unità di Trasferimento                       Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+                Calcolo del numero delle Unità di Trasferimento - NOG
+
+
+
+
+Processi e Impianti – Calcolo NOG                                       Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+                                     Quando si dimensiona la colonna si conoscono
+
+                                                  𝑽𝟏 , 𝒚𝟏
+                                 Caratteristiche
+                                della corrente da
+                                     trattare
+
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+                                     Quando si dimensiona la colonna si conoscono
+
+                                                  𝑽𝟏 , 𝒚𝟏 , 𝒚𝟐
+                                 Caratteristiche
+                                                        Prestazione
+                                della corrente da
+                                                       (separazione
+                                     trattare
+                                                         richiesta)
+
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+                                     Quando si dimensiona la colonna si conoscono
+
+                                                  𝑽𝟏 , 𝒚𝟏 , 𝒚𝟐 , 𝑳𝟐 , 𝒙𝟐
+                                                                              Caratteristiche del
+                                 Caratteristiche                           liquido assorbente (la
+                                                         Prestazione
+                                della corrente da                          portata si calcola con
+                                                        (separazione
+                                     trattare                              una ottimizzazione dei
+                                                          richiesta)
+                                                                                    costi)
+
+
+              Processi e Impianti – Calcolo NOG                                                         Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                              Calcolo del numero delle Unità di Trasferimento - NOG
+
+Dobbiamo inizialmente costruire la Curva di Lavoro sul diagramma y, x e cioè il luogo dei punti che rappresentano
+          le composizioni delle due fasi, gas e liquido, che si incontrano in ogni sezione della colonna.
+
+                  Per costruire la Curva di Lavoro bisogna conoscere portata e composizione delle
+                                       correnti entranti ed uscenti dalla colonna
+
+
+                                     Quando si dimensiona la colonna si conoscono
+
+                                                  𝑽𝟏 , 𝒚𝟏 , 𝒚𝟐 , 𝑳𝟐 , 𝒙𝟐                              mancano
+                                                                              Caratteristiche del
+                                 Caratteristiche
+                                                         Prestazione
+                                                                           liquido assorbente (la   𝑽𝟐 , 𝑳𝟏 , 𝒙𝟏
+                                della corrente da                          portata si calcola con
+                                                        (separazione
+                                     trattare                              una ottimizzazione dei
+                                                          richiesta)
+                                                                                    costi)
+
+
+              Processi e Impianti – Calcolo NOG                                                          Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+                  Calcolo del numero delle Unità di Trasferimento - NOG
+
+Per calcolare V2 facciamo il bilancio di materia per il componente inerte su tutta la colonna
+
+
+
+
+  Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+                  Calcolo del numero delle Unità di Trasferimento - NOG
+
+Per calcolare V2 facciamo il bilancio di materia per il componente inerte su tutta la colonna
+
+
+
+                                      𝑉1 1 − 𝑦1 = 𝑉2 1 − 𝑦2
+
+
+
+
+  Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+                  Calcolo del numero delle Unità di Trasferimento - NOG
+
+Per calcolare V2 facciamo il bilancio di materia per il componente inerte su tutta la colonna
+
+
+
+                                      𝑉1 1 − 𝑦1 = 𝑉2 1 − 𝑦2
+
+                                                   1 − 𝑦1
+                                           𝑉2 = 𝑉1
+                                                   1 − 𝑦2
+
+
+
+
+  Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                           ASSORBIMENTO GAS – LIQUIDO
+                  Calcolo del numero delle Unità di Trasferimento - NOG
+
+Per calcolare V2 facciamo il bilancio di materia per il componente inerte su tutta la colonna
+
+
+
+                                           𝑉1 1 − 𝑦1 = 𝑉2 1 − 𝑦2
+
+                                                         1 − 𝑦1
+                                                 𝑉2 = 𝑉1
+                                                         1 − 𝑦2
+
+                            Per ricavare L1 e x1 mettiamo a sistema il bilancio di materia totale
+                             sull’intera colonna e il bilancio di materia riferito al componente
+                                             che si assorbe sulla intera colonna
+
+
+
+  Processi e Impianti – Calcolo NOG                                                                 Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+                Calcolo del numero delle Unità di Trasferimento - NOG
+
+
+
+
+                                    𝑉1 + 𝐿2 = 𝑉2 + 𝑳𝟏
+
+
+
+
+Processi e Impianti – Calcolo NOG                                       Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+                Calcolo del numero delle Unità di Trasferimento - NOG
+
+
+
+
+                                          𝑉1 + 𝐿2 = 𝑉2 + 𝑳𝟏
+
+                                          𝑉1 𝑦1 + 𝐿2 𝑥2 = 𝑉2 𝑦2 + 𝑳𝟏 𝒙𝟏
+
+
+                                    Due equazioni in due incognite e quindi ricaviamo L1 e x1
+
+
+
+
+Processi e Impianti – Calcolo NOG                                                               Scienze chimiche
+                         ASSORBIMENTO GAS – LIQUIDO
+                Calcolo del numero delle Unità di Trasferimento - NOG
+
+
+
+
+                                                 𝑉1 + 𝐿2 = 𝑉2 + 𝑳𝟏
+
+                                                 𝑉1 𝑦1 + 𝐿2 𝑥2 = 𝑉2 𝑦2 + 𝑳𝟏 𝒙𝟏
+
+
+                                          Due equazioni in due incognite e quindi ricaviamo L1 e x1
+
+
+                                    Quindi, fissati i dati di ingresso, sono note le caratteristiche di tutte le
+                                    correnti materiali, non essendoci gradi di libertà disponibili (esistono 3
+                                        relazioni indipendenti tra le grandezze che ne fissano il valore)
+
+
+Processi e Impianti – Calcolo NOG                                                                             Scienze chimiche
+                                   ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2          L2, x2
+                                       Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                        (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                           sezione 1 e una sezione generica della colonna
+
+
+
+
+  1
+
+
+ V1, y1          L1, x1
+          Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+                                              Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                               (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                                  sezione 1 e una sezione generica della colonna
+          V, y    L, x
+
+
+
+
+  1
+
+
+ V1, y1                  L1, x1
+                 Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+                                              Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                               (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                                  sezione 1 e una sezione generica della colonna
+          V, y    L, x
+                                                     totale        𝑉1 + 𝐿 = 𝑉 + 𝐿1
+
+
+
+
+  1
+
+
+ V1, y1                  L1, x1
+                 Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+                                              Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                               (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                                  sezione 1 e una sezione generica della colonna
+          V, y    L, x
+                                                          totale        𝑉1 + 𝐿 = 𝑉 + 𝐿1
+                                                     componente che
+                                                       si trasferisce
+                                                                        𝑉1 𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿1 𝑥1
+
+
+
+  1
+
+
+ V1, y1                  L1, x1
+                 Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+                                              Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                               (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                                  sezione 1 e una sezione generica della colonna
+          V, y    L, x
+                                                          totale        𝑉1 + 𝐿 = 𝑉 + 𝐿1
+                                                     componente che
+                                                       si trasferisce
+                                                                        𝑉1 𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿1 𝑥1
+                                                       componente
+                                                        stagnante
+                                                                        𝑉1 1 − 𝑦1 = 𝑉 1 − 𝑦
+
+  1
+
+
+ V1, y1                  L1, x1
+                 Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+                                              Per determinare la curva di lavoro facciamo ora il bilancio di materia
+                                               (totale, per il componente che si assorbe e per quello inerte) tra la
+      2                                                  sezione 1 e una sezione generica della colonna
+          V, y    L, x
+
+                                                                   𝑉1 + 𝑳 = 𝑽 + 𝐿1
+
+                                                                   𝑉1 𝑦1 + 𝑳𝒙 = 𝑽𝒚 + 𝐿1 𝑥1
+
+                                                                   𝑉1 1 − 𝑦1 = 𝑽 1 − 𝒚
+
+  1                                      Sono 3 equazioni in 4 incognite. Per ogni valore di y compreso tra y1 e y2
+                                         si ricavano quindi i corrispondenti valori di L, V e x (incognite) e quindi si
+                                         costruisce la curva di lavoro (luogo dei punti rappresentativi delle
+ V1, y1                  L1, x1          composizioni delle correnti che si incrociano in ogni sezione della colonna)
+                 Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                           ASSORBIMENTO GAS – LIQUIDO
+                                  Calcolo del numero delle Unità di Trasferimento - NOG
+V2, y2                   L2, x2
+
+      2
+          V, y    L, x
+
+
+
+
+  1
+
+
+ V1, y1
+                 Processi e Impianti – Calcolo NOG                                        Scienze chimiche
+                                   ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo del numero delle Unità di Trasferimento - NOG
+Dalla conoscenza della curva di lavoro e dividendo l’intervallo tra y1 e y2 in un numero sufficiente di punti è
+                                  possibile costruire la tabella seguente:
+
+
+
+                                                                                                      (1 − y ) − (1 − y* )
+                                              y     (1-y)    y*     (y*-y)     (1-y*)
+                                                                                         (1 − y )lm =         (1 − y )
+                                                                                                          ln
+                                                                                                             (1 − y* )
+
+                                              y1    (1-y1)   y1*    (y1*-y1)   (1-y1*)              (1-y)lm 1
+
+                                              ---    ---     ---      ---        ---                    ---
+
+                                              ---    ---     ---      ---        ---                    ---
+
+                                              ---    ---     ---      ---        ---                    ---
+
+                                              ---    ---     ---      ---        ---                    ---
+
+                                              y2    (1-y2)   y2*    (y2*-y2)   (1-y2*)              (1-y)lm 2
+
+
+
+          Processi e Impianti – Calcolo NOG                                                                         Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+                         Calcolo del numero delle Unità di Trasferimento - NOG
+
+
+
+
+Possiamo quindi costruire il
+  grafico che consente il
+       calcolo di NOG
+
+
+
+
+         Processi e Impianti – Calcolo NOG                                       Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+               Calcolo NOG con il metodo grafico semplificato di Backer
+
+Si utilizza nel caso di sistemi diluiti. In questo caso , essendo le concentrazioni molto basse
+     le portate molari totali V ed L possono essere considerate costanti lungo la colonna
+
+
+
+
+  Processi e Impianti – Calcolo NOG                                                               Scienze chimiche
+                                     ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo NOG con il metodo grafico semplificato di Backer
+
+           Si utilizza nel caso di sistemi diluiti. In questo caso , essendo le concentrazioni molto basse
+                le portate molari totali V ed L possono essere considerate costanti lungo la colonna
+
+
+Essendo sia x che y molto piccoli si avrà che:           1−𝑦 ≅1                    1 − 𝑦 𝑙𝑚 ≅ 1 − 𝑦
+
+
+
+
+             Processi e Impianti – Calcolo NOG                                                               Scienze chimiche
+                                     ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo NOG con il metodo grafico semplificato di Backer
+
+           Si utilizza nel caso di sistemi diluiti. In questo caso , essendo le concentrazioni molto basse
+                le portate molari totali V ed L possono essere considerate costanti lungo la colonna
+
+
+Essendo sia x che y molto piccoli si avrà che:           1−𝑦 ≅1                    1 − 𝑦 𝑙𝑚 ≅ 1 − 𝑦
+
+                                                 𝑦2                      𝑦2
+                                                         1 − 𝑦 𝑙𝑚             𝑑𝑦
+       conseguentemente               𝑁𝑂𝐺 = න          ∗
+                                                                  𝑑𝑦 ≅ න      ∗−𝑦
+                                                 𝑦1   𝑦 −𝑦 1−𝑦          𝑦1  𝑦
+
+
+
+
+             Processi e Impianti – Calcolo NOG                                                               Scienze chimiche
+                                     ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo NOG con il metodo grafico semplificato di Backer
+
+           Si utilizza nel caso di sistemi diluiti. In questo caso , essendo le concentrazioni molto basse
+                le portate molari totali V ed L possono essere considerate costanti lungo la colonna
+
+
+Essendo sia x che y molto piccoli si avrà che:           1−𝑦 ≅1                    1 − 𝑦 𝑙𝑚 ≅ 1 − 𝑦
+
+                                                 𝑦2                      𝑦2
+                                                         1 − 𝑦 𝑙𝑚             𝑑𝑦
+       conseguentemente               𝑁𝑂𝐺 = න          ∗
+                                                                  𝑑𝑦 ≅ න      ∗−𝑦
+                                                 𝑦1   𝑦 −𝑦 1−𝑦          𝑦1  𝑦
+
+                                                            𝑦2
+                                                                   𝑑𝑦     𝑦2 − 𝑦1
+       Applicando il teorema della media          𝑁𝑂𝐺 = න         ∗
+                                                                      = ∗
+                                                           𝑦1    𝑦 −𝑦   𝑦 − 𝑦 𝑚𝑒𝑑𝑖𝑜
+
+             Processi e Impianti – Calcolo NOG                                                               Scienze chimiche
+                          ASSORBIMENTO GAS – LIQUIDO
+               Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+
+        𝑦2 − 𝑦1                            y
+𝑁𝑂𝐺 = ∗                                                                        retta di
+      𝑦 − 𝑦 𝑚𝑒𝑑𝑖𝑜                                                              lavoro
+
+                                          y1                              •
+
+
+
+                                                                                   curva di
+                                                                                  equilibrio
+
+
+                                           y2    •
+
+
+
+
+                                                x2                        x1              x
+
+
+
+  Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                            Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+
+                   𝑦2 − 𝑦1                                y
+           𝑁𝑂𝐺 = ∗                                                                          retta di
+                 𝑦 − 𝑦 𝑚𝑒𝑑𝑖𝑜                                                                lavoro
+
+                                                          y1                           •
+
+
+ Quindi se NOG = 1 ➔ (y2 – y1) = (y* - y)medio
+                                                                                                curva di
+                                                                                               equilibrio
+
+
+Cioè l’altezza di riempimento corrispondente ad una       y2   •
+unità di trasferimento è caratterizzata dalla proprietà
+che, in essa, la variazione di composizione del
+componente che si trasferisce è uguale al salto
+motore medio che agisce in quella determinata                  x2                      x1              x
+altezza.
+
+
+
+
+               Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                        ASSORBIMENTO GAS – LIQUIDO
+                             Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+•   nel diagramma che riporta la curva di lavoro e di
+    equilibrio (l’ipotesi di sistemi diluiti rende praticamente
+    rettilinea la curva di lavoro) viene costruita una curva
+                                                                  y                          retta di
+                                                                                             lavoro
+    ausiliaria che unisce i punti intermedi dei segmenti
+    verticali intercettati dalle due curve;
+                                                                  y1                    •
+                                                                                             curva di
+                                                                                             ausiliaria
+
+                                                                                                 curva di
+                                                                                                equilibrio
+
+
+                                                                  y2   •
+
+
+
+
+                                                                       x2               x1              x
+
+
+
+                Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                        ASSORBIMENTO GAS – LIQUIDO
+                             Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+•   nel diagramma che riporta la curva di lavoro e di
+    equilibrio (l’ipotesi di sistemi diluiti rende praticamente
+    rettilinea la curva di lavoro) viene costruita una curva
+                                                                  y                          retta di
+                                                                                             lavoro
+    ausiliaria che unisce i punti intermedi dei segmenti
+    verticali intercettati dalle due curve;
+•   partendo dal punto di lavoro P che rappresenta la
+                                                                  y1                    •
+                                                                                             curva di
+    sezione superiore della torre, si conduce una retta                                      ausiliaria
+    orizzontale fino ad intercettare la curva ausiliaria nel
+    punto Q;                                                                                     curva di
+                                                                                                equilibrio
+
+                                                                       P        Q
+                                                                  y2   •    •
+
+
+
+
+                                                                       x2               x1              x
+
+
+
+                Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                        ASSORBIMENTO GAS – LIQUIDO
+                             Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+•   nel diagramma che riporta la curva di lavoro e di
+    equilibrio (l’ipotesi di sistemi diluiti rende praticamente
+    rettilinea la curva di lavoro) viene costruita una curva
+                                                                  y                           retta di
+                                                                                              lavoro
+    ausiliaria che unisce i punti intermedi dei segmenti
+    verticali intercettati dalle due curve;
+•   partendo dal punto di lavoro P che rappresenta la
+                                                                  y1                     •
+                                                                                              curva di
+    sezione superiore della torre, si conduce una retta                                       ausiliaria
+    orizzontale fino ad intercettare la curva ausiliaria nel
+    punto Q;                                                                                      curva di
+                                                                                                 equilibrio
+•   a partire da Q si costruisce sulla retta orizzontale
+    passante per P un segmento QR uguale al segmento                   P        Q
+    PQ;                                                           y2   •    •       •R
+
+
+
+
+                                                                       x2                x1              x
+
+
+
+                Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                                        ASSORBIMENTO GAS – LIQUIDO
+                             Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+•   nel diagramma che riporta la curva di lavoro e di
+    equilibrio (l’ipotesi di sistemi diluiti rende praticamente
+    rettilinea la curva di lavoro) viene costruita una curva
+                                                                  y                           retta di
+                                                                                              lavoro
+    ausiliaria che unisce i punti intermedi dei segmenti
+    verticali intercettati dalle due curve;
+•   partendo dal punto di lavoro P che rappresenta la
+                                                                  y1                     •
+                                                                                              curva di
+    sezione superiore della torre, si conduce una retta                                       ausiliaria
+                                                                                    P
+    orizzontale fino ad intercettare la curva ausiliaria nel                        •
+    punto Q;                                                                                      curva di
+                                                                                                 equilibrio
+•   a partire da Q si costruisce sulla retta orizzontale
+    passante per P un segmento QR uguale al segmento                   P        Q
+    PQ;                                                           y2   •    •       •R
+
+•   si conduce quindi da R una retta verticale fino a
+    incontrare la curva di lavoro nel punto P*.
+                                                                       x2                x1              x
+
+
+
+                Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                                        ASSORBIMENTO GAS – LIQUIDO
+                             Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+•   nel diagramma che riporta la curva di lavoro e di
+    equilibrio (l’ipotesi di sistemi diluiti rende praticamente
+    rettilinea la curva di lavoro) viene costruita una curva
+                                                                  y                           retta di
+                                                                                              lavoro
+    ausiliaria che unisce i punti intermedi dei segmenti
+    verticali intercettati dalle due curve;
+•   partendo dal punto di lavoro P che rappresenta la
+                                                                  y1                     •
+                                                                                              curva di
+    sezione superiore della torre, si conduce una retta                                       ausiliaria
+                                                                                    P
+    orizzontale fino ad intercettare la curva ausiliaria nel                        •
+    punto Q;                                                                                      curva di
+                                                                            T                    equilibrio
+•   a partire da Q si costruisce sulla retta orizzontale                    •
+    passante per P un segmento QR uguale al segmento                   P        Q
+    PQ;                                                           y2   •    •       •R
+
+•   si conduce quindi da R una retta verticale fino a                       •
+    incontrare la curva di lavoro nel punto P*;                             Z
+•   si conduce ora una retta verticale per Q fino ad                   x2                x1              x
+    intercettare la curva di lavoro nel punto T e la curva di
+    equilibrio nel punto Z.
+
+
+
+
+                Processi e Impianti – Calcolo NOG                                                             Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+                       Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+            ෣
+I triangoli 𝑃      ෣
+              𝑇𝑄 e 𝑃𝑃 ∗ 𝑅 sono simili e pertanto:
+
+
+                                                    y                                  retta di
+                                                                                       lavoro
+
+                                                    y1                            •
+                                                                                       curva di
+                                                                                       ausiliaria
+                                                                        P
+                                                                        •
+                                                                                           curva di
+                                                               T                          equilibrio
+                                                                •
+                                                         P          Q
+                                                    y2   •      •       •R
+
+                                                                •
+                                                               Z
+                                                         x2                       x1              x
+
+
+
+          Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+                       Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+            ෣
+I triangoli 𝑃      ෣
+              𝑇𝑄 e 𝑃𝑃 ∗ 𝑅 sono simili e pertanto:
+
+
+                                                    y                                  retta di
+              𝑃∗ 𝑅: 𝑇𝑄 = 𝑃𝑅: 𝑃𝑄                                                        lavoro
+
+                                                    y1                            •
+                                                                                       curva di
+                                                                                       ausiliaria
+                                                                        P
+                                                                        •
+                                                                                           curva di
+                                                               T                          equilibrio
+                                                                •
+                                                         P          Q
+                                                    y2   •      •       •R
+
+                                                                •
+                                                               Z
+                                                         x2                       x1              x
+
+
+
+          Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                 Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+                      ෣
+          I triangoli 𝑃      ෣
+                        𝑇𝑄 e 𝑃𝑃 ∗ 𝑅 sono simili e pertanto:
+
+
+                                                                           y                           retta di
+                        𝑃∗ 𝑅: 𝑇𝑄 = 𝑃𝑅: 𝑃𝑄                                                              lavoro
+
+
+Essendo         𝑃𝑅 = 2𝑃𝑄          𝑃∗ 𝑅: 𝑇𝑄 = 2          𝑃 ∗ 𝑅 = 2𝑇𝑄 = 𝑇𝑍
+                                                                           y1                     •
+                                                                                                       curva di
+                                                                                                       ausiliaria
+                                                                                             P
+                                                                                             •
+                                                                                                           curva di
+                                                                                     T                    equilibrio
+                                                                                     •
+                                                                                P        Q
+                                                                           y2   •    •       •R
+
+                                                                                     •
+                                                                                     Z
+                                                                                x2                x1              x
+
+
+
+                    Processi e Impianti – Calcolo NOG                                                                  Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                 Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+                      ෣
+          I triangoli 𝑃      ෣
+                        𝑇𝑄 e 𝑃𝑃 ∗ 𝑅 sono simili e pertanto:
+
+
+                                                                           y                           retta di
+                        𝑃∗ 𝑅: 𝑇𝑄 = 𝑃𝑅: 𝑃𝑄                                                              lavoro
+
+
+Essendo         𝑃𝑅 = 2𝑃𝑄          𝑃∗ 𝑅: 𝑇𝑄 = 2          𝑃 ∗ 𝑅 = 2𝑇𝑄 = 𝑇𝑍
+                                                                           y1                     •
+                                                                                                       curva di
+                                                                                                       ausiliaria
+                                                                                             P
+Dato che 𝑃∗ 𝑅 rappresenta la variazione di composizione in fase                              •
+                                                                                                           curva di
+gassosa passando da P a P* e che 𝑇𝑍 è il salto motore medio                          T                    equilibrio
+agente nel tratto di colonna fra P e P* (nell’ipotesi che anche la                   •
+curva di equilibrio possa essere considerata rettilinea                         P        Q
+nell’intervallo di valori di concentrazione corrispondenti al              y2   •    •       •R
+passaggio da P a P*), l’uguaglianza fra 𝑃∗ 𝑅 e 𝑇𝑍 comporta che il
+                                                                                     •
+numero di unità di trasferimento NOG nel tratto di colonna fra P e                   Z
+P* sia uguale a 1.
+                                                                                x2                x1              x
+       Infatti NOG = 1 quando (y2 – y1) = (y* - y)medio
+
+
+                    Processi e Impianti – Calcolo NOG                                                                  Scienze chimiche
+                                     ASSORBIMENTO GAS – LIQUIDO
+                          Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+
+                                                            y                             retta di
+                                                                                          lavoro
+
+  Ipotesi per l’applicazione del metodo di Backer           y1                       •
+                                                                                          curva di
+                                                                                          ausiliaria
+                                                                              P
+1. Curva di lavoro rettilinea (deriva dalla assunzione di                     •
+   sistemi diluiti e conseguentemente di portate                      T
+                                                                                              curva di
+                                                                                             equilibrio
+   costanti)                                                          •
+2. Curva di equilibrio assimilabile ad una retta                 P        Q
+   nell’intervallo di concentrazioni corrispondente ad
+                                                            y2   •    •       •R
+
+   una unità di trasferimento                                         •
+                                                                      Z
+                                                                 x2                  x1              x
+
+
+
+             Processi e Impianti – Calcolo NOG                                                            Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                            Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+
+
+Nel caso in cui oltre alla linearità della curva di lavoro
+(sistemi diluiti e costanza delle portate) si assume che
+anche la curva di equilibrio può essere considerata
+rettilinea (sistema ideale, legge di Henry), il numero di
+unità di trasferimento NOG è calcolabile analiticamente
+secondo la relazione:
+
+
+
+
+               Processi e Impianti – Calcolo NOG                                       Scienze chimiche
+                                       ASSORBIMENTO GAS – LIQUIDO
+                            Calcolo NOG con il metodo grafico semplificato di Backer
+
+
+
+
+                                                                         𝑦2 − 𝑦1
+                                                             𝑁𝑂𝐺 = ∗
+                                                                   𝑦2 − 𝑦2 − 𝑦1∗ − 𝑦1
+Nel caso in cui oltre alla linearità della curva di lavoro
+(sistemi diluiti e costanza delle portate) si assume che
+                                                                          𝑦2∗ − 𝑦2
+                                                                        ln ∗
+anche la curva di equilibrio può essere considerata                       𝑦1 − 𝑦1
+rettilinea (sistema ideale, legge di Henry), il numero di
+unità di trasferimento NOG è calcolabile analiticamente
+secondo la relazione:
+
+
+                                                                 𝑦1∗ = 𝐻𝑥1         𝑦2∗ = 𝐻𝑥2
+
+
+
+               Processi e Impianti – Calcolo NOG                                               Scienze chimiche
+                              ASSORBIMENTO GAS – LIQUIDO
+                     Calcolo del numero delle Unità di Trasferimento - HOG
+
+
+
+
+                                         𝑧 = 𝐻𝑂𝐺 ∙ 𝑁𝑂𝐺
+
+
+                                                               𝑦2
+                𝑉                                                      1 − 𝑦 𝑙𝑚
+    𝐻𝑂𝐺 =                                          𝑁𝑂𝐺 = න           ∗
+                                                                                𝑑𝑦
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                                     𝑦1     𝑦 −𝑦 1−𝑦
+Altezza della Unità di Trasferimento                Numero delle Unità di Trasferimento
+
+
+
+
+     Processi e Impianti – Calcolo HOG                                                Scienze chimiche
+                                 ASSORBIMENTO GAS – LIQUIDO
+                        Calcolo del numero delle Unità di Trasferimento - HOG
+
+
+
+
+                                                               Portata del gas
+                𝑉                                              Caratteristiche chimico-fisiche del gas
+    𝐻𝑂𝐺 =
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                            𝐻𝑂𝐺        Portata del liquido
+                                                               Caratteristiche chimico-fisiche del liquido
+Altezza della Unità di Trasferimento
+                                                               Corpi di riempimento
+
+
+
+
+        Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                  ASSORBIMENTO GAS – LIQUIDO
+                         Calcolo del numero delle Unità di Trasferimento - HOG
+
+
+
+
+                                                                    Portata del gas
+                𝑉                                                   Caratteristiche chimico-fisiche del gas
+    𝐻𝑂𝐺 =
+          𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚                               𝐻𝑂𝐺          Portata del liquido
+                                                                    Caratteristiche chimico-fisiche del liquido
+Altezza della Unità di Trasferimento
+                                                                    Corpi di riempimento
+
+
+
+
+  HOG è quindi una funzione particolarmente complessa delle grandezze da cui dipende e non si riesce a
+  trovare una relazione empirica «semplice». Si cerca quindi di «scomporre» il contributo della fase gas
+              (HL) da quello della fase liquida in modo da avere relazioni più «maneggiabili»
+
+
+
+         Processi e Impianti – Calcolo HOG                                                                Scienze chimiche
+   Noi sappiamo che il KG
+   (coefficiente globale di         1   1   𝐻
+ trasferimento di materia) è          =   +     dove   𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+      esprimibile come:
+                                    𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+
+
+Processi e Impianti – Calcolo HOG                                   Scienze chimiche
+      Noi sappiamo che il KG
+      (coefficiente globale di         1   1   𝐻
+    trasferimento di materia) è          =   +     dove   𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+         esprimibile come:
+                                       𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+Possiamo riscrivere la stessa
+  relazione esprimendo le
+                                       1   1   𝑚
+ concentrazioni in termini di
+                                         =   +     dove    𝑦 ∗ = 𝑚𝑥
+       frazioni molari
+                                       𝐾𝑦 𝑘𝑦 𝑘𝑥
+
+
+
+
+   Processi e Impianti – Calcolo HOG                                   Scienze chimiche
+                    Noi sappiamo che il KG
+                    (coefficiente globale di         1   1   𝐻
+                  trasferimento di materia) è          =   +     dove   𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+                       esprimibile come:
+                                                     𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+           Possiamo riscrivere la stessa
+             relazione esprimendo le
+                                                     1   1   𝑚
+            concentrazioni in termini di
+                                                       =   +     dove    𝑦 ∗ = 𝑚𝑥
+                  frazioni molari
+                                                     𝐾𝑦 𝑘𝑦 𝑘𝑥
+
+Moltiplichiamo           𝑉
+i due membri
+     per:
+                    𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+
+
+                 Processi e Impianti – Calcolo HOG                                   Scienze chimiche
+                    Noi sappiamo che il KG
+                    (coefficiente globale di               1   1   𝐻
+                  trasferimento di materia) è                =   +         dove    𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+                       esprimibile come:
+                                                           𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+           Possiamo riscrivere la stessa
+             relazione esprimendo le
+                                                          1   1   𝑚
+            concentrazioni in termini di
+                                                            =   +           dove    𝑦 ∗ = 𝑚𝑥
+                  frazioni molari
+                                                          𝐾𝑦 𝑘𝑦 𝑘𝑥
+
+Moltiplichiamo           𝑉                                 𝑉              𝑉              𝑚𝑉
+i due membri
+                    𝑎𝑆 1 − 𝑦 𝑙𝑚
+                                                                   =              +
+     per:                                            𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+
+                 Processi e Impianti – Calcolo HOG                                              Scienze chimiche
+                    Noi sappiamo che il KG
+                    (coefficiente globale di               1   1   𝐻
+                  trasferimento di materia) è                =   +         dove    𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+                       esprimibile come:
+                                                           𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+           Possiamo riscrivere la stessa
+             relazione esprimendo le
+                                                          1   1   𝑚
+            concentrazioni in termini di
+                                                            =   +           dove    𝑦 ∗ = 𝑚𝑥
+                  frazioni molari
+                                                          𝐾𝑦 𝑘𝑦 𝑘𝑥
+
+Moltiplichiamo           𝑉                                 𝑉              𝑉              𝑚𝑉
+i due membri
+                    𝑎𝑆 1 − 𝑦 𝑙𝑚
+                                                                   =              +
+     per:                                            𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+                                                         𝑯𝑶𝑮
+                 Processi e Impianti – Calcolo HOG                                              Scienze chimiche
+                    Noi sappiamo che il KG
+                    (coefficiente globale di               1   1   𝐻
+                  trasferimento di materia) è                =   +         dove    𝑝𝑎∗ = 𝐻𝑐𝑎𝐿
+                       esprimibile come:
+                                                           𝐾𝐺 𝑘𝐺 𝑘𝐿
+
+
+           Possiamo riscrivere la stessa
+             relazione esprimendo le
+                                                          1   1   𝑚
+            concentrazioni in termini di
+                                                            =   +           dove    𝑦 ∗ = 𝑚𝑥
+                  frazioni molari
+                                                          𝐾𝑦 𝑘𝑦 𝑘𝑥
+
+Moltiplichiamo           𝑉                                 𝑉              𝑉              𝑚𝑉
+i due membri
+                    𝑎𝑆 1 − 𝑦 𝑙𝑚
+                                                                   =              +
+     per:                                            𝐾𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+                                                         𝑯𝑶𝑮             𝑯𝑮
+                 Processi e Impianti – Calcolo HOG                                              Scienze chimiche
+                                                     𝑚𝑉
+Quindi possiamo scrivere            𝐻𝑂𝐺 = 𝐻𝐺 +
+                                               𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+
+
+Processi e Impianti – Calcolo HOG                               Scienze chimiche
+                                                            𝑚𝑉
+Quindi possiamo scrivere                   𝐻𝑂𝐺 = 𝐻𝐺 +
+                                                      𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+           𝑚𝑉                       Moltiplichiamo e
+                                     dividiamo per:    𝐿 1 − 𝑥 𝑙𝑚
+     𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+
+
+Processi e Impianti – Calcolo HOG                                      Scienze chimiche
+                                                              𝑚𝑉
+  Quindi possiamo scrivere                   𝐻𝑂𝐺 = 𝐻𝐺 +
+                                                        𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+             𝑚𝑉                       Moltiplichiamo e
+                                       dividiamo per:    𝐿 1 − 𝑥 𝑙𝑚
+       𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+      𝑚𝑉        𝐿 1 − 𝑥 𝑙𝑚
+              ∙
+𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝐿 1 − 𝑥 𝑙𝑚
+
+
+
+  Processi e Impianti – Calcolo HOG                                      Scienze chimiche
+                                                             𝑚𝑉
+ Quindi possiamo scrivere                   𝐻𝑂𝐺 = 𝐻𝐺 +
+                                                       𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+            𝑚𝑉                       Moltiplichiamo e
+                                      dividiamo per:    𝐿 1 − 𝑥 𝑙𝑚
+      𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+      𝑚𝑉        𝐿 1 − 𝑥 𝑙𝑚   𝑉        𝐿        1 − 𝑥 𝑙𝑚
+              ∙            =𝑚 ∙              ∙
+𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝐿 1 − 𝑥 𝑙𝑚    𝐿 𝑘𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚 1 − 𝑦 𝑙𝑚
+
+
+
+ Processi e Impianti – Calcolo HOG                                      Scienze chimiche
+                                                             𝑚𝑉
+ Quindi possiamo scrivere                   𝐻𝑂𝐺 = 𝐻𝐺 +
+                                                       𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+            𝑚𝑉                       Moltiplichiamo e
+                                      dividiamo per:     𝐿 1 − 𝑥 𝑙𝑚
+      𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+      𝑚𝑉        𝐿 1 − 𝑥 𝑙𝑚   𝑉        𝐿        1 − 𝑥 𝑙𝑚
+              ∙            =𝑚 ∙              ∙
+𝑘𝑥 𝑎𝑆 1 − 𝑦 𝑙𝑚 𝐿 1 − 𝑥 𝑙𝑚    𝐿 𝑘𝑥 𝑎𝑆 1 − 𝑥 𝑙𝑚 1 − 𝑦 𝑙𝑚
+
+                                                        𝑯𝑳
+ Processi e Impianti – Calcolo HOG                                      Scienze chimiche
+                                         𝑉   1 − 𝑥 𝑙𝑚
+                             𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                         𝐿   1 − 𝑦 𝑙𝑚
+
+
+
+
+Processi e Impianti – Calcolo HOG                       Scienze chimiche
+                                            𝑉   1 − 𝑥 𝑙𝑚
+                                𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                            𝐿   1 − 𝑦 𝑙𝑚
+
+
+                                                     1 − 𝑥 𝑙𝑚
+Nella maggior parte dei casi possiamo assumere che            ≅1
+                                                     1 − 𝑦 𝑙𝑚
+
+
+
+
+   Processi e Impianti – Calcolo HOG                               Scienze chimiche
+                                            𝑉   1 − 𝑥 𝑙𝑚
+                                𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                            𝐿   1 − 𝑦 𝑙𝑚
+
+
+                                                         1 − 𝑥 𝑙𝑚
+Nella maggior parte dei casi possiamo assumere che                ≅1
+                                                         1 − 𝑦 𝑙𝑚
+
+                                                   𝑉
+                                       𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                                   𝐿
+
+
+
+
+   Processi e Impianti – Calcolo HOG                                   Scienze chimiche
+                                               𝑉   1 − 𝑥 𝑙𝑚
+                                   𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                               𝐿   1 − 𝑦 𝑙𝑚
+
+
+                                                                1 − 𝑥 𝑙𝑚
+  Nella maggior parte dei casi possiamo assumere che                     ≅1
+                                                                1 − 𝑦 𝑙𝑚
+
+                                                      𝑉
+                                          𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                                      𝐿
+
+Ora HG e HL dipendono certamente da un numero minore di parametri ed è quindi possibile trovare
+relazioni empiriche che consentano il loro calcolo dalla conoscenza delle grandezze caratteristiche.
+
+
+
+      Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                     HL viene calcolato attraverso la seguente relazione empirica:
+
+
+                                                       𝑛
+                                               𝐺𝐿
+                                        𝐻𝐿 = 𝛽             𝑆𝑐 0.5
+                                               𝜇𝐿
+
+Dove β ed n sono parametri caratteristici del riempimento adottato per un prefissato intervallo di GL.
+
+
+
+
+    Processi e Impianti – Calcolo HOG                                                             Scienze chimiche
+                         HG viene calcolato attraverso la seguente relazione empirica:
+
+
+                                                           𝑛
+                                                   𝐺𝐿
+                                            𝐻𝐿 = 𝛽               𝑆𝑐 0.5
+                                                   𝜇𝐿
+
+   Dove β ed n sono parametri caratteristici del riempimento adottato per un prefissato intervallo di GL.
+
+
+                                                         𝐾𝑔                   𝜇
+GL è la velocità di massa del liquido espressa in                 e    𝑆𝑐 =              Numero di Schmidt
+                                                        ℎ ∙ 𝑚2              𝜌 ∙ 𝐷𝑓
+
+
+
+
+        Processi e Impianti – Calcolo HOG                                                              Scienze chimiche
+                         HG viene calcolato attraverso la seguente relazione empirica:
+
+
+                                                           𝑛
+                                                   𝐺𝐿
+                                            𝐻𝐿 = 𝛽               𝑆𝑐 0.5
+                                                   𝜇𝐿
+
+   Dove β ed n sono parametri caratteristici del riempimento adottato per un prefissato intervallo di GL.
+
+
+                                                         𝐾𝑔                   𝜇
+GL è la velocità di massa del liquido espressa in                 e    𝑆𝑐 =              Numero di Schmidt
+                                                        ℎ ∙ 𝑚2              𝜌 ∙ 𝐷𝑓
+
+
+
+        Per quanto riguarda HG non è stata trovata una analoga relazione empirica sufficientemente
+       affidabile e quindi per il suo calcolo si ricorre ad una procedura differente basata sull’uso di un
+                                            sistema di riferimento noto
+
+
+        Processi e Impianti – Calcolo HOG                                                                Scienze chimiche
+                                                𝑛
+                                           𝐺𝐿
+                                    𝐻𝐿 = 𝛽          𝑆𝑐 0.5
+                                           𝜇𝐿
+
+
+
+
+Processi e Impianti – Calcolo HOG                            Scienze chimiche
+Per il calcolo di HG è stata quindi proposta una procedura che si basa sull’adozione di un
+sistema modello gas-liquido (i componenti in fase gassosa sono ammoniaca e aria, mentre
+il liquido è costituito da acqua) di cui si conoscono le prestazioni (in termini di assorbimento)
+per numerosi tipi di riempimento e al variare delle condizioni fluidodinamiche.
+
+
+
+
+    Processi e Impianti – Calcolo HOG                                                               Scienze chimiche
+Per il calcolo di HG è stata quindi proposta una procedura che si basa sull’adozione di un
+sistema modello gas-liquido (i componenti in fase gassosa sono ammoniaca e aria, mentre
+il liquido è costituito da acqua) di cui si conoscono le prestazioni (in termini di assorbimento)
+per numerosi tipi di riempimento e al variare delle condizioni fluidodinamiche.
+
+
+                    Per il sistema modello e riferendoci alla NH3 possiamo scrivere
+
+
+                                                       𝛼      𝛽
+                                        𝑆ℎ 𝑁𝐻3 = 𝐶1 𝑅𝑒 𝑁𝐻3 𝑆𝑐 𝑁𝐻3
+
+
+
+
+    Processi e Impianti – Calcolo HOG                                                               Scienze chimiche
+Per il calcolo di HG è stata quindi proposta una procedura che si basa sull’adozione di un
+sistema modello gas-liquido (i componenti in fase gassosa sono ammoniaca e aria, mentre
+il liquido è costituito da acqua) di cui si conoscono le prestazioni (in termini di assorbimento)
+per numerosi tipi di riempimento e al variare delle condizioni fluidodinamiche.
+
+
+                    Per il sistema modello e riferendoci alla NH3 possiamo scrivere
+
+
+                                                       𝛼      𝛽
+                                        𝑆ℎ 𝑁𝐻3 = 𝐶1 𝑅𝑒 𝑁𝐻3 𝑆𝑐 𝑁𝐻3
+
+                                                          𝛼         𝛽
+                                        𝑘𝑦′ 𝐷      𝐷𝑣𝜌ҧ        𝜇
+                                              = 𝐶1
+                                         𝐷𝑓         𝜇         𝜌𝐷𝑓
+
+
+
+
+    Processi e Impianti – Calcolo HOG                                                               Scienze chimiche
+Per il calcolo di HG è stata quindi proposta una procedura che si basa sull’adozione di un
+sistema modello gas-liquido (i componenti in fase gassosa sono ammoniaca e aria, mentre
+il liquido è costituito da acqua) di cui si conoscono le prestazioni (in termini di assorbimento)
+per numerosi tipi di riempimento e al variare delle condizioni fluidodinamiche.
+
+
+                    Per il sistema modello e riferendoci alla NH3 possiamo scrivere
+
+
+                                                       𝛼      𝛽
+                                        𝑆ℎ 𝑁𝐻3 = 𝐶1 𝑅𝑒 𝑁𝐻3 𝑆𝑐 𝑁𝐻3
+
+                                                          𝛼         𝛽
+                                        𝑘𝑦′ 𝐷      𝐷𝑣𝜌ҧ        𝜇
+                                              = 𝐶1
+                                         𝐷𝑓         𝜇         𝜌𝐷𝑓
+
+    Dove C1,  e  dipendono essenzialmente dalla fluidodinamica e dal tipo di riempimento
+
+
+    Processi e Impianti – Calcolo HOG                                                               Scienze chimiche
+                         Ora consideriamo il nostro sistema reale e avremo
+
+
+                                     𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+
+
+
+Processi e Impianti – Calcolo HOG                                            Scienze chimiche
+                            Ora consideriamo il nostro sistema reale e avremo
+
+
+                                        𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+Assumiamo che i sue sistemi abbiamo stesse caratteristiche fluidodinamiche (uguaglianza dei
+numeri di Reynolds) e che il riempimento sia dello stesso tipo (uguaglianza dei coefficienti ed
+                    esponenti della relazione tra i numeri adimensionali)
+
+
+
+
+   Processi e Impianti – Calcolo HOG                                                              Scienze chimiche
+                            Ora consideriamo il nostro sistema reale e avremo
+
+
+                                        𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+Assumiamo che i sue sistemi abbiamo stesse caratteristiche fluidodinamiche (uguaglianza dei
+numeri di Reynolds) e che il riempimento sia dello stesso tipo (uguaglianza dei coefficienti ed
+                    esponenti della relazione tra i numeri adimensionali)
+
+
+
+                 𝑅𝑒 𝑁𝐻3 = 𝑅𝑒                              𝐶1 = 𝐶2 , 𝛼 = 𝛾, 𝛽 = 𝛿
+
+
+
+
+   Processi e Impianti – Calcolo HOG                                                              Scienze chimiche
+                                       Ora consideriamo il nostro sistema reale e avremo
+
+
+                                                   𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+          Assumiamo che i sue sistemi abbiamo stesse caratteristiche fluidodinamiche (uguaglianza dei
+          numeri di Reynolds) e che il riempimento sia dello stesso tipo (uguaglianza dei coefficienti ed
+                              esponenti della relazione tra i numeri adimensionali)
+
+
+
+                            𝑅𝑒 𝑁𝐻3 = 𝑅𝑒                              𝐶1 = 𝐶2 , 𝛼 = 𝛾, 𝛽 = 𝛿
+
+
+Dividendo membro a                  𝑆ℎ      𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+membro le due relazioni                  =
+tra numeri adimensionali           𝑆ℎ 𝑁𝐻3 𝐶1 𝑅𝑒 𝛼 𝑆𝑐 𝛽
+                                                         𝑁𝐻3       𝑁𝐻3
+
+
+              Processi e Impianti – Calcolo HOG                                                             Scienze chimiche
+                                       Ora consideriamo il nostro sistema reale e avremo
+
+
+                                                   𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+          Assumiamo che i sue sistemi abbiamo stesse caratteristiche fluidodinamiche (uguaglianza dei
+          numeri di Reynolds) e che il riempimento sia dello stesso tipo (uguaglianza dei coefficienti ed
+                              esponenti della relazione tra i numeri adimensionali)
+
+
+
+                            𝑅𝑒 𝑁𝐻3 = 𝑅𝑒                              𝐶1 = 𝐶2 , 𝛼 = 𝛾, 𝛽 = 𝛿
+
+
+Dividendo membro a                  𝑆ℎ      𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+membro le due relazioni                  =
+tra numeri adimensionali           𝑆ℎ 𝑁𝐻3 𝐶1 𝑅𝑒 𝛼 𝑆𝑐 𝛽
+                                                         𝑁𝐻3       𝑁𝐻3
+
+
+              Processi e Impianti – Calcolo HOG                                                             Scienze chimiche
+                                       Ora consideriamo il nostro sistema reale e avremo
+
+
+                                                   𝑆ℎ = 𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿
+
+          Assumiamo che i sue sistemi abbiamo stesse caratteristiche fluidodinamiche (uguaglianza dei
+          numeri di Reynolds) e che il riempimento sia dello stesso tipo (uguaglianza dei coefficienti ed
+                              esponenti della relazione tra i numeri adimensionali)
+
+
+
+                            𝑅𝑒 𝑁𝐻3 = 𝑅𝑒                              𝐶1 = 𝐶2 , 𝛼 = 𝛾, 𝛽 = 𝛿
+
+                                                                                                                         𝛽
+Dividendo membro a                  𝑆ℎ      𝐶2 𝑅𝑒 𝛾 𝑆𝑐 𝛿                                                     𝑆𝑐
+membro le due relazioni                  =                                             𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+tra numeri adimensionali           𝑆ℎ 𝑁𝐻3 𝐶1 𝑅𝑒 𝛼 𝑆𝑐 𝛽                                                      𝑆𝑐 𝑁𝐻3
+                                                         𝑁𝐻3       𝑁𝐻3
+
+
+              Processi e Impianti – Calcolo HOG                                                              Scienze chimiche
+                                                           𝛽
+                                                   𝑆𝑐
+                                    𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                  𝑆𝑐 𝑁𝐻3
+
+
+
+
+Processi e Impianti – Calcolo HOG                              Scienze chimiche
+                                                                𝛽
+                                                        𝑆𝑐
+                                         𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                       𝑆𝑐 𝑁𝐻3
+
+Se conosciamo la natura del sistema reale allora conosciamo il valore dei due numeri di Schmidt
+
+
+
+
+     Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                                                      𝛽
+                                                             𝑆𝑐
+                                         𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                            𝑆𝑐 𝑁𝐻3
+
+Se conosciamo la natura del sistema reale allora conosciamo il valore dei due numeri di Schmidt
+
+      𝜇
+𝑆𝑐 =                      all’esponente β viene attribuito, con sufficiente approssimazione, un
+     𝜌𝐷𝑓                  valore pari a 2/3 e quindi l’unica incognita diventa:
+
+
+
+
+     Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                                                        𝛽
+                                                               𝑆𝑐
+                                           𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                              𝑆𝑐 𝑁𝐻3
+
+  Se conosciamo la natura del sistema reale allora conosciamo il valore dei due numeri di Schmidt
+
+       𝜇
+ 𝑆𝑐 =                       all’esponente β viene attribuito, con sufficiente approssimazione, un
+      𝜌𝐷𝑓                   valore pari a 2/3 e quindi l’unica incognita diventa:
+
+
+     𝒌′𝒄 𝐷
+𝑆ℎ =
+      𝐷𝑓
+
+
+
+
+       Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                                                        𝛽
+                                                               𝑆𝑐
+                                           𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                              𝑆𝑐 𝑁𝐻3
+
+  Se conosciamo la natura del sistema reale allora conosciamo il valore dei due numeri di Schmidt
+
+       𝜇
+ 𝑆𝑐 =                       all’esponente β viene attribuito, con sufficiente approssimazione, un
+      𝜌𝐷𝑓                   valore pari a 2/3 e quindi l’unica incognita diventa:
+
+
+     𝒌′𝒄 𝐷                                                                                      𝑉
+𝑆ℎ =                 Quindi ricaviamo 𝒌𝒄 da cui poi calcoliamo 𝒌𝒚 e quindi:          𝐻𝐺 =
+      𝐷𝑓                                                                                  𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+
+
+
+       Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                                                        𝛽
+                                                               𝑆𝑐
+                                           𝑆ℎ = 𝑆ℎ 𝑁𝐻3
+                                                              𝑆𝑐 𝑁𝐻3
+
+  Se conosciamo la natura del sistema reale allora conosciamo il valore dei due numeri di Schmidt
+
+       𝜇
+ 𝑆𝑐 =                       all’esponente β viene attribuito, con sufficiente approssimazione, un
+      𝜌𝐷𝑓                   valore pari a 2/3 e quindi l’unica incognita diventa:
+
+
+     𝒌′𝒄 𝐷                                                                                      𝑉
+𝑆ℎ =                 Quindi ricaviamo 𝒌𝒄 da cui poi calcoliamo 𝒌𝒚 e quindi:          𝐻𝐺 =
+      𝐷𝑓                                                                                  𝑘𝑦 𝑎𝑆 1 − 𝑦 𝑙𝑚
+
+                                                                         𝑉
+                    Possiamo ora calcolare                   𝐻𝑂𝐺 = 𝐻𝐺 + 𝑚 𝐻𝐿
+                                                                         𝐿
+       Processi e Impianti – Calcolo HOG                                                            Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                            Calcolo del Rapporto Ottimale L/V
+
+L’equazione della Curva di Lavoro si ricava dal bilancio di materia del componente che si trasferisce sulla
+                  porzione di colonna compresa tra la sezione 1 e una sezione generica
+
+
+
+
+           Processi e Impianti – Assorbimento_Calcolo L/V                                              Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                            Calcolo del Rapporto Ottimale L/V
+
+L’equazione della Curva di Lavoro si ricava dal bilancio di materia del componente che si trasferisce sulla
+                  porzione di colonna compresa tra la sezione 1 e una sezione generica
+
+
+                                                            𝑉1 𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿1 𝑥1
+
+
+
+
+           Processi e Impianti – Assorbimento_Calcolo L/V                                              Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                            Calcolo del Rapporto Ottimale L/V
+
+L’equazione della Curva di Lavoro si ricava dal bilancio di materia del componente che si trasferisce sulla
+                  porzione di colonna compresa tra la sezione 1 e una sezione generica
+
+
+                                                            𝑉1 𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿1 𝑥1
+
+                                   Per sistemi diluiti possiamo assumere costanti le portate di L e V lungo la colonna
+                                                                e quindi il bilancio diventa
+
+
+                                                            𝑉𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿𝑥1
+
+
+
+
+           Processi e Impianti – Assorbimento_Calcolo L/V                                                      Scienze chimiche
+                                            ASSORBIMENTO GAS – LIQUIDO
+                                            Calcolo del Rapporto Ottimale L/V
+
+L’equazione della Curva di Lavoro si ricava dal bilancio di materia del componente che si trasferisce sulla
+                  porzione di colonna compresa tra la sezione 1 e una sezione generica
+
+
+                                                            𝑉1 𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿1 𝑥1
+
+                                   Per sistemi diluiti possiamo assumere costanti le portate di L e V lungo la colonna
+                                                                e quindi il bilancio diventa
+
+
+                                                            𝑉𝑦1 + 𝐿𝑥 = 𝑉𝑦 + 𝐿𝑥1
+
+                                                                                          𝑦1 − 𝑦   𝐿
+                                               𝑉 𝑦1 − 𝑦 = 𝐿 𝑥1 − 𝑥                               =
+                                                                                          𝑥1 − 𝑥   𝑉
+           Processi e Impianti – Assorbimento_Calcolo L/V                                                      Scienze chimiche
+                                            y
+                                                                       retta di
+                                                                        lavoro
+                                          y1
+Essendo fissati i valori di
+y1, V, x2, y2, la retta di
+lavoro passa per il punto                               pendenza 𝐿ൗ𝑉
+(x2, y2) e la effettiva
+posizione del punto
+                                                                                   curva di
+rappresentativo della                                                             equilibrio
+sezione 1 dipende dalla
+pendenza L/V, cioè dal
+valore scelto per la portata               y2
+L di liquido
+
+                                           y*
+
+                                                   x2           x         x1                   x
+
+  Processi e Impianti – Assorbimento_Calcolo L/V                                                   Scienze chimiche
+                                           y
+Il rapporto L/V non può                                                  retta di
+comunque scendere sotto                                                   lavoro                 𝐿ൗ
+                                                                                                   𝑉 𝑚𝑖𝑛
+il valore (L/V)min                        y1
+determinato considerando
+l’intersezione della curva
+di equilibrio con la retta                                pendenza 𝐿ൗ𝑉
+orizzontale condotta per y
+= y1; in corrispondenza a
+                                                                                     curva di
+(L/V)min l’altezza richiesta                                                        equilibrio
+per la colonna di
+assorbimento è infinita a
+causa della “strozzatura”                  y2
+dei salti motore man mano
+che il punto di lavoro si
+avvicina alle condizioni                   y*
+rappresentate dalla
+sezione 1
+                                                     x2           x         x1                     x
+
+    Processi e Impianti – Assorbimento_Calcolo L/V                                                     Scienze chimiche
+                                              ASSORBIMENTO GAS – LIQUIDO
+                                              Calcolo del Rapporto Ottimale L/V
+
+
+
+
+Il valore ottimale di L/V (cioè la scelta dell’effettivo
+ valore da attribuire a L) viene ottenuto attraverso
+l’analisi tecnico-economica che tiene conto anche
+     della colonna di rigenerazione del liquido:
+
+
+
+
+             Processi e Impianti – Assorbimento_Calcolo L/V                       Scienze chimiche
+                                              ASSORBIMENTO GAS – LIQUIDO
+                                              Calcolo del Rapporto Ottimale L/V
+
+
+
+
+Il valore ottimale di L/V (cioè la scelta dell’effettivo
+ valore da attribuire a L) viene ottenuto attraverso
+l’analisi tecnico-economica che tiene conto anche
+     della colonna di rigenerazione del liquido:
+
+
+
+
+             Processi e Impianti – Assorbimento_Calcolo L/V                       Scienze chimiche
+                                               ASSORBIMENTO GAS – LIQUIDO
+                                               Calcolo del Rapporto Ottimale L/V
+
+
+Da questo schema risulta che un aumento di L
+(cioè del rapporto L/V) comporta un incremento
+dell’energia consumata dalle pompe per spingere
+nella colonna di rigenerazione il liquido contenente
+il gas assorbito e per spingere nella colonna di
+assorbimento il liquido rigenerato. Pertanto il costo
+di esercizio cresce all’aumentare di L/V.
+
+Per contro, al crescere di L/V aumentano i salti
+motore (come si evince dalla rappresentazione
+grafica delle curve di equilibrio e di lavoro nel piano
+x,y) e diminuisce, pertanto, l’altezza del
+riempimento, con conseguente diminuzione del
+costo d’impianto.
+
+
+
+              Processi e Impianti – Assorbimento_Calcolo L/V                       Scienze chimiche
+                                              Processi e Impianti Ind.GAS
+                                               ASSORBIMENTO            Chimici
+                                                                           – LIQUIDO
+                                               Calcolo del Rapporto Ottimale L/V
+
+
+Da questo schema risulta che un aumento di L
+(cioè del rapporto L/V) comporta un incremento
+                                                                 costo                               costo
+dell’energia consumata dalle pompe per spingere                                                      totale
+nella colonna di rigenerazione il liquido contenente
+il gas assorbito e per spingere nella colonna di
+assorbimento il liquido rigenerato. Pertanto il costo
+di esercizio cresce all’aumentare di L/V.                                        costo di
+                                                                                impianto
+                                                                                                    costo di
+Per contro, al crescere di L/V aumentano i salti                                                   esercizio
+motore (come si evince dalla rappresentazione
+grafica delle curve di equilibrio e di lavoro nel piano
+x,y) e diminuisce, pertanto, l’altezza del
+riempimento, con conseguente diminuzione del
+costo d’impianto.
+                                                                          ( L V )min        ( L V )ottimale L V
+
+              Processi e Impianti – Assorbimento_Calcolo L/V                                                  Scienze chimiche
+                                           Processi e Impianti Ind.GAS
+                                            ASSORBIMENTO            Chimici
+                                                                        – LIQUIDO
+                                            Calcolo del Rapporto Ottimale L/V
+
+
+
+
+                                                              costo                               costo
+                                                                                                  totale
+
+
+I costi di esercizio e di impianto presentano un
+andamento opposto al variare di L/V; esiste,                                  costo di
+                                                                             impianto
+pertanto, un valore ottimale del rapporto L/V in                                                 costo di
+corrispondenza del quale il costo totale presenta                                               esercizio
+un valore minimo
+
+
+
+
+                                                                       ( L V )min        ( L V )ottimale L V
+
+           Processi e Impianti – Assorbimento_Calcolo L/V                                                  Scienze chimiche
+

@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "LaTeX AI: compila main.tex",
+      "type": "shell",
+      "command": "./compile.sh main.tex",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "LaTeX AI: pulisci ausiliari",
+      "type": "shell",
+      "command": "latexmk -c || true",
+      "problemMatcher": []
+    }
+  ]
+}
