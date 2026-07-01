@@ -19,7 +19,6 @@
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.18}
 \usepackage{xcolor}
-\usepackage{graphicx}
 \usepackage{unicode-math}
 \usetikzlibrary{arrows.meta,calc,positioning}
 \usetikzlibrary{patterns.meta}
@@ -196,10 +195,72 @@
   \node[plotlightgreen,qlab,anchor=east] at (-0.90,2.25) {$i<0$\\vapore\\surriscaldato};
 \end{tikzpicture}%
 }
-\expandafter\newcommand\csname BoxGraphic08\endcsname{\MTQLinesMini}
 \newcommand{\MTPinchMini}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box10_pinch.pdf}%
+\begingroup
+\resizebox{0.97\linewidth}{!}{%
+\begin{tikzpicture}[x=3.05cm,y=2.55cm]
+  \definecolor{MTblue}{RGB}{0,92,180}
+  \definecolor{MTorange}{RGB}{230,120,0}
+  \definecolor{MTgreen}{RGB}{0,145,55}
+  \pgfmathsetmacro{\xB}{0.12}
+  \pgfmathsetmacro{\zF}{0.50}
+  \pgfmathsetmacro{\xD}{0.88}
+  \pgfmathsetmacro{\alphaMTlocal}{2.5}
+  \pgfmathsetmacro{\yPinch}{\alphaMTlocal*\zF/(1+(\alphaMTlocal-1)*\zF)}
+
+  % zone esterne ai limiti utili xB--xD
+  \path[
+    fill=gray!24,
+    fill opacity=0.30,
+    pattern={Lines[angle=45,distance=2.6pt,line width=0.22pt]},
+    pattern color=gray!68
+  ] (0,0) rectangle (\xB,1);
+  \path[
+    fill=gray!24,
+    fill opacity=0.30,
+    pattern={Lines[angle=45,distance=2.6pt,line width=0.22pt]},
+    pattern color=gray!68
+  ] (\xD,0) rectangle (1,1);
+
+  % griglia leggera
+  \foreach \g in {0.2,0.4,0.6,0.8}{%
+    \draw[gray!28,line width=0.18pt] (\g,0) -- (\g,1);
+    \draw[gray!28,line width=0.18pt] (0,\g) -- (1,\g);
+  }
+
+  % assi senza scritte x/y
+  \draw[-{Latex[length=3.0pt,width=2.2pt]},line width=0.45pt,draw=RuleCol] (0,0) -- (1.08,0);
+  \draw[-{Latex[length=3.0pt,width=2.2pt]},line width=0.45pt,draw=RuleCol] (0,0) -- (0,1.08);
+
+  % diagonale e curva di equilibrio
+  \draw[MTblue,line width=0.75pt] (0,0) -- (1,1);
+  \draw[MTorange,line width=0.95pt,domain=0:1,samples=120]
+    plot (\x,{\alphaMTlocal*\x/(1+(\alphaMTlocal-1)*\x)});
+
+  % segmenti verticali xB, zF, xD: asse x -> punto sulla diagonale
+  \foreach \xx/\lab in {\xB/x_B,\zF/z_F,\xD/x_D}{%
+    \draw[MTblue,densely dotted,line width=0.55pt] (\xx,0) -- (\xx,\xx);
+    \node[MTblue,font=\bfseries\fontsize{6.5}{6.6}\selectfont,anchor=north] at (\xx,-0.035) {$\lab$};
+  }
+
+  % q-line e pinch
+  \draw[MTblue,dashed,line width=0.72pt] (\zF,0) -- (\zF,1);
+  \fill[MTblue] (\zF,\yPinch) circle (1.25pt);
+  \node[font=\fontsize{6.0}{6.2}\selectfont,anchor=west] at (\zF+0.035,\yPinch+0.055) {pinch};
+
+  % mini legenda
+  \begin{scope}[shift={(0.49,0.08)}]
+    \fill[white,opacity=0.86] (0,0) rectangle (0.49,0.25);
+    \draw[gray!55,line width=0.25pt] (0,0) rectangle (0.49,0.25);
+    \draw[MTblue,line width=0.75pt] (0.03,0.190) -- (0.15,0.190);
+    \node[font=\fontsize{5.1}{5.2}\selectfont,anchor=west] at (0.17,0.190) {diagonale $y=x$};
+    \draw[MTorange,line width=0.95pt] (0.03,0.125) -- (0.15,0.125);
+    \node[font=\fontsize{5.1}{5.2}\selectfont,anchor=west] at (0.17,0.125) {curva equilibrio $y^*$};
+    \draw[MTblue,dashed,line width=0.72pt] (0.03,0.060) -- (0.15,0.060);
+    \node[font=\fontsize{5.1}{5.2}\selectfont,anchor=west] at (0.17,0.060) {q-line $i=1$};
+  \end{scope}
+\end{tikzpicture}%
+}%
 \endgroup}
 \newcommand{\MTCostMini}{%
 \begingroup
@@ -216,13 +277,92 @@
 }%
 \endgroup}
 \newcommand{\MTStepsMini}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box16_gradino_tipo.pdf}%
+\begingroup
+\resizebox{0.97\linewidth}{!}{%
+\begin{tikzpicture}[x=3.1cm,y=2.45cm]
+  \MTAxes\MTMarks
+  \draw[mtwork] (0,0.293) -- (0.88,0.88);
+  \draw[mtfeed] (0.45,0) -- (0.45,1.02);
+  \draw[mtstrip] (0.12,0.12) -- (0.45,0.593);
+  \draw[mtstep] (0.88,0.88) -- (0.55,0.88) -- (0.55,0.660) --
+    (0.345,0.660) -- (0.345,0.525) -- (0.285,0.525) --
+    (0.285,0.363) -- (0.205,0.363) -- (0.205,0.245) --
+    (0.145,0.245) -- (0.145,0.155);
+\end{tikzpicture}%
+}%
 \endgroup}
+\expandafter\newcommand\csname BoxGraphic08\endcsname{\MTQLinesMini}
+\expandafter\newcommand\csname BoxGraphic10\endcsname{\MTPinchMini}
+\expandafter\newcommand\csname BoxGraphic12\endcsname{\MTCostMini}
 \expandafter\newcommand\csname BoxGraphic16\endcsname{\MTStepsMini}
 \newcommand{\MTEquilibriumMini}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box04_equilibrio.pdf}%
+\begingroup
+\resizebox{0.97\linewidth}{!}{%
+\begin{tikzpicture}[x=3.05cm,y=2.55cm]
+  \definecolor{MTblue}{RGB}{0,92,180}
+  \definecolor{MTorange}{RGB}{230,120,0}
+  \pgfmathsetmacro{\xB}{0.12}
+  \pgfmathsetmacro{\zF}{0.50}
+  \pgfmathsetmacro{\xD}{0.88}
+  \pgfmathsetmacro{\alphaMTlocal}{2.5}
+
+  % zone esterne ai limiti utili xB--xD
+  \path[
+    fill=gray!24,
+    fill opacity=0.30,
+    pattern={Lines[angle=45,distance=2.6pt,line width=0.22pt]},
+    pattern color=gray!68
+  ] (0,0) rectangle (\xB,1);
+  \path[
+    fill=gray!24,
+    fill opacity=0.30,
+    pattern={Lines[angle=45,distance=2.6pt,line width=0.22pt]},
+    pattern color=gray!68
+  ] (\xD,0) rectangle (1,1);
+
+  % griglia leggera
+  \foreach \g in {0.2,0.4,0.6,0.8}{%
+    \draw[gray!28,line width=0.18pt] (\g,0) -- (\g,1);
+    \draw[gray!28,line width=0.18pt] (0,\g) -- (1,\g);
+  }
+
+  % assi senza scritte x/y
+  \draw[-{Latex[length=3.0pt,width=2.2pt]},line width=0.45pt,draw=RuleCol] (0,0) -- (1.08,0);
+  \draw[-{Latex[length=3.0pt,width=2.2pt]},line width=0.45pt,draw=RuleCol] (0,0) -- (0,1.08);
+
+  % diagonale e curva di equilibrio
+  \draw[MTblue,line width=0.75pt] (0,0) -- (1,1);
+  \draw[MTorange,line width=0.95pt,domain=0:1,samples=120]
+    plot (\x,{\alphaMTlocal*\x/(1+(\alphaMTlocal-1)*\x)});
+
+  % segmenti verticali: asse x -> punto sulla diagonale
+  \foreach \xx/\lab in {\xB/x_B,\zF/z_F,\xD/x_D}{%
+    \draw[MTblue,densely dotted,line width=0.55pt] (\xx,0) -- (\xx,\xx);
+    \node[MTblue,font=\bfseries\fontsize{6.5}{6.6}\selectfont,anchor=north] at (\xx,-0.035) {$\lab$};
+  }
+
+  % segmenti orizzontali: asse y -> punto sulla diagonale
+  \foreach \yy/\lab in {\xB/y_B,\zF/z_F,\xD/y_D}{%
+    \draw[MTblue,densely dotted,line width=0.55pt] (0,\yy) -- (\yy,\yy);
+    \node[MTblue,font=\bfseries\fontsize{6.5}{6.6}\selectfont,anchor=east] at (-0.035,\yy) {$\lab$};
+  }
+
+  % punti sulla diagonale
+  \fill[MTblue] (\xB,\xB) circle (1.0pt);
+  \fill[MTblue] (\zF,\zF) circle (1.0pt);
+  \fill[MTblue] (\xD,\xD) circle (1.0pt);
+
+  % mini legenda
+  \begin{scope}[shift={(0.50,0.08)}]
+    \fill[white,opacity=0.86] (0,0) rectangle (0.47,0.18);
+    \draw[gray!55,line width=0.25pt] (0,0) rectangle (0.47,0.18);
+    \draw[MTblue,line width=0.75pt] (0.03,0.125) -- (0.15,0.125);
+    \node[font=\fontsize{5.4}{5.5}\selectfont,anchor=west] at (0.17,0.125) {diagonale $y=x$};
+    \draw[MTorange,line width=0.95pt] (0.03,0.050) -- (0.15,0.050);
+    \node[font=\fontsize{5.4}{5.5}\selectfont,anchor=west] at (0.17,0.050) {curva equilibrio $y^*$};
+  \end{scope}
+\end{tikzpicture}%
+}%
 \endgroup}
 \expandafter\newcommand\csname BoxGraphic04\endcsname{\MTEquilibriumMini}
 
@@ -334,54 +474,137 @@
 % GRAFICO 05 — piano y-x base
 % ==================================================
 \newcommand{\MTPlaneBase}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box05_piano.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.7pt,
+    MTblue
+  ] coordinates {(\xBMT,\xBMT) (\zFMT,\zFMT) (\xDMT,\xDMT)};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic05\endcsname{\MTPlaneBase}
 
 % ==================================================
 % GRAFICO 07 — retta alta / arricchimento
 % ==================================================
 \newcommand{\MTHighRLine}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box07_retta_alta.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTgreen, domain=0:1, samples=2] {\mRMT*x+\bRMT};
+  \addlegendentry{retta alta $y_R$}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.7pt,
+    MTblue
+  ] coordinates {(\xDMT,\xDMT) (0,\bRMT)};
+  \node[font=\scriptsize, anchor=south east] at (axis cs:0.83,0.93) {$(x_D,x_D)$};
+  \node[font=\scriptsize, anchor=east] at (axis cs:0.12,\bRMT) {$x_D/(E+1)$};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic07\endcsname{\MTHighRLine}
 
 % ==================================================
 % GRAFICO 09 — se E è dato: costruzione diretta
 % ==================================================
 \newcommand{\MTDirectE}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box09_E_dato.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTgreen, domain=0:1, samples=2] {\mRMT*x+\bRMT};
+  \addlegendentry{$y_R$ con $E_{op}$}
+  \addplot[MTblue, dashed] coordinates {(\zFMT,0) (\zFMT,1)};
+  \addlegendentry{q-line $i=1$}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.8pt,
+    MTblue
+  ] coordinates {(\zFMT,\yPPMT)};
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.53,0.69) {$P=y_R\cap$ q-line};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic09\endcsname{\MTDirectE}
 
 % ==================================================
 % GRAFICO 11 — riflusso minimo Emin
 % ==================================================
 \newcommand{\MTMinimumR}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box11_retta_minima.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTblue, dashed] coordinates {(\zFMT,0) (\zFMT,1)};
+  \addlegendentry{q-line}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.9pt,
+    MTblue
+  ] coordinates {(\zFMT,\yPinchMT)};
+  \addlegendentry{pinch}
+  \addplot[MTgreen, domain=0:1, samples=2] {\mMinMT*x+\bMinMT};
+  \addlegendentry{retta minima}
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.54,0.74) {pinch};
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.72,0.86) {$E_{min}$};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic11\endcsname{\MTMinimumR}
 
 % ==================================================
 % GRAFICO 13 — punto cambio P operativo
 % ==================================================
 \newcommand{\MTSwitchP}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box13_p_operativo.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTgreen, domain=0:1, samples=2] {\mRMT*x+\bRMT};
+  \addlegendentry{retta alta reale}
+  \addplot[MTblue, dashed] coordinates {(\zFMT,0) (\zFMT,1)};
+  \addlegendentry{q-line}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.9pt,
+    MTblue
+  ] coordinates {(\zFMT,\yPPMT)};
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.53,0.69) {$P$ operativo};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic13\endcsname{\MTSwitchP}
 
 % ==================================================
 % GRAFICO 14 — retta bassa / esaurimento
 % ==================================================
 \newcommand{\MTLowSLine}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box14_retta_bassa.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTgreen, domain=0:1, samples=2] {\mRMT*x+\bRMT};
+  \addlegendentry{retta alta}
+  \addplot[MTblue, dashed] coordinates {(\zFMT,0) (\zFMT,1)};
+  \addlegendentry{q-line}
+  \addplot[MTred, domain=0:1, samples=2] {\mSMT*x+\bSMT};
+  \addlegendentry{retta bassa}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.9pt,
+    MTblue
+  ] coordinates {(\xBMT,\xBMT) (\zFMT,\yPPMT)};
+  \node[font=\scriptsize, anchor=north west] at (axis cs:0.16,0.10) {$(x_B,x_B)$};
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.53,0.65) {$P$};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic14\endcsname{\MTLowSLine}
 
 % ==================================================
@@ -389,9 +612,48 @@
 % Coordinate aggiornate per zF = 0.50
 % ==================================================
 \newcommand{\MTStairsNumbered}{%
-\begingroup\centering
-\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box17_gradini.pdf}%
-\endgroup}
+\begin{tikzpicture}
+\begin{axis}[MTaxis]
+  \MTCommonBase
+  \addplot[MTgreen, domain=0:1, samples=2] {\mRMT*x+\bRMT};
+  \addlegendentry{retta alta}
+  \addplot[MTred, domain=0:1, samples=2] {\mSMT*x+\bSMT};
+  \addlegendentry{retta bassa}
+  \addplot[MTblue, dashed] coordinates {(\zFMT,0) (\zFMT,1)};
+  \addlegendentry{feed}
+  \addplot[
+    only marks,
+    mark=*,
+    mark size=1.8pt,
+    MTblue
+  ] coordinates {(\zFMT,\yPPMT)};
+  % gradini McCabe-Thiele
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.880000,0.880000) (0.745763,0.880000)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.745763,0.880000) (0.745763,0.790508)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.745763,0.790508) (0.601496,0.790508)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.601496,0.790508) (0.601496,0.694331)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.601496,0.694331) (0.476057,0.694331)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.476057,0.694331) (0.476057,0.611828)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.476057,0.611828) (0.386790,0.611828)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.386790,0.611828) (0.386790,0.496200)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.386790,0.496200) (0.282147,0.496200)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.282147,0.496200) (0.282147,0.360092)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.282147,0.360092) (0.183813,0.360092)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.183813,0.360092) (0.183813,0.232200)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.183813,0.232200) (0.107902,0.232200)};
+  \addplot[MTpurple, line width=1.0pt] coordinates {(0.107902,0.232200) (0.107902,0.133488)};
+  % numeri piatti
+  \node[font=\scriptsize] at (axis cs:0.8129,0.902) {1};
+  \node[font=\scriptsize] at (axis cs:0.6736,0.813) {2};
+  \node[font=\scriptsize] at (axis cs:0.5388,0.716) {3};
+  \node[font=\scriptsize] at (axis cs:0.4314,0.634) {4};
+  \node[font=\scriptsize] at (axis cs:0.3345,0.518) {5};
+  \node[font=\scriptsize] at (axis cs:0.2330,0.382) {6};
+  \node[font=\scriptsize] at (axis cs:0.1459,0.254) {7};
+  \node[font=\scriptsize, anchor=west] at (axis cs:0.13,0.54) {cambio retta};
+\end{axis}
+\end{tikzpicture}%
+}
 \expandafter\newcommand\csname BoxGraphic17\endcsname{\MTStairsNumbered}
 
 \newcommand{\MTConversionFlow}{%
@@ -590,14 +852,12 @@ $%
 }{07}{retta alta}
 
 \StepSlide{08. Feed}{q-line/i-line}{%
-\sloppy
 \DCard{La retta di alimentazione rappresenta lo stato termico del feed e passa sempre per \((z_F,z_F)\).}
 \StepTinyEq{\scriptstyle\boxed{y_F=\tfrac{i}{i-1}x-\tfrac{z_F}{i-1}}}
 \vspace{-6pt}
 \StepTinyEq{\scriptstyle\boxed{i=\tfrac{H_V-H_F}{H_V-H_L}}}
 \UltraText{\(i=1\): vert. \(x=z_F\); \(i=0\): orizz. \(y=z_F\).\par
 \(0<i<1\): pend. neg.; \(i>1\): sottoraffr.; \(i<0\): surrisc.}
-\fussy
 }{08}{q-line}
 
 \StepSlide{09. Se \(E\) dato}{via diretta}{%

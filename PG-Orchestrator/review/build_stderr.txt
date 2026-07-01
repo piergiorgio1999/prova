@@ -1,0 +1,8 @@
+Latexmk: Missing input file 'mccabe_thiele_cards.aux' (or dependence on it) from following:
+  No file mccabe_thiele_cards.aux.
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.

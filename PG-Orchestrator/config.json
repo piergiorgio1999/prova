@@ -1,0 +1,7 @@
+{
+  "tex_file": "mccabe_thiele_cards.tex",
+  "pdf_file": "mccabe_thiele_cards.pdf",
+  "pages_to_render": [3],
+  "dpi": 200,
+  "chatgpt_url": "https://chatgpt.com/"
+}

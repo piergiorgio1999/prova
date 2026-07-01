@@ -1,0 +1,394 @@
+% !TeX program = lualatex
+% chktex-file 1
+% chktex-file 8
+% chktex-file 12
+% chktex-file 26
+% chktex-file 36
+\documentclass[a4paper,12pt]{standalone}
+
+\usepackage[
+  paperwidth=384bp,
+  paperheight=192bp,
+  left=3pt,
+  right=3pt,
+  top=2pt,
+  bottom=1pt
+]{geometry}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{unicode-math}
+\usetikzlibrary{arrows.meta,calc,positioning}
+\usetikzlibrary{patterns.meta}
+
+\setmainfont{Latin Modern Roman}
+\setmathfont{STIXTwoMath-Regular.otf}
+\setmathfont[version=bold,FakeBold=7]{STIXTwoMath-Regular.otf}
+
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.05pt}
+\setlength{\tabcolsep}{2.4pt}
+\renewcommand{\arraystretch}{1.02}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\emergencystretch=2em
+\hfuzz=4pt
+\hbadness=10000
+\raggedright
+
+\definecolor{Pcol}{RGB}{130,40,180}
+\definecolor{RuleCol}{RGB}{25,25,25}
+\definecolor{BoxBg}{RGB}{250,250,246}
+\definecolor{BoxEmpty}{RGB}{255,255,255}
+\definecolor{Good}{RGB}{20,130,45}
+\definecolor{Warn}{RGB}{210,85,20}
+\definecolor{Blue}{RGB}{35,105,200}
+\definecolor{PBlue}{RGB}{35,105,200}
+\definecolor{PRed}{RGB}{230,20,20}
+\definecolor{distblue}{RGB}{55,115,195}
+
+\makeatletter
+\renewcommand\Large{\@setfontsize\Large{15.2pt}{9.4pt}}
+\makeatother
+
+\newcommand{\mop}[1]{\mathop{\symrm{#1}}\nolimits}
+\renewcommand{\ln}{\mop{ln}}
+\newcommand{\SlideHead}[2]{{\fontsize{18.1}{10.4}\selectfont\bfseries #1}\hfill{\fontsize{18.1}{10.4}\selectfont\bfseries\textcolor{Pcol}{#2}}\par}
+\newcommand{\Slide}[2]{%
+  \newpage
+  \enlargethispage{30pt}%
+  \SlideHead{#1}{#2}%
+  \vspace{-1pt}\noindent\textcolor{RuleCol}{\rule{\linewidth}{0.55pt}}\par\vspace{-1pt}%
+}
+\newcommand{\FirstSlide}[2]{%
+  \enlargethispage{30pt}%
+  \SlideHead{#1}{#2}%
+  \vspace{-1pt}\noindent\textcolor{RuleCol}{\rule{\linewidth}{0.55pt}}\par\vspace{-1pt}%
+}
+\newcommand{\DCard}[1]{%
+  \vspace{0pt}\begingroup\setlength{\fboxsep}{1.05pt}%
+  \fcolorbox{RuleCol}{BoxBg}{\begin{minipage}{0.985\linewidth}{\fontsize{11.2}{11.75}\selectfont\bfseries #1}\end{minipage}}\par
+  \endgroup\vspace{0.7pt}%
+}
+\newcommand{\LargeText}[1]{{\par\noindent\fontsize{11.7}{12.2}\selectfont\ignorespaces #1\par}}
+\newcommand{\MaxText}[1]{{\par\noindent\fontsize{12.25}{12.7}\selectfont\ignorespaces #1\par}}
+\newcommand{\UltraText}[1]{{\par\noindent\fontsize{13.0}{13.45}\selectfont\ignorespaces #1\par}}
+\newcommand{\MegaText}[1]{{\par\noindent\fontsize{13.8}{14.2}\selectfont\ignorespaces #1\par}}
+\newcommand{\SmallText}[1]{{\par\noindent\fontsize{10.15}{10.65}\selectfont\ignorespaces #1\par}}
+\newcommand{\TinyText}[1]{{\par\noindent\fontsize{9.15}{9.55}\selectfont\ignorespaces #1\par}}
+\newcommand{\StepEq}[1]{{\fontsize{15.9}{14.2}\selectfont\[#1\]}}
+\newcommand{\StepTinyEq}[1]{{\fontsize{13.35}{11.45}\selectfont\[#1\]}}
+\newcommand{\StepMicroEq}[1]{{\fontsize{12.15}{10.45}\selectfont\[#1\]}}
+\newcommand{\StepMaxEq}[1]{{\fontsize{18.2}{16.0}\selectfont\[#1\]}}
+\newcommand{\MTTrayColumn}{%
+\begin{tikzpicture}[
+    Blue,
+    line width=1.35pt,
+    >=Stealth,
+    font=\sffamily\bfseries\boldmath\fontsize{28}{28}\selectfont,
+    scale=0.414,
+    transform shape
+]
+  \draw (-1,-2.5) -- (-1,2.5);
+  \draw (1,-2.5) -- (1,2.5);
+  \draw (1,2.5) arc (0:180:1);
+  \draw (-1,-2.5) arc (180:360:1);
+
+  \foreach \y in {-2.5,-2.0,-1.5,-1.0,-0.5,0,0.5,1.0,1.5,2.0,2.5} {
+    \draw (-1,\y) -- (1,\y);
+  }
+
+  \draw[->] (-2.5,0) -- (-1,0);
+  \node[anchor=south east] at (-1.5,0) {\(F\)};
+  \node[anchor=north east] at (-1.5,0) {\(H_F\)};
+
+  \draw[->] (0,3.5) -- (0,4.5) -- (2.5,4.5) node[pos=0.58,anchor=south] {\(V_1\)};
+  \draw (3,4.5) circle (0.5);
+  \draw[->] (2.5,4.0) -- (3.5,5.0);
+  \node[anchor=west] at (3.5,4.5) {\(q_c\)};
+
+  \draw (3,4.0) -- (3,3.7);
+  \draw[rounded corners=8pt] (2.0,3.1) rectangle (4.0,3.7);
+
+  \draw (3,3.1) -- (3,2.6);
+  \draw[->] (3,2.6) -- (1,2.6) node[pos=0.47,anchor=north,yshift=-10pt] {\(L_0\)};
+  \draw[->] (3,2.6) -- (5.5,2.6) node[pos=0.90,anchor=south west,xshift=5pt,yshift=8pt] {\(D,H_D\)};
+
+  \draw (0,-3.5) -- (0,-4.8);
+  \draw[->] (0,-4.8) -- (0,-5.8) node[anchor=north] {\(B,H_B\)};
+
+  \draw (0,-4.8) -- (3,-4.8) -- (3,-4.5);
+  \draw (3,-4.0) circle (0.5);
+  \draw (3,-4.0) -- (3.5,-3.7) -- (3.5,-4.3) -- cycle;
+  \draw (3.5,-3.8) -- (3.8,-3.8);
+  \draw (3.5,-4.2) -- (3.8,-4.2);
+  \node[anchor=west] at (3.9,-4.0) {\(q_e\)};
+
+  \draw[->] (3,-3.5) -- (3,-3.1) -- (0.7,-3.1);
+\end{tikzpicture}%
+}
+\expandafter\newcommand\csname BoxGraphic01\endcsname{\raisebox{-10pt}{\MTTrayColumn}}
+\tikzset{
+  mtaxis/.style={-{Latex[length=4.0pt,width=3.0pt]}, line width=0.45pt, draw=RuleCol},
+  mtdiag/.style={line width=0.55pt, draw=RuleCol},
+  mtwork/.style={line width=1.0pt, draw=PRed},
+  mtstrip/.style={line width=1.0pt, draw=Good},
+  mtfeed/.style={line width=1.0pt, draw=Pcol},
+  mtstep/.style={line width=0.82pt, draw=RuleCol},
+  mtlab/.style={font=\fontsize{6.2}{6.4}\selectfont\bfseries, inner sep=0.25pt},
+  mtdot/.style={circle, fill=RuleCol, inner sep=0.8pt}
+}
+\newcommand{\MTAxes}{%
+  \draw[mtaxis] (0,0) -- (1.08,0) node[mtlab,below] {$x$};
+  \draw[mtaxis] (0,0) -- (0,1.08) node[mtlab,left] {$y$};
+  \draw[mtdiag] (0,0) -- (1,1) node[mtlab,above right] {$y=x$};
+}
+\newcommand{\MTMarks}{%
+  \foreach \x/\lab in {0.12/x_B,0.45/z_F,0.88/x_D}{%
+    \draw[RuleCol,line width=0.3pt] (\x,0) -- (\x,-0.025) node[mtlab,below] {$\lab$};}
+}
+\newcommand{\MTQLinesMini}{%
+% ==================================================
+% SLIDE 08 — PARAMETRI GRAFICO Q-LINE
+% ==================================================
+% Modifica qui sotto per cambiare scala/posizione:
+%   \def\MTQLinesScale{0.42}   % scala unità -> cm
+%   \def\MTQLinesShiftX{0.0}   % spostamento orizzontale (cm)
+%   \def\MTQLinesShiftY{0.0}   % spostamento verticale (cm)
+% ==================================================
+\def\MTQLinesScale{0.42}
+\def\MTQLinesShiftX{0.0}
+\def\MTQLinesShiftY{0.0}
+\begin{tikzpicture}[x=\MTQLinesScale cm,y=\MTQLinesScale cm,line width=0.70pt]
+  \pgftransformshift{\MTQLinesShiftX cm}{\MTQLinesShiftY cm}
+  \definecolor{plotblue}{RGB}{0,112,192}
+  \definecolor{plotpurple}{RGB}{112,48,160}
+  \definecolor{plotgreen}{RGB}{0,176,80}
+  \definecolor{plotlightgreen}{RGB}{169,208,142}
+  \definecolor{plotorange}{RGB}{255,192,0}
+  \definecolor{plotred}{RGB}{255,0,0}
+  \tikzset{qlab/.style={align=center,font=\fontsize{4.7}{4.85}\selectfont\bfseries,inner sep=0.2pt}}
+  \draw[plotblue] (0,10) -- (10,10) -- (10,0);
+  \draw[plotblue,-{Latex[length=2.8pt,width=2.0pt]}] (0,0) -- (10.70,0);
+  \draw[plotblue,-{Latex[length=2.8pt,width=2.0pt]}] (0,0) -- (0,10.70);
+  \draw[plotblue] (0,0) -- (10,10);
+  \coordinate (ZF) at (5.5,5.5);
+  \draw[plotblue,dashed,line width=0.4pt] (5.5,0) -- (ZF);
+  \draw[plotred] (ZF) -- (5.5,10.75);
+  \draw[plotorange] (ZF) -- (8.1,10.75);
+  \draw[plotpurple] (ZF) -- (0.25,10.75);
+  \draw[plotgreen] (ZF) -- (-0.75,5.5);
+  \draw[plotlightgreen] (ZF) -- (-0.75,2.25);
+  \fill[plotblue] (ZF) circle (0.95pt);
+  \node[plotblue,font=\fontsize{7.4}{7.4}\selectfont\bfseries\itshape] at (-0.85,9.05) {$y$};
+  \node[plotblue,font=\fontsize{7.4}{7.4}\selectfont\bfseries\itshape] at (9.05,-0.85) {$x$};
+  \node[plotblue,font=\fontsize{5.5}{5.5}\selectfont\bfseries,left=2pt] at (0,0) {0};
+  \node[plotblue,font=\fontsize{5.5}{5.5}\selectfont\bfseries,left=2pt] at (0,10) {1};
+  \node[plotblue,font=\fontsize{5.5}{5.5}\selectfont\bfseries,below=2pt] at (10,0) {1};
+  \node[plotblue,font=\fontsize{6.7}{6.7}\selectfont\bfseries\itshape,anchor=south west] at (4.5,-2) {$z_F$};
+  \node[plotpurple,qlab,anchor=south] at (0.1,10.78) {$0<i<1$\\miscela\\liq./vap.};
+  \node[plotred,qlab,anchor=south] at (5.55,10.95) {$i=1$\\liq. a eboll.};
+  \node[plotorange,qlab,anchor=south west] at (8.05,10.78) {$i>1$\\liquido\\sottoraffr.};
+  \node[plotgreen,qlab,anchor=east] at (-0.90,5.50) {$i=0$\\vap. a rugiada};
+  \node[plotlightgreen,qlab,anchor=east] at (-0.90,2.25) {$i<0$\\vapore\\surriscaldato};
+\end{tikzpicture}%
+}
+\expandafter\newcommand\csname BoxGraphic08\endcsname{\MTQLinesMini}
+\newcommand{\MTPinchMini}{%
+\begingroup\centering
+\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box10_pinch.pdf}%
+\endgroup}
+\newcommand{\MTCostMini}{%
+\begingroup
+\resizebox{0.97\linewidth}{!}{%
+\begin{tikzpicture}[x=1.26cm,y=1.08cm]
+  \draw[mtaxis] (0,0) -- (4.2,0) node[mtlab,below] {$E_{op}$};
+  \draw[mtaxis] (0,0) -- (0,2.1) node[mtlab,left] {costo};
+  \draw[PRed,line width=0.85pt] (0.55,1.9) .. controls (1.1,0.8) and (2.4,0.35) .. (4.0,0.25) node[mtlab,right] {imp.};
+  \draw[PBlue,line width=0.85pt] (0.55,0.22) .. controls (1.7,0.45) and (3.0,1.1) .. (4.0,1.9) node[mtlab,right] {eserc.};
+  \draw[Good,line width=0.95pt] (0.55,2.0) .. controls (1.2,1.0) and (2.3,1.0) .. (4.0,2.05) node[mtlab,right] {tot.};
+  \draw[dashed,line width=0.35pt] (0.55,0) node[mtlab,below] {$E_{min}$} -- (0.55,1.85);
+  \draw[dashed,line width=0.35pt] (2.05,0) node[mtlab,below] {$E_{ott}$} -- (2.05,1.02);
+\end{tikzpicture}%
+}%
+\endgroup}
+\newcommand{\MTStepsMini}{%
+\begingroup\centering
+\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box16_gradino_tipo.pdf}%
+\endgroup}
+\expandafter\newcommand\csname BoxGraphic16\endcsname{\MTStepsMini}
+\newcommand{\MTEquilibriumMini}{%
+\begingroup\centering
+\includegraphics[width=0.97\linewidth]{graphics/mccabe_vector/mccabe_box04_equilibrio.pdf}%
+\endgroup}
+\expandafter\newcommand\csname BoxGraphic04\endcsname{\MTEquilibriumMini}
+
+% ==================================================
+% Grafici McCabe-Thiele TikZ/PGFPlots
+% Versione preview approvabile
+% ==================================================
+
+% ---------- colori ----------
+\definecolor{MTblue}{RGB}{0,92,180}
+\definecolor{MTorange}{RGB}{230,120,0}
+\definecolor{MTgreen}{RGB}{0,145,55}
+\definecolor{MTred}{RGB}{210,45,45}
+\definecolor{MTpurple}{RGB}{150,70,190}
+\definecolor{MTgray}{RGB}{120,120,120}
+
+% ---------- parametri comuni ----------
+\pgfmathsetmacro{\xBMT}{0.12}
+\pgfmathsetmacro{\zFMT}{0.50}
+\pgfmathsetmacro{\xDMT}{0.88}
+\pgfmathsetmacro{\alphaMT}{2.5}
+\pgfmathsetmacro{\EopMT}{2.0}
+
+% curva equilibrio: y = alpha*x/(1+(alpha-1)*x)
+% retta alta: yR = E/(E+1)*x + xD/(E+1)
+\pgfmathsetmacro{\mRMT}{\EopMT/(\EopMT+1)}
+\pgfmathsetmacro{\bRMT}{\xDMT/(\EopMT+1)}
+\pgfmathsetmacro{\yPPMT}{\mRMT*\zFMT+\bRMT}
+
+% retta bassa: passa per (xB,xB) e P=(zF,yP)
+\pgfmathsetmacro{\mSMT}{(\yPPMT-\xBMT)/(\zFMT-\xBMT)}
+\pgfmathsetmacro{\bSMT}{\xBMT-\mSMT*\xBMT}
+
+% pinch per q-line verticale: Ppinch = (zF, y*(zF))
+\pgfmathsetmacro{\yPinchMT}{\alphaMT*\zFMT/(1+(\alphaMT-1)*\zFMT)}
+\pgfmathsetmacro{\mMinMT}{(\yPinchMT-\xDMT)/(\zFMT-\xDMT)}
+\pgfmathsetmacro{\bMinMT}{\xDMT-\mMinMT*\xDMT}
+
+% ---------- stile asse comune ----------
+\pgfplotsset{
+  MTaxis/.style={
+    width=0.92\linewidth,
+    height=0.92\linewidth,
+    xmin=0, xmax=1,
+    ymin=0, ymax=1,
+    axis equal image,
+    grid=both,
+    minor tick num=0,
+    major grid style={line width=0.25pt, draw=gray!35},
+    tick style={line width=0.35pt},
+    axis line style={line width=0.45pt},
+    tick label style={font=\scriptsize},
+    legend style={
+      font=\scriptsize,
+      draw=gray!50,
+      fill=white,
+      fill opacity=0.85,
+      text opacity=1,
+      cells={anchor=west}
+    },
+    legend pos=south east,
+    xlabel={},
+    ylabel={},
+    every axis plot/.append style={line width=0.9pt},
+    clip=false
+  }
+}
+
+% ---------- base comune ----------
+\newcommand{\MTCommonBase}{%
+  % zone escluse: x < xB e x > xD
+  \addplot[
+    draw=none,
+    fill=gray!25,
+    fill opacity=0.28,
+    pattern={Lines[angle=45,distance=3pt,line width=0.25pt]},
+    pattern color=gray!70
+  ] coordinates {(0,0) (\xBMT,0) (\xBMT,1) (0,1)} \closedcycle;
+
+  \addplot[
+    draw=none,
+    fill=gray!25,
+    fill opacity=0.28,
+    pattern={Lines[angle=45,distance=3pt,line width=0.25pt]},
+    pattern color=gray!70
+
+\begin{document}
+\pagestyle{empty}
+\thispagestyle{empty}
+
+% Box 01 - Tray column
+\begin{center}
+\StepBox{01}
+\end{center}
+\newpage
+
+% Box 04 - Equilibrium
+\begin{center}
+\StepBox{04}
+\end{center}
+\newpage
+
+% Box 05 - Plane base
+\begin{center}
+\StepBox{05}
+\end{center}
+\newpage
+
+% Box 07 - High R line
+\begin{center}
+\StepBox{07}
+\end{center}
+\newpage
+
+% Box 08 - Q-lines
+\begin{center}
+\StepBox{08}
+\end{center}
+\newpage
+
+% Box 09 - Direct E
+\begin{center}
+\StepBox{09}
+\end{center}
+\newpage
+
+% Box 10 - Pinch
+\begin{center}
+\StepBox{10}
+\end{center}
+\newpage
+
+% Box 11 - Minimum R
+\begin{center}
+\StepBox{11}
+\end{center}
+\newpage
+
+% Box 12 - Cost
+\begin{center}
+\StepBox{12}
+\end{center}
+\newpage
+
+% Box 13 - Switch P
+\begin{center}
+\StepBox{13}
+\end{center}
+\newpage
+
+% Box 14 - Low S line
+\begin{center}
+\StepBox{14}
+\end{center}
+\newpage
+
+% Box 16 - Steps
+\begin{center}
+\StepBox{16}
+\end{center}
+\newpage
+
+% Box 17 - Stairs numbered
+\begin{center}
+\StepBox{17}
+\end{center}
+\newpage
+
+\end{document}
