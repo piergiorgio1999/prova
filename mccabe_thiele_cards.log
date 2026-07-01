@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.6.3)  1 JUL 2026 03:04
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.6.3)  1 JUL 2026 03:29
  restricted system commands enabled.
 **mccabe_thiele_cards.tex
 (./mccabe_thiele_cards.tex
@@ -998,7 +998,7 @@ c, 79 attribute_list, 2 write nodes
    avail lists: 1:1,2:1076,3:800,4:300,5:377,6:105,7:2777,8:44,9:775,10:15,11:14
 4
  43798 multiletter control sequences out of 65536+600000
- 369 fonts using 240351611 bytes
+ 369 fonts using 240352435 bytes
  102i,18n,101p,418b,905s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/pg/Library/Fonts/lmroman6-bold.otf></Users/pg/Library/Fonts/LaTeX_Fonts/
 latinmodern/lmroman5-bold.otf></Users/pg/Library/Fonts/lmroman17-regular.otf></U
